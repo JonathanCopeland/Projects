@@ -1,0 +1,646 @@
+{
+    "name": "Video Games",
+    "description": "Virtual heroes and heroines",
+    "levels": [
+        [
+            {
+                "solution": "ARAN",
+                "hint": "Metroid Prime explorer",
+                "segments": [
+                    "AR",
+                    "AN"
+                ]
+            },
+            {
+                "solution": "HEIHACHI",
+                "hint": "Powerful fighting boss",
+                "segments": [
+                    "HE",
+                    "IH",
+                    "AC",
+                    "HI"
+                ]
+            },
+            {
+                "solution": "RIDLEY",
+                "hint": "The cunning god of death",
+                "segments": [
+                    "RI",
+                    "DL",
+                    "EY"
+                ]
+            },
+            {
+                "solution": "MARCUS",
+                "hint": "Gears of War soldier",
+                "segments": [
+                    "MA",
+                    "RC",
+                    "US"
+                ]
+            },
+            {
+                "solution": "PACMAN",
+                "hint": "Yellow dot muncher",
+                "segments": [
+                    "PA",
+                    "CM",
+                    "AN"
+                ]
+            },
+            {
+                "solution": "DEDEDE",
+                "hint": "Repetitive arch-enemy",
+                "segments": [
+                    "DE",
+                    "DE",
+                    "DE"
+                ]
+            },
+            {
+                "solution": "NATHAN",
+                "hint": "Uncharted adventurer",
+                "segments": [
+                    "NAT",
+                    "HAN"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SACKBOY",
+                "hint": "Zip-up cuddly hero",
+                "segments": [
+                    "SA",
+                    "CK",
+                    "BOY"
+                ]
+            },
+            {
+                "solution": "LARA",
+                "hint": "Croft of tombs",
+                "segments": [
+                    "LA",
+                    "RA"
+                ]
+            },
+            {
+                "solution": "BOWSER",
+                "hint": "Fiery turtle nemesis",
+                "segments": [
+                    "BO",
+                    "WS",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "DOOMGUY",
+                "hint": "Hell's worst enemy",
+                "segments": [
+                    "DO",
+                    "OM",
+                    "GUY"
+                ]
+            },
+            {
+                "solution": "GERALT",
+                "hint": "Witcher with white hair",
+                "segments": [
+                    "GE",
+                    "RA",
+                    "LT"
+                ]
+            },
+            {
+                "solution": "MICHAEL",
+                "hint": "Los Santos criminal",
+                "segments": [
+                    "MI",
+                    "CH",
+                    "AEL"
+                ]
+            },
+            {
+                "solution": "BLANKA",
+                "hint": "Mutant battler",
+                "segments": [
+                    "BL",
+                    "AN",
+                    "KA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "MASTERCHIEF",
+                "hint": "Spartan savior",
+                "segments": [
+                    "MAS",
+                    "TER",
+                    "CHI",
+                    "EF"
+                ]
+            },
+            {
+                "solution": "TOADETTE",
+                "hint": "Long-haired fungirl",
+                "segments": [
+                    "TO",
+                    "AD",
+                    "ET",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "MARIO",
+                "hint": "Plumbing hero",
+                "segments": [
+                    "MAR",
+                    "IO"
+                ]
+            },
+            {
+                "solution": "SEPHIROTH",
+                "hint": "Megacorp experiment",
+                "segments": [
+                    "SE",
+                    "PH",
+                    "IR",
+                    "OTH"
+                ]
+            },
+            {
+                "solution": "LAKITU",
+                "hint": "Cloud-based film makers",
+                "segments": [
+                    "LAK",
+                    "ITU"
+                ]
+            },
+            {
+                "solution": "KIRBY",
+                "hint": "Hungry pink puffball",
+                "segments": [
+                    "KI",
+                    "RBY"
+                ]
+            },
+            {
+                "solution": "ELLIE",
+                "hint": "Immune survivor",
+                "segments": [
+                    "EL",
+                    "LIE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "VAULTBOY",
+                "hint": "Fallout's mascot",
+                "segments": [
+                    "VA",
+                    "UL",
+                    "TB",
+                    "OY"
+                ]
+            },
+            {
+                "solution": "INKLING",
+                "hint": "Squid sprayer",
+                "segments": [
+                    "INK",
+                    "LING"
+                ]
+            },
+            {
+                "solution": "WALUIGI",
+                "hint": "Luigi's sinister counterpart",
+                "segments": [
+                    "WA",
+                    "LU",
+                    "IGI"
+                ]
+            },
+            {
+                "solution": "PALUTENA",
+                "hint": "Mighty Icarus goddess",
+                "segments": [
+                    "PA",
+                    "LU",
+                    "TE",
+                    "NA"
+                ]
+            },
+            {
+                "solution": "MEGAMAN",
+                "hint": "Blue bomber",
+                "segments": [
+                    "ME",
+                    "GA",
+                    "MAN"
+                ]
+            },
+            {
+                "solution": "TAILS",
+                "hint": "Two-tailed companion",
+                "segments": [
+                    "TAI",
+                    "LS"
+                ]
+            },
+            {
+                "solution": "PEACH",
+                "hint": "Mushroom Kingdom royalty",
+                "segments": [
+                    "PEA",
+                    "CH"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "DHALSIM",
+                "hint": "Stretchy yogi fighter",
+                "segments": [
+                    "DHA",
+                    "LSIM"
+                ]
+            },
+            {
+                "solution": "TRACER",
+                "hint": "Cheers, love!",
+                "segments": [
+                    "TR",
+                    "AC",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "BALROG",
+                "hint": "Boxer turned baddie",
+                "segments": [
+                    "BAL",
+                    "ROG"
+                ]
+            },
+            {
+                "solution": "BANJO",
+                "hint": "Bear with a bird",
+                "segments": [
+                    "BA",
+                    "NJO"
+                ]
+            },
+            {
+                "solution": "SONIC",
+                "hint": "Speedy blue hedgehog",
+                "segments": [
+                    "SO",
+                    "NIC"
+                ]
+            },
+            {
+                "solution": "BLAZKOWICZ",
+                "hint": "Wolfenstein explorer",
+                "segments": [
+                    "BL",
+                    "AZ",
+                    "KO",
+                    "WI",
+                    "CZ"
+                ]
+            },
+            {
+                "solution": "GANONDORF",
+                "hint": "Powerful Gerudo warlock",
+                "segments": [
+                    "GA",
+                    "NO",
+                    "ND",
+                    "ORF"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ISABELLE",
+                "hint": "Diligent animal assistant",
+                "segments": [
+                    "IS",
+                    "AB",
+                    "EL",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "LUIGI",
+                "hint": "Green overalls sidekick",
+                "segments": [
+                    "LUI",
+                    "GI"
+                ]
+            },
+            {
+                "solution": "CUPHEAD",
+                "hint": "Run and gun tea",
+                "segments": [
+                    "CU",
+                    "PH",
+                    "EAD"
+                ]
+            },
+            {
+                "solution": "ZANGIEF",
+                "hint": "Street grappler",
+                "segments": [
+                    "ZA",
+                    "NG",
+                    "IEF"
+                ]
+            },
+            {
+                "solution": "TREVOR",
+                "hint": "Grand Theft wildcard",
+                "segments": [
+                    "TR",
+                    "EV",
+                    "OR"
+                ]
+            },
+            {
+                "solution": "RESETTI",
+                "hint": "Angry animal save checker",
+                "segments": [
+                    "RE",
+                    "SE",
+                    "TTI"
+                ]
+            },
+            {
+                "solution": "SAMUS",
+                "hint": "Bounty hunting in space",
+                "segments": [
+                    "SAM",
+                    "US"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "MCCREE",
+                "hint": "High-noon shooter",
+                "segments": [
+                    "MC",
+                    "CR",
+                    "EE"
+                ]
+            },
+            {
+                "solution": "RAYMAN",
+                "hint": "Limbless wonder",
+                "segments": [
+                    "RA",
+                    "YM",
+                    "AN"
+                ]
+            },
+            {
+                "solution": "KRATOS",
+                "hint": "God of War",
+                "segments": [
+                    "KR",
+                    "AT",
+                    "OS"
+                ]
+            },
+            {
+                "solution": "JOEL",
+                "hint": "Post-apocalyptic protector",
+                "segments": [
+                    "JO",
+                    "EL"
+                ]
+            },
+            {
+                "solution": "BAYONETTA",
+                "hint": "Witchy hair magic",
+                "segments": [
+                    "BA",
+                    "YO",
+                    "NE",
+                    "TTA"
+                ]
+            },
+            {
+                "solution": "KAZOOIE",
+                "hint": "Backpack bird buddy",
+                "segments": [
+                    "KAZ",
+                    "OOIE"
+                ]
+            },
+            {
+                "solution": "MARSTON",
+                "hint": "Red Dead cowboy",
+                "segments": [
+                    "MA",
+                    "RS",
+                    "TON"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ROSALINA",
+                "hint": "Comet observer",
+                "segments": [
+                    "RO",
+                    "SA",
+                    "LI",
+                    "NA"
+                ]
+            },
+            {
+                "solution": "RATCHET",
+                "hint": "Wrench-wielding Lombax",
+                "segments": [
+                    "RA",
+                    "TC",
+                    "HET"
+                ]
+            },
+            {
+                "solution": "BLOOPER",
+                "hint": "Ocean-dwelling inkers",
+                "segments": [
+                    "BL",
+                    "OO",
+                    "PER"
+                ]
+            },
+            {
+                "solution": "DUKE",
+                "hint": "Foul-mouthed alien basher",
+                "segments": [
+                    "DU",
+                    "KE"
+                ]
+            },
+            {
+                "solution": "AURENE",
+                "hint": "Guild Wars 2 dragon",
+                "segments": [
+                    "AUR",
+                    "ENE"
+                ]
+            },
+            {
+                "solution": "ZELDA",
+                "hint": "Hyrule princess",
+                "segments": [
+                    "ZE",
+                    "LDA"
+                ]
+            },
+            {
+                "solution": "HWOARANG",
+                "hint": "Taekwondo master",
+                "segments": [
+                    "HW",
+                    "OA",
+                    "RA",
+                    "NG"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SOLID",
+                "hint": "Snake in a box",
+                "segments": [
+                    "SO",
+                    "LID"
+                ]
+            },
+            {
+                "solution": "LINK",
+                "hint": "Green-hatted hero",
+                "segments": [
+                    "LI",
+                    "NK"
+                ]
+            },
+            {
+                "solution": "DONKEYKONG",
+                "hint": "Barrel-throwing ape",
+                "segments": [
+                    "DO",
+                    "NK",
+                    "EY",
+                    "KO",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "ULDREN",
+                "hint": "Destiny's fallen prince",
+                "segments": [
+                    "UL",
+                    "DR",
+                    "EN"
+                ]
+            },
+            {
+                "solution": "GLADOS",
+                "hint": "Cake-promising AI",
+                "segments": [
+                    "GL",
+                    "AD",
+                    "OS"
+                ]
+            },
+            {
+                "solution": "GORDON",
+                "hint": "Silent crowbar swinger",
+                "segments": [
+                    "GO",
+                    "RD",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "CORTANA",
+                "hint": "AI sidekick",
+                "segments": [
+                    "COR",
+                    "TANA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "FRANKLIN",
+                "hint": "Streetwise protagonist",
+                "segments": [
+                    "FR",
+                    "AN",
+                    "KL",
+                    "IN"
+                ]
+            },
+            {
+                "solution": "GAIDEN",
+                "hint": "Ninja of shadows",
+                "segments": [
+                    "GAI",
+                    "DEN"
+                ]
+            },
+            {
+                "solution": "REAPER",
+                "hint": "Edgy Overwatch dealer",
+                "segments": [
+                    "REA",
+                    "PER"
+                ]
+            },
+            {
+                "solution": "SHEPARD",
+                "hint": "Mass Effect commander",
+                "segments": [
+                    "SH",
+                    "EP",
+                    "ARD"
+                ]
+            },
+            {
+                "solution": "CLANK",
+                "hint": "Robotic sidekick",
+                "segments": [
+                    "CLA",
+                    "NK"
+                ]
+            },
+            {
+                "solution": "FAITH",
+                "hint": "Mirror's Edge runner",
+                "segments": [
+                    "FAI",
+                    "TH"
+                ]
+            },
+            {
+                "solution": "DRAGONBORN",
+                "hint": "Skyrim's savior",
+                "segments": [
+                    "DR",
+                    "AG",
+                    "ON",
+                    "BO",
+                    "RN"
+                ]
+            }
+        ]
+    ]
+}

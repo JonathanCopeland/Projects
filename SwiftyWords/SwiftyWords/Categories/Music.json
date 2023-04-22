@@ -1,0 +1,646 @@
+{
+    "name": "Music",
+    "description": "Something to make your heart sing",
+    "levels": [
+        [
+            {
+                "solution": "RAGTIME",
+                "hint": "Syncopated stride predecessor",
+                "segments": [
+                    "RA",
+                    "GT",
+                    "IME"
+                ]
+            },
+            {
+                "solution": "PRELUDE",
+                "hint": "Musical introduction's warmup",
+                "segments": [
+                    "PR",
+                    "EL",
+                    "UDE"
+                ]
+            },
+            {
+                "solution": "GENRE",
+                "hint": "Musical categorization",
+                "segments": [
+                    "GEN",
+                    "RE"
+                ]
+            },
+            {
+                "solution": "UKULELE",
+                "hint": "Mini guitar's Hawaiian cousin",
+                "segments": [
+                    "UK",
+                    "UL",
+                    "ELE"
+                ]
+            },
+            {
+                "solution": "TANGO",
+                "hint": "Passionate Argentine embrace",
+                "segments": [
+                    "TAN",
+                    "GO"
+                ]
+            },
+            {
+                "solution": "MELODY",
+                "hint": "Tune's hummable charm",
+                "segments": [
+                    "ME",
+                    "LO",
+                    "DY"
+                ]
+            },
+            {
+                "solution": "GLISSANDO",
+                "hint": "Smooth slide between notes",
+                "segments": [
+                    "GL",
+                    "IS",
+                    "SA",
+                    "NDO"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "TUBA",
+                "hint": "Brass's bassy giant",
+                "segments": [
+                    "TU",
+                    "BA"
+                ]
+            },
+            {
+                "solution": "ARPEGGIO",
+                "hint": "Chord's note-by-note ascent",
+                "segments": [
+                    "AR",
+                    "PE",
+                    "GG",
+                    "IO"
+                ]
+            },
+            {
+                "solution": "BARITONE",
+                "hint": "Middle male voice",
+                "segments": [
+                    "BA",
+                    "RI",
+                    "TO",
+                    "NE"
+                ]
+            },
+            {
+                "solution": "CONCERTO",
+                "hint": "Soloist's symphonic dance",
+                "segments": [
+                    "CO",
+                    "NC",
+                    "ER",
+                    "TO"
+                ]
+            },
+            {
+                "solution": "TIMBRE",
+                "hint": "Instrument's unique voice",
+                "segments": [
+                    "TIM",
+                    "BRE"
+                ]
+            },
+            {
+                "solution": "QUARTET",
+                "hint": "Four's a harmonious crowd",
+                "segments": [
+                    "QUA",
+                    "RTET"
+                ]
+            },
+            {
+                "solution": "REQUIEM",
+                "hint": "Solemn mass in music",
+                "segments": [
+                    "REQU",
+                    "IEM"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CASTANETS",
+                "hint": "Clickety-clack dance partner",
+                "segments": [
+                    "CA",
+                    "ST",
+                    "AN",
+                    "ETS"
+                ]
+            },
+            {
+                "solution": "CELLO",
+                "hint": "Orchestra's deep thinker",
+                "segments": [
+                    "CEL",
+                    "LO"
+                ]
+            },
+            {
+                "solution": "DUET",
+                "hint": "Musical twosome's harmony",
+                "segments": [
+                    "DU",
+                    "ET"
+                ]
+            },
+            {
+                "solution": "SITAR",
+                "hint": "Indian music's stringed charm",
+                "segments": [
+                    "SI",
+                    "TAR"
+                ]
+            },
+            {
+                "solution": "TEMPO",
+                "hint": "Speed of musical beats",
+                "segments": [
+                    "TE",
+                    "MPO"
+                ]
+            },
+            {
+                "solution": "DISCO",
+                "hint": "Feverish dance floor craze",
+                "segments": [
+                    "DI",
+                    "SCO"
+                ]
+            },
+            {
+                "solution": "GLOCKENSPIEL",
+                "hint": "Bells' twinkling cousin",
+                "segments": [
+                    "GL",
+                    "OC",
+                    "KE",
+                    "NS",
+                    "PI",
+                    "EL"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "VIOLA",
+                "hint": "Violin's larger sibling",
+                "segments": [
+                    "VI",
+                    "OLA"
+                ]
+            },
+            {
+                "solution": "SYNTHESIZER",
+                "hint": "Electric music magician",
+                "segments": [
+                    "SYN",
+                    "THE",
+                    "SIZ",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "JAZZ",
+                "hint": "Syncopated genre's cool",
+                "segments": [
+                    "JA",
+                    "ZZ"
+                ]
+            },
+            {
+                "solution": "HARMONY",
+                "hint": "Melodic layer cake",
+                "segments": [
+                    "HAR",
+                    "MONY"
+                ]
+            },
+            {
+                "solution": "OVERTURE",
+                "hint": "Musical curtain raiser",
+                "segments": [
+                    "OV",
+                    "ER",
+                    "TU",
+                    "RE"
+                ]
+            },
+            {
+                "solution": "MINUET",
+                "hint": "Dance of courtly elegance",
+                "segments": [
+                    "MI",
+                    "NU",
+                    "ET"
+                ]
+            },
+            {
+                "solution": "ENCORE",
+                "hint": "Crowd-pleasing curtain call",
+                "segments": [
+                    "EN",
+                    "CO",
+                    "RE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CADENCE",
+                "hint": "Melodic punctuation mark",
+                "segments": [
+                    "CA",
+                    "DE",
+                    "NCE"
+                ]
+            },
+            {
+                "solution": "HARMONICA",
+                "hint": "Bluesy pocket performer",
+                "segments": [
+                    "HAR",
+                    "MON",
+                    "ICA"
+                ]
+            },
+            {
+                "solution": "TIMPANI",
+                "hint": "Orchestra's booming bowls",
+                "segments": [
+                    "TIM",
+                    "PANI"
+                ]
+            },
+            {
+                "solution": "MANDOLIN",
+                "hint": "Folk's petite string hero",
+                "segments": [
+                    "MA",
+                    "ND",
+                    "OL",
+                    "IN"
+                ]
+            },
+            {
+                "solution": "INTERVAL",
+                "hint": "Concert's half-time break",
+                "segments": [
+                    "IN",
+                    "TE",
+                    "RV",
+                    "AL"
+                ]
+            },
+            {
+                "solution": "TRUMPET",
+                "hint": "Brass band's loudmouth",
+                "segments": [
+                    "TRU",
+                    "MPET"
+                ]
+            },
+            {
+                "solution": "HARP",
+                "hint": "Angelic stringed splendor",
+                "segments": [
+                    "HA",
+                    "RP"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "MARACAS",
+                "hint": "Shake, rattle, and groove",
+                "segments": [
+                    "MAR",
+                    "ACAS"
+                ]
+            },
+            {
+                "solution": "POLKA",
+                "hint": "Energetic European hop",
+                "segments": [
+                    "POL",
+                    "KA"
+                ]
+            },
+            {
+                "solution": "THEREMIN",
+                "hint": "Hands-free electronic wizard",
+                "segments": [
+                    "TH",
+                    "ER",
+                    "EM",
+                    "IN"
+                ]
+            },
+            {
+                "solution": "SAXOPHONE",
+                "hint": "Jazz's curvy standout",
+                "segments": [
+                    "SA",
+                    "XO",
+                    "PH",
+                    "ONE"
+                ]
+            },
+            {
+                "solution": "SAMBA",
+                "hint": "Brazil's rhythmic heartbeat",
+                "segments": [
+                    "SA",
+                    "MBA"
+                ]
+            },
+            {
+                "solution": "FLUTE",
+                "hint": "Breezy melody maker",
+                "segments": [
+                    "FL",
+                    "UTE"
+                ]
+            },
+            {
+                "solution": "STACCATO",
+                "hint": "Short and detached",
+                "segments": [
+                    "ST",
+                    "AC",
+                    "CA",
+                    "TO"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ACCORDION",
+                "hint": "Squeezebox serenade",
+                "segments": [
+                    "ACC",
+                    "ORD",
+                    "ION"
+                ]
+            },
+            {
+                "solution": "FIDDLE",
+                "hint": "Violin's hoedown counterpart",
+                "segments": [
+                    "FID",
+                    "DLE"
+                ]
+            },
+            {
+                "solution": "PICCOLO",
+                "hint": "Flute's high-pitched sibling",
+                "segments": [
+                    "PIC",
+                    "COLO"
+                ]
+            },
+            {
+                "solution": "TAMBOURINE",
+                "hint": "Jingle-jangle percussion pal",
+                "segments": [
+                    "TA",
+                    "MB",
+                    "OU",
+                    "RI",
+                    "NE"
+                ]
+            },
+            {
+                "solution": "BAGPIPES",
+                "hint": "Scotland's musical pride",
+                "segments": [
+                    "BAGP",
+                    "IP",
+                    "ES"
+                ]
+            },
+            {
+                "solution": "TROMBONE",
+                "hint": "Slide into jazzy tunes",
+                "segments": [
+                    "TROM",
+                    "BO",
+                    "NE"
+                ]
+            },
+            {
+                "solution": "CHORD",
+                "hint": "Notes struck together",
+                "segments": [
+                    "CH",
+                    "ORD"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "PIANO",
+                "hint": "Key to musical harmony",
+                "segments": [
+                    "PI",
+                    "ANO"
+                ]
+            },
+            {
+                "solution": "OPERETTA",
+                "hint": "Light-hearted opera sibling",
+                "segments": [
+                    "OP",
+                    "ER",
+                    "ET",
+                    "TA"
+                ]
+            },
+            {
+                "solution": "MEDLEY",
+                "hint": "Music's delicious sampler",
+                "segments": [
+                    "MED",
+                    "LEY"
+                ]
+            },
+            {
+                "solution": "VIOLIN",
+                "hint": "Orchestra's high-strung star",
+                "segments": [
+                    "VIO",
+                    "LIN"
+                ]
+            },
+            {
+                "solution": "MARIMBA",
+                "hint": "Wooden xylophone's big brother",
+                "segments": [
+                    "MA",
+                    "RI",
+                    "MBA"
+                ]
+            },
+            {
+                "solution": "WALTZ",
+                "hint": "Ballroom's triple time classic",
+                "segments": [
+                    "WA",
+                    "LTZ"
+                ]
+            },
+            {
+                "solution": "CLAVICHORD",
+                "hint": "Keyboard's quiet ancestor",
+                "segments": [
+                    "CL",
+                    "AV",
+                    "IC",
+                    "HO",
+                    "RD"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "PIANISSIMO",
+                "hint": "Softly spoken notes",
+                "segments": [
+                    "PI",
+                    "AN",
+                    "IS",
+                    "SI",
+                    "MO"
+                ]
+            },
+            {
+                "solution": "NOCTURNE",
+                "hint": "Nighttime's piano serenade",
+                "segments": [
+                    "NO",
+                    "CT",
+                    "UR",
+                    "NE"
+                ]
+            },
+            {
+                "solution": "VIBRATO",
+                "hint": "Pitch's expressive quiver",
+                "segments": [
+                    "VI",
+                    "BR",
+                    "ATO"
+                ]
+            },
+            {
+                "solution": "SONATA",
+                "hint": "Multi-movement masterpiece",
+                "segments": [
+                    "SON",
+                    "ATA"
+                ]
+            },
+            {
+                "solution": "MOTOWN",
+                "hint": "Detroit's soulful sound",
+                "segments": [
+                    "MOT",
+                    "OWN"
+                ]
+            },
+            {
+                "solution": "GUITAR",
+                "hint": "Rock star's best friend",
+                "segments": [
+                    "GUI",
+                    "TAR"
+                ]
+            },
+            {
+                "solution": "REGGAE",
+                "hint": "Jamaica's rhythmic sunshine",
+                "segments": [
+                    "REG",
+                    "GAE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "BANJO",
+                "hint": "Bluegrass twang king",
+                "segments": [
+                    "BA",
+                    "NJO"
+                ]
+            },
+            {
+                "solution": "XYLOPHONE",
+                "hint": "Percussion's melodic bars",
+                "segments": [
+                    "XYL",
+                    "OPH",
+                    "ONE"
+                ]
+            },
+            {
+                "solution": "LYRE",
+                "hint": "Ancient harp's poetic muse",
+                "segments": [
+                    "LY",
+                    "RE"
+                ]
+            },
+            {
+                "solution": "CLARINET",
+                "hint": "Woodwind's smooth talker",
+                "segments": [
+                    "CLAR",
+                    "IN",
+                    "ET"
+                ]
+            },
+            {
+                "solution": "DRUMS",
+                "hint": "Beat-keeper extraordinaire",
+                "segments": [
+                    "DRU",
+                    "MS"
+                ]
+            },
+            {
+                "solution": "DIDGERIDOO",
+                "hint": "Australia's native drone",
+                "segments": [
+                    "DIDG",
+                    "ER",
+                    "ID",
+                    "OO"
+                ]
+            },
+            {
+                "solution": "SYMPHONY",
+                "hint": "Orchestra's grand statement",
+                "segments": [
+                    "SY",
+                    "MP",
+                    "HO",
+                    "NY"
+                ]
+            }
+        ]
+    ]
+}

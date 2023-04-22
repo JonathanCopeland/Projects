@@ -1,0 +1,646 @@
+{
+    "name": "Weather",
+    "description": "Blustery bits and pieces",
+    "levels": [
+        [
+            {
+                "solution": "HUMIDITY",
+                "hint": "Air's invisible sweat",
+                "segments": [
+                    "HU",
+                    "MI",
+                    "DI",
+                    "TY"
+                ]
+            },
+            {
+                "solution": "HAIL",
+                "hint": "Frozen sky pebbles",
+                "segments": [
+                    "HA",
+                    "IL"
+                ]
+            },
+            {
+                "solution": "SATELLITE",
+                "hint": "Orbiting weather reporter",
+                "segments": [
+                    "SAT",
+                    "ELL",
+                    "ITE"
+                ]
+            },
+            {
+                "solution": "MONSOON",
+                "hint": "Rain's seasonal performance",
+                "segments": [
+                    "MO",
+                    "NS",
+                    "OON"
+                ]
+            },
+            {
+                "solution": "WIND",
+                "hint": "Invisible, playful force",
+                "segments": [
+                    "WI",
+                    "ND"
+                ]
+            },
+            {
+                "solution": "TUNDRA",
+                "hint": "Earth's frozen carpet",
+                "segments": [
+                    "TU",
+                    "ND",
+                    "RA"
+                ]
+            },
+            {
+                "solution": "CYCLONE",
+                "hint": "Circular storm's waltz",
+                "segments": [
+                    "CY",
+                    "CL",
+                    "ONE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HURRICANE",
+                "hint": "Nature's whirlwind party",
+                "segments": [
+                    "HUR",
+                    "RIC",
+                    "ANE"
+                ]
+            },
+            {
+                "solution": "SUNSHINE",
+                "hint": "Warm and bright mood-lifter",
+                "segments": [
+                    "SU",
+                    "NS",
+                    "HI",
+                    "NE"
+                ]
+            },
+            {
+                "solution": "ARCTIC",
+                "hint": "Earth's northern freezer",
+                "segments": [
+                    "ARC",
+                    "TIC"
+                ]
+            },
+            {
+                "solution": "EVAPORATION",
+                "hint": "Water's invisible escape",
+                "segments": [
+                    "EVAP",
+                    "OR",
+                    "AT",
+                    "ION"
+                ]
+            },
+            {
+                "solution": "GUST",
+                "hint": "Wind's playful burst",
+                "segments": [
+                    "GU",
+                    "ST"
+                ]
+            },
+            {
+                "solution": "SEASONS",
+                "hint": "Nature's wardrobe changes",
+                "segments": [
+                    "SEAS",
+                    "ONS"
+                ]
+            },
+            {
+                "solution": "WINDCHILL",
+                "hint": "Biting breeze factor",
+                "segments": [
+                    "WIN",
+                    "DCH",
+                    "ILL"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CLIMATE",
+                "hint": "Long-term weather pattern",
+                "segments": [
+                    "CL",
+                    "IM",
+                    "ATE"
+                ]
+            },
+            {
+                "solution": "HYGROMETER",
+                "hint": "Humidity detective",
+                "segments": [
+                    "HYGR",
+                    "OM",
+                    "ET",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "TYPHOON",
+                "hint": "Eastern hurricane cousin",
+                "segments": [
+                    "TY",
+                    "PH",
+                    "OON"
+                ]
+            },
+            {
+                "solution": "FORECAST",
+                "hint": "Weather's fortune telling",
+                "segments": [
+                    "FORE",
+                    "CAST"
+                ]
+            },
+            {
+                "solution": "SOLSTICE",
+                "hint": "Longest and shortest days",
+                "segments": [
+                    "SO",
+                    "LS",
+                    "TI",
+                    "CE"
+                ]
+            },
+            {
+                "solution": "SUNDOG",
+                "hint": "Solar optical illusion",
+                "segments": [
+                    "SUN",
+                    "DOG"
+                ]
+            },
+            {
+                "solution": "BREEZE",
+                "hint": "Gentle gusts' caress",
+                "segments": [
+                    "BRE",
+                    "EZE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "NIMBUS",
+                "hint": "Rain-carrying cloud trucks",
+                "segments": [
+                    "NIM",
+                    "BUS"
+                ]
+            },
+            {
+                "solution": "CONDENSATION",
+                "hint": "Cloud building blocks",
+                "segments": [
+                    "CON",
+                    "DEN",
+                    "SAT",
+                    "ION"
+                ]
+            },
+            {
+                "solution": "THERMOMETER",
+                "hint": "Temperature's spy",
+                "segments": [
+                    "THER",
+                    "MOME",
+                    "TER"
+                ]
+            },
+            {
+                "solution": "ATMOSPHERE",
+                "hint": "Earth's protective blanket",
+                "segments": [
+                    "AT",
+                    "MO",
+                    "SP",
+                    "HE",
+                    "RE"
+                ]
+            },
+            {
+                "solution": "DROUGHT",
+                "hint": "Thirsty earth's cry",
+                "segments": [
+                    "DRO",
+                    "UGHT"
+                ]
+            },
+            {
+                "solution": "EQUATOR",
+                "hint": "Earth's hot waistline",
+                "segments": [
+                    "EQUA",
+                    "TOR"
+                ]
+            },
+            {
+                "solution": "TORNADO",
+                "hint": "Cyclone's twisty dance",
+                "segments": [
+                    "TORN",
+                    "ADO"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "COLD",
+                "hint": "Winter's chilly grip",
+                "segments": [
+                    "CO",
+                    "LD"
+                ]
+            },
+            {
+                "solution": "CLOUDS",
+                "hint": "Sky's fluffy pillows",
+                "segments": [
+                    "CL",
+                    "OU",
+                    "DS"
+                ]
+            },
+            {
+                "solution": "INVERSION",
+                "hint": "Temperature's upside-down act",
+                "segments": [
+                    "IN",
+                    "VE",
+                    "RS",
+                    "ION"
+                ]
+            },
+            {
+                "solution": "FROST",
+                "hint": "Winter's delicate touch",
+                "segments": [
+                    "FR",
+                    "OST"
+                ]
+            },
+            {
+                "solution": "OZONE",
+                "hint": "Sky's ultraviolet shield",
+                "segments": [
+                    "OZ",
+                    "ONE"
+                ]
+            },
+            {
+                "solution": "GLACIER",
+                "hint": "Frozen river's slow dance",
+                "segments": [
+                    "GL",
+                    "AC",
+                    "IER"
+                ]
+            },
+            {
+                "solution": "SUNSCREEN",
+                "hint": "Solar defense lotion",
+                "segments": [
+                    "SU",
+                    "NS",
+                    "CR",
+                    "EEN"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "TSUNAMI",
+                "hint": "Seismic sea waves",
+                "segments": [
+                    "TSU",
+                    "NAMI"
+                ]
+            },
+            {
+                "solution": "BLIZZARD",
+                "hint": "Snow's dramatic entrance",
+                "segments": [
+                    "BLIZ",
+                    "ZARD"
+                ]
+            },
+            {
+                "solution": "AURORA",
+                "hint": "Night sky's dazzling display",
+                "segments": [
+                    "AUR",
+                    "ORA"
+                ]
+            },
+            {
+                "solution": "LIGHTNING",
+                "hint": "Celestial electricity show",
+                "segments": [
+                    "LIG",
+                    "HTN",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "GLOBAL WARMING",
+                "hint": "Planet's rising fever",
+                "segments": [
+                    "GL",
+                    "OB",
+                    "AL",
+                    " W",
+                    "AR",
+                    "MI",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "THUNDER",
+                "hint": "Sky's grumpy growl",
+                "segments": [
+                    "THUN",
+                    "DER"
+                ]
+            },
+            {
+                "solution": "EQUINOX",
+                "hint": "Day and night's equal dance",
+                "segments": [
+                    "EQU",
+                    "INOX"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HAZE",
+                "hint": "Sky's dull veil",
+                "segments": [
+                    "HA",
+                    "ZE"
+                ]
+            },
+            {
+                "solution": "HEATWAVE",
+                "hint": "Sun's relentless hug",
+                "segments": [
+                    "HE",
+                    "AT",
+                    "WA",
+                    "VE"
+                ]
+            },
+            {
+                "solution": "FLOOD",
+                "hint": "Overflowing water drama",
+                "segments": [
+                    "FLO",
+                    "OD"
+                ]
+            },
+            {
+                "solution": "HEATSTROKE",
+                "hint": "Scorching weather's revenge",
+                "segments": [
+                    "HE",
+                    "AT",
+                    "ST",
+                    "RO",
+                    "KE"
+                ]
+            },
+            {
+                "solution": "CIRRUS",
+                "hint": "High-flying wispy clouds",
+                "segments": [
+                    "CI",
+                    "RR",
+                    "US"
+                ]
+            },
+            {
+                "solution": "SLEET",
+                "hint": "Ice rain fusion",
+                "segments": [
+                    "SLE",
+                    "ET"
+                ]
+            },
+            {
+                "solution": "POLAR",
+                "hint": "Icy, frigid regions",
+                "segments": [
+                    "PO",
+                    "LAR"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "GROUNDHOG",
+                "hint": "Furry weather predictor",
+                "segments": [
+                    "GR",
+                    "OU",
+                    "ND",
+                    "HOG"
+                ]
+            },
+            {
+                "solution": "SQUALL",
+                "hint": "Sudden gusty disturbance",
+                "segments": [
+                    "SQU",
+                    "ALL"
+                ]
+            },
+            {
+                "solution": "UMBRELLA",
+                "hint": "Personal rain shield",
+                "segments": [
+                    "UM",
+                    "BR",
+                    "EL",
+                    "LA"
+                ]
+            },
+            {
+                "solution": "RADAR",
+                "hint": "Weather's invisible eye",
+                "segments": [
+                    "RAD",
+                    "AR"
+                ]
+            },
+            {
+                "solution": "DRIZZLE",
+                "hint": "Rain's gentle whisper",
+                "segments": [
+                    "DR",
+                    "IZ",
+                    "ZLE"
+                ]
+            },
+            {
+                "solution": "DESERT",
+                "hint": "Earth's sandy sauna",
+                "segments": [
+                    "DE",
+                    "SE",
+                    "RT"
+                ]
+            },
+            {
+                "solution": "SNOW",
+                "hint": "Winter's chilly confetti",
+                "segments": [
+                    "SN",
+                    "OW"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "WINDSOCK",
+                "hint": "Breezy fashion statement",
+                "segments": [
+                    "WIND",
+                    "SO",
+                    "CK"
+                ]
+            },
+            {
+                "solution": "THERMAL",
+                "hint": "Rising pockets of warm air",
+                "segments": [
+                    "TH",
+                    "ER",
+                    "MAL"
+                ]
+            },
+            {
+                "solution": "STORM",
+                "hint": "Clouds throwing a tantrum",
+                "segments": [
+                    "STO",
+                    "RM"
+                ]
+            },
+            {
+                "solution": "TROPICAL",
+                "hint": "Hot, humid weather's paradise",
+                "segments": [
+                    "TR",
+                    "OP",
+                    "IC",
+                    "AL"
+                ]
+            },
+            {
+                "solution": "CUMULUS",
+                "hint": "Cotton candy sky formations",
+                "segments": [
+                    "CUMU",
+                    "LUS"
+                ]
+            },
+            {
+                "solution": "STRATUS",
+                "hint": "Layered, low-hanging clouds",
+                "segments": [
+                    "STRA",
+                    "TUS"
+                ]
+            },
+            {
+                "solution": "PRECIPITATION",
+                "hint": "Sky's liquid gifts",
+                "segments": [
+                    "PRE",
+                    "CIP",
+                    "ITA",
+                    "TION"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "GALE",
+                "hint": "Wind's angry outburst",
+                "segments": [
+                    "GA",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "MICROCLIMATE",
+                "hint": "Small-scale weather world",
+                "segments": [
+                    "MIC",
+                    "ROC",
+                    "LIM",
+                    "ATE"
+                ]
+            },
+            {
+                "solution": "AVALANCHE",
+                "hint": "Snow's chaotic tumble",
+                "segments": [
+                    "AVA",
+                    "LAN",
+                    "CHE"
+                ]
+            },
+            {
+                "solution": "METEOROLOGIST",
+                "hint": "Weather wizard",
+                "segments": [
+                    "MET",
+                    "EOR",
+                    "OLO",
+                    "GIST"
+                ]
+            },
+            {
+                "solution": "SUPERCELL",
+                "hint": "Mother of stormy weather",
+                "segments": [
+                    "SUP",
+                    "ERC",
+                    "ELL"
+                ]
+            },
+            {
+                "solution": "RAINBOW",
+                "hint": "Sky's colorful arc",
+                "segments": [
+                    "RAI",
+                    "NBOW"
+                ]
+            },
+            {
+                "solution": "RAIN",
+                "hint": "Nature's tears of joy",
+                "segments": [
+                    "RA",
+                    "IN"
+                ]
+            }
+        ]
+    ]
+}

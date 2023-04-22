@@ -1,0 +1,646 @@
+{
+    "name": "Pokémon",
+    "description": "Gotta catch 'em all!",
+    "levels": [
+        [
+            {
+                "solution": "SLOWPOKE",
+                "hint": "Late to the party",
+                "segments": [
+                    "SLOW",
+                    "PO",
+                    "KE"
+                ]
+            },
+            {
+                "solution": "EXEGGUTOR",
+                "hint": "Cluster of psychic coconuts",
+                "segments": [
+                    "EXE",
+                    "GGU",
+                    "TOR"
+                ]
+            },
+            {
+                "solution": "ZAPDOS",
+                "hint": "Electric avian powerhouse",
+                "segments": [
+                    "ZAP",
+                    "DOS"
+                ]
+            },
+            {
+                "solution": "SUICUNE",
+                "hint": "Crystal-clear water dog",
+                "segments": [
+                    "SUI",
+                    "CUNE"
+                ]
+            },
+            {
+                "solution": "GEODUDE",
+                "hint": "Rock-hard pal",
+                "segments": [
+                    "GEOD",
+                    "UDE"
+                ]
+            },
+            {
+                "solution": "ARTICUNO",
+                "hint": "Legendary ice bird",
+                "segments": [
+                    "AR",
+                    "TI",
+                    "CU",
+                    "NO"
+                ]
+            },
+            {
+                "solution": "ARCANINE",
+                "hint": "Majestic fire dog",
+                "segments": [
+                    "AR",
+                    "CA",
+                    "NI",
+                    "NE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "PORYGON",
+                "hint": "Digital duck",
+                "segments": [
+                    "POR",
+                    "YGON"
+                ]
+            },
+            {
+                "solution": "PINSIR",
+                "hint": "Pincer-wielding bug",
+                "segments": [
+                    "PIN",
+                    "SIR"
+                ]
+            },
+            {
+                "solution": "AERODACTYL",
+                "hint": "Prehistoric sky terror",
+                "segments": [
+                    "AE",
+                    "RO",
+                    "DA",
+                    "CT",
+                    "YL"
+                ]
+            },
+            {
+                "solution": "CHARIZARD",
+                "hint": "Winged dragon lizard",
+                "segments": [
+                    "CHA",
+                    "RIZ",
+                    "ARD"
+                ]
+            },
+            {
+                "solution": "MEOWTH",
+                "hint": "Coin-chasing cat",
+                "segments": [
+                    "MEO",
+                    "WTH"
+                ]
+            },
+            {
+                "solution": "GYARADOS",
+                "hint": "Water dragon's wrath",
+                "segments": [
+                    "GY",
+                    "AR",
+                    "AD",
+                    "OS"
+                ]
+            },
+            {
+                "solution": "OMASTAR",
+                "hint": "Spiral-shelled cephalopod",
+                "segments": [
+                    "OMA",
+                    "STAR"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "MACHAMP",
+                "hint": "Four-armed wrestler",
+                "segments": [
+                    "MA",
+                    "CH",
+                    "AMP"
+                ]
+            },
+            {
+                "solution": "DUGTRIO",
+                "hint": "Triple subterranean threat",
+                "segments": [
+                    "DU",
+                    "GT",
+                    "RIO"
+                ]
+            },
+            {
+                "solution": "POLIWAG",
+                "hint": "Hypnotic spiral tadpole",
+                "segments": [
+                    "PO",
+                    "LI",
+                    "WAG"
+                ]
+            },
+            {
+                "solution": "GROWLITHE",
+                "hint": "Fiery canine companion",
+                "segments": [
+                    "GR",
+                    "OW",
+                    "LI",
+                    "THE"
+                ]
+            },
+            {
+                "solution": "DITTO",
+                "hint": "Copycat putty",
+                "segments": [
+                    "DIT",
+                    "TO"
+                ]
+            },
+            {
+                "solution": "PSYDUCK",
+                "hint": "Headache-prone quacker",
+                "segments": [
+                    "PSY",
+                    "DUCK"
+                ]
+            },
+            {
+                "solution": "SEAKING",
+                "hint": "Regal fish",
+                "segments": [
+                    "SE",
+                    "AK",
+                    "ING"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "MOLTRES",
+                "hint": "Fiery phoenix",
+                "segments": [
+                    "MO",
+                    "LT",
+                    "RES"
+                ]
+            },
+            {
+                "solution": "BULBASAUR",
+                "hint": "First of its kind",
+                "segments": [
+                    "BUL",
+                    "BAS",
+                    "AUR"
+                ]
+            },
+            {
+                "solution": "ABRA",
+                "hint": "Teleporting psychic",
+                "segments": [
+                    "AB",
+                    "RA"
+                ]
+            },
+            {
+                "solution": "WEEZING",
+                "hint": "Toxic gas duo",
+                "segments": [
+                    "WEE",
+                    "ZING"
+                ]
+            },
+            {
+                "solution": "CHARMANDER",
+                "hint": "Fiery little lizard",
+                "segments": [
+                    "CH",
+                    "AR",
+                    "MA",
+                    "ND",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "ELECTRODE",
+                "hint": "Fast-rolling explosive",
+                "segments": [
+                    "ELE",
+                    "CTR",
+                    "ODE"
+                ]
+            },
+            {
+                "solution": "CUBONE",
+                "hint": "Bone-headed orphan",
+                "segments": [
+                    "CUB",
+                    "ONE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "LUGIA",
+                "hint": "Guardian of the seas",
+                "segments": [
+                    "LU",
+                    "GIA"
+                ]
+            },
+            {
+                "solution": "ZUBAT",
+                "hint": "Cave-dwelling bane",
+                "segments": [
+                    "ZU",
+                    "BAT"
+                ]
+            },
+            {
+                "solution": "ONIX",
+                "hint": "Rock-snake menace",
+                "segments": [
+                    "ON",
+                    "IX"
+                ]
+            },
+            {
+                "solution": "EEVEE",
+                "hint": "Evolving in eight ways",
+                "segments": [
+                    "EEV",
+                    "EE"
+                ]
+            },
+            {
+                "solution": "CLEFAIRY",
+                "hint": "Moonlit dancer",
+                "segments": [
+                    "CL",
+                    "EF",
+                    "AI",
+                    "RY"
+                ]
+            },
+            {
+                "solution": "KABUTOPS",
+                "hint": "Scythe-handed relic",
+                "segments": [
+                    "KA",
+                    "BU",
+                    "TO",
+                    "PS"
+                ]
+            },
+            {
+                "solution": "SQUIRTLE",
+                "hint": "Tiny turtle torrent",
+                "segments": [
+                    "SQ",
+                    "UI",
+                    "RT",
+                    "LE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "LATIAS",
+                "hint": "Jet-plane dragoness",
+                "segments": [
+                    "LAT",
+                    "IAS"
+                ]
+            },
+            {
+                "solution": "BEEDRILL",
+                "hint": "Stinging insectoid",
+                "segments": [
+                    "BEED",
+                    "RILL"
+                ]
+            },
+            {
+                "solution": "LICKITUNG",
+                "hint": "Tongue-tastic wonder",
+                "segments": [
+                    "LIC",
+                    "KIT",
+                    "UNG"
+                ]
+            },
+            {
+                "solution": "KOFFING",
+                "hint": "Poison gas bag",
+                "segments": [
+                    "KO",
+                    "FF",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "JIGGLYPUFF",
+                "hint": "Lullaby-singing balloon",
+                "segments": [
+                    "JIGG",
+                    "LYPU",
+                    "FF"
+                ]
+            },
+            {
+                "solution": "HITMONCHAN",
+                "hint": "Punchy pugilist",
+                "segments": [
+                    "HI",
+                    "TM",
+                    "ON",
+                    "CH",
+                    "AN"
+                ]
+            },
+            {
+                "solution": "ALAKAZAM",
+                "hint": "Cutlery-wielding mindbender",
+                "segments": [
+                    "ALAK",
+                    "AZAM"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "RATTATA",
+                "hint": "Rodent infestation",
+                "segments": [
+                    "RAT",
+                    "TATA"
+                ]
+            },
+            {
+                "solution": "LAPRAS",
+                "hint": "Gentle ferry of seas",
+                "segments": [
+                    "LA",
+                    "PR",
+                    "AS"
+                ]
+            },
+            {
+                "solution": "GENGAR",
+                "hint": "Shadowy prankster",
+                "segments": [
+                    "GEN",
+                    "GAR"
+                ]
+            },
+            {
+                "solution": "NINETALES",
+                "hint": "Gorgeous fiery kitsune",
+                "segments": [
+                    "NIN",
+                    "ETA",
+                    "LES"
+                ]
+            },
+            {
+                "solution": "VULPIX",
+                "hint": "Fluffy fire fox",
+                "segments": [
+                    "VU",
+                    "LP",
+                    "IX"
+                ]
+            },
+            {
+                "solution": "BLASTOISE",
+                "hint": "Water-cannon turtle",
+                "segments": [
+                    "BL",
+                    "AS",
+                    "TO",
+                    "ISE"
+                ]
+            },
+            {
+                "solution": "MAGMAR",
+                "hint": "Magma-headed fire breather",
+                "segments": [
+                    "MA",
+                    "GM",
+                    "AR"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "STARMIE",
+                "hint": "Psychic star spin",
+                "segments": [
+                    "ST",
+                    "AR",
+                    "MIE"
+                ]
+            },
+            {
+                "solution": "MAGIKARP",
+                "hint": "Underwhelming fish",
+                "segments": [
+                    "MA",
+                    "GI",
+                    "KA",
+                    "RP"
+                ]
+            },
+            {
+                "solution": "HAUNTER",
+                "hint": "Ghoulish specter",
+                "segments": [
+                    "HA",
+                    "UN",
+                    "TER"
+                ]
+            },
+            {
+                "solution": "SNORLAX",
+                "hint": "Road-blocking napper",
+                "segments": [
+                    "SNOR",
+                    "LAX"
+                ]
+            },
+            {
+                "solution": "VENUSAUR",
+                "hint": "Bulky botanical beast",
+                "segments": [
+                    "VENU",
+                    "SA",
+                    "UR"
+                ]
+            },
+            {
+                "solution": "REGIROCK",
+                "hint": "Golem of the rocks",
+                "segments": [
+                    "REGI",
+                    "RO",
+                    "CK"
+                ]
+            },
+            {
+                "solution": "MEWTWO",
+                "hint": "Cloned feline fury",
+                "segments": [
+                    "MEW",
+                    "TWO"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "TENTACRUEL",
+                "hint": "Oceanic terror",
+                "segments": [
+                    "TENT",
+                    "AC",
+                    "RU",
+                    "EL"
+                ]
+            },
+            {
+                "solution": "KANGASKHAN",
+                "hint": "Pouch protector",
+                "segments": [
+                    "KA",
+                    "NG",
+                    "AS",
+                    "KH",
+                    "AN"
+                ]
+            },
+            {
+                "solution": "GOLDEEN",
+                "hint": "Horned aquatic beauty",
+                "segments": [
+                    "GOL",
+                    "DEEN"
+                ]
+            },
+            {
+                "solution": "DRATINI",
+                "hint": "Serpentine dragon-to-be",
+                "segments": [
+                    "DRA",
+                    "TINI"
+                ]
+            },
+            {
+                "solution": "VENOMOTH",
+                "hint": "Poisonous moth menace",
+                "segments": [
+                    "VENO",
+                    "MO",
+                    "TH"
+                ]
+            },
+            {
+                "solution": "TAUROS",
+                "hint": "Raging bull",
+                "segments": [
+                    "TAU",
+                    "ROS"
+                ]
+            },
+            {
+                "solution": "CHANSEY",
+                "hint": "Egg-centric healer",
+                "segments": [
+                    "CHA",
+                    "NSEY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "STARYU",
+                "hint": "Star of the sea",
+                "segments": [
+                    "STA",
+                    "RYU"
+                ]
+            },
+            {
+                "solution": "ELECTABUZZ",
+                "hint": "Shocking striped tiger",
+                "segments": [
+                    "EL",
+                    "EC",
+                    "TA",
+                    "BU",
+                    "ZZ"
+                ]
+            },
+            {
+                "solution": "HITMONLEE",
+                "hint": "Leggy martial artist",
+                "segments": [
+                    "HIT",
+                    "MON",
+                    "LEE"
+                ]
+            },
+            {
+                "solution": "PIDGEY",
+                "hint": "Your first feathered friend",
+                "segments": [
+                    "PI",
+                    "DG",
+                    "EY"
+                ]
+            },
+            {
+                "solution": "RHYHORN",
+                "hint": "Armored spiky beast",
+                "segments": [
+                    "RHY",
+                    "HORN"
+                ]
+            },
+            {
+                "solution": "SCYTHER",
+                "hint": "Dual-blade bug",
+                "segments": [
+                    "SC",
+                    "YT",
+                    "HER"
+                ]
+            },
+            {
+                "solution": "JYNX",
+                "hint": "Controversial ice maiden",
+                "segments": [
+                    "JY",
+                    "NX"
+                ]
+            }
+        ]
+    ]
+}

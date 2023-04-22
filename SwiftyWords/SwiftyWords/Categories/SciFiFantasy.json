@@ -1,0 +1,646 @@
+{
+    "name": "Sci-fi and Fantasy",
+    "description": "Wizards and witches",
+    "levels": [
+        [
+            {
+                "solution": "DISCWORLD",
+                "hint": "Turtle-supported realm",
+                "segments": [
+                    "DI",
+                    "SC",
+                    "WO",
+                    "RLD"
+                ]
+            },
+            {
+                "solution": "PANEM",
+                "hint": "May the odds be ever in your favor",
+                "segments": [
+                    "PA",
+                    "NEM"
+                ]
+            },
+            {
+                "solution": "FRODO",
+                "hint": "Ring bearer",
+                "segments": [
+                    "FR",
+                    "ODO"
+                ]
+            },
+            {
+                "solution": "VADER",
+                "hint": "Father of the Force",
+                "segments": [
+                    "VAD",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "ULTRON",
+                "hint": "AI with daddy issues",
+                "segments": [
+                    "UL",
+                    "TR",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "CORALINE",
+                "hint": "Button-eyed parallel world",
+                "segments": [
+                    "CO",
+                    "RA",
+                    "LI",
+                    "NE"
+                ]
+            },
+            {
+                "solution": "ARRAKIS",
+                "hint": "Dune, desert planet",
+                "segments": [
+                    "AR",
+                    "RA",
+                    "KIS"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "EXCALIBUR",
+                "hint": "King Arthur's sword",
+                "segments": [
+                    "EXC",
+                    "ALI",
+                    "BUR"
+                ]
+            },
+            {
+                "solution": "WAKANDA",
+                "hint": "Vibranium-rich nation",
+                "segments": [
+                    "WA",
+                    "KA",
+                    "NDA"
+                ]
+            },
+            {
+                "solution": "VULCAN",
+                "hint": "Pointy-eared logic lovers",
+                "segments": [
+                    "VUL",
+                    "CAN"
+                ]
+            },
+            {
+                "solution": "MEGATRON",
+                "hint": "Decepticon leader",
+                "segments": [
+                    "MEGA",
+                    "TR",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "ASLAN",
+                "hint": "Regal lion",
+                "segments": [
+                    "AS",
+                    "LAN"
+                ]
+            },
+            {
+                "solution": "WESTWORLD",
+                "hint": "Android amusement park",
+                "segments": [
+                    "WES",
+                    "TWO",
+                    "RLD"
+                ]
+            },
+            {
+                "solution": "WATCHMEN",
+                "hint": "Who watches them?",
+                "segments": [
+                    "WA",
+                    "TC",
+                    "HM",
+                    "EN"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "GATTACA",
+                "hint": "Genetic perfectionist's nightmare",
+                "segments": [
+                    "GAT",
+                    "TACA"
+                ]
+            },
+            {
+                "solution": "HARKONNEN",
+                "hint": "Dune's brutal enemies",
+                "segments": [
+                    "HAR",
+                    "KON",
+                    "NEN"
+                ]
+            },
+            {
+                "solution": "SHANNARA",
+                "hint": "Elfstones and Druids",
+                "segments": [
+                    "SHAN",
+                    "NARA"
+                ]
+            },
+            {
+                "solution": "BRAVESTARR",
+                "hint": "New Texas lawman",
+                "segments": [
+                    "BR",
+                    "AV",
+                    "ES",
+                    "TA",
+                    "RR"
+                ]
+            },
+            {
+                "solution": "KAIJU",
+                "hint": "Gigantic city stompers",
+                "segments": [
+                    "KAI",
+                    "JU"
+                ]
+            },
+            {
+                "solution": "SERENITY",
+                "hint": "Browncoat ship",
+                "segments": [
+                    "SE",
+                    "RE",
+                    "NI",
+                    "TY"
+                ]
+            },
+            {
+                "solution": "MORDOR",
+                "hint": "One does not simply walk in",
+                "segments": [
+                    "MOR",
+                    "DOR"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "EREBOR",
+                "hint": "Lonely Mountain of dwarves",
+                "segments": [
+                    "ER",
+                    "EB",
+                    "OR"
+                ]
+            },
+            {
+                "solution": "TRON",
+                "hint": "Digital world racer",
+                "segments": [
+                    "TR",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "CYLONS",
+                "hint": "Toasters with a plan",
+                "segments": [
+                    "CYL",
+                    "ONS"
+                ]
+            },
+            {
+                "solution": "ENDER",
+                "hint": "Game-winning strategist",
+                "segments": [
+                    "END",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "ENTERPRISE",
+                "hint": "Starfleet's finest",
+                "segments": [
+                    "EN",
+                    "TE",
+                    "RP",
+                    "RI",
+                    "SE"
+                ]
+            },
+            {
+                "solution": "AVATAR",
+                "hint": "Blue-skinned natives",
+                "segments": [
+                    "AV",
+                    "AT",
+                    "AR"
+                ]
+            },
+            {
+                "solution": "ROBOCOP",
+                "hint": "Part man, part machine",
+                "segments": [
+                    "RO",
+                    "BO",
+                    "COP"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "MORLOCKS",
+                "hint": "H.G. Wells' underground dwellers",
+                "segments": [
+                    "MORL",
+                    "OCKS"
+                ]
+            },
+            {
+                "solution": "HYRULE",
+                "hint": "Link's quest kingdom",
+                "segments": [
+                    "HYR",
+                    "ULE"
+                ]
+            },
+            {
+                "solution": "ZENDA",
+                "hint": "The Prisoner's castle",
+                "segments": [
+                    "ZEN",
+                    "DA"
+                ]
+            },
+            {
+                "solution": "DUNE",
+                "hint": "Arrakis, land of sandworms",
+                "segments": [
+                    "DU",
+                    "NE"
+                ]
+            },
+            {
+                "solution": "BATTLESTAR",
+                "hint": "Survivors in space",
+                "segments": [
+                    "BA",
+                    "TT",
+                    "LE",
+                    "ST",
+                    "AR"
+                ]
+            },
+            {
+                "solution": "GORMENGHAST",
+                "hint": "Grotesque, gothic castle",
+                "segments": [
+                    "GORM",
+                    "EN",
+                    "GH",
+                    "AST"
+                ]
+            },
+            {
+                "solution": "INCEPTION",
+                "hint": "Dream within a dream",
+                "segments": [
+                    "INC",
+                    "EPT",
+                    "ION"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ATREIDES",
+                "hint": "House of Muad'Dib",
+                "segments": [
+                    "ATRE",
+                    "IDES"
+                ]
+            },
+            {
+                "solution": "THUNDERCATS",
+                "hint": "Feline defenders",
+                "segments": [
+                    "THUN",
+                    "DE",
+                    "RC",
+                    "ATS"
+                ]
+            },
+            {
+                "solution": "MITHRIL",
+                "hint": "Precious elven metal",
+                "segments": [
+                    "MITH",
+                    "RIL"
+                ]
+            },
+            {
+                "solution": "NARNIA",
+                "hint": "Through the wardrobe",
+                "segments": [
+                    "NAR",
+                    "NIA"
+                ]
+            },
+            {
+                "solution": "RIPLEY",
+                "hint": "Space heroine",
+                "segments": [
+                    "RIP",
+                    "LEY"
+                ]
+            },
+            {
+                "solution": "SPIDERWICK",
+                "hint": "Magical field guide",
+                "segments": [
+                    "SPID",
+                    "ERWI",
+                    "CK"
+                ]
+            },
+            {
+                "solution": "WINTERFELL",
+                "hint": "Stark home base",
+                "segments": [
+                    "WI",
+                    "NT",
+                    "ER",
+                    "FE",
+                    "LL"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "KLINGON",
+                "hint": "Warriors in space",
+                "segments": [
+                    "KL",
+                    "IN",
+                    "GON"
+                ]
+            },
+            {
+                "solution": "TARDIS",
+                "hint": "Time-traveling blue box",
+                "segments": [
+                    "TA",
+                    "RD",
+                    "IS"
+                ]
+            },
+            {
+                "solution": "ASIMOV",
+                "hint": "Laws of robotics",
+                "segments": [
+                    "ASI",
+                    "MOV"
+                ]
+            },
+            {
+                "solution": "NEVERLAND",
+                "hint": "Pan's playground",
+                "segments": [
+                    "NEV",
+                    "ERL",
+                    "AND"
+                ]
+            },
+            {
+                "solution": "XENOMORPH",
+                "hint": "Acid-blooded nightmare",
+                "segments": [
+                    "XEN",
+                    "OMO",
+                    "RPH"
+                ]
+            },
+            {
+                "solution": "GALADRIEL",
+                "hint": "Elven queen of wisdom",
+                "segments": [
+                    "GAL",
+                    "ADR",
+                    "IEL"
+                ]
+            },
+            {
+                "solution": "DRESDEN",
+                "hint": "Wizard detective",
+                "segments": [
+                    "DR",
+                    "ES",
+                    "DEN"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "STARGATE",
+                "hint": "Portal to the cosmos",
+                "segments": [
+                    "ST",
+                    "AR",
+                    "GA",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "MUIRWOOD",
+                "hint": "Magical forest of mystery",
+                "segments": [
+                    "MU",
+                    "IR",
+                    "WO",
+                    "OD"
+                ]
+            },
+            {
+                "solution": "CTHULHU",
+                "hint": "Lovecraft's cosmic horror",
+                "segments": [
+                    "CTH",
+                    "ULHU"
+                ]
+            },
+            {
+                "solution": "VOGON",
+                "hint": "Poetry-wielding aliens",
+                "segments": [
+                    "VO",
+                    "GON"
+                ]
+            },
+            {
+                "solution": "PERN",
+                "hint": "Dragonriders' home",
+                "segments": [
+                    "PE",
+                    "RN"
+                ]
+            },
+            {
+                "solution": "ETERNALS",
+                "hint": "Cosmic-powered beings",
+                "segments": [
+                    "ET",
+                    "ER",
+                    "NA",
+                    "LS"
+                ]
+            },
+            {
+                "solution": "GANDALF",
+                "hint": "Grey to white",
+                "segments": [
+                    "GAN",
+                    "DALF"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "GLAKTI",
+                "hint": "Alien race of Slan",
+                "segments": [
+                    "GLA",
+                    "KTI"
+                ]
+            },
+            {
+                "solution": "RIVERWORLD",
+                "hint": "Afterlife adventures",
+                "segments": [
+                    "RIVE",
+                    "RW",
+                    "OR",
+                    "LD"
+                ]
+            },
+            {
+                "solution": "HOGWARTS",
+                "hint": "Wizarding school of witchcraft",
+                "segments": [
+                    "HOGW",
+                    "AR",
+                    "TS"
+                ]
+            },
+            {
+                "solution": "BARSOOM",
+                "hint": "Martian Chronicles locale",
+                "segments": [
+                    "BAR",
+                    "SOOM"
+                ]
+            },
+            {
+                "solution": "STRANGER",
+                "hint": "Heinlein's Martian visitor",
+                "segments": [
+                    "STRA",
+                    "NGER"
+                ]
+            },
+            {
+                "solution": "TERMINATOR",
+                "hint": "Cyborg from the future",
+                "segments": [
+                    "TE",
+                    "RM",
+                    "IN",
+                    "AT",
+                    "OR"
+                ]
+            },
+            {
+                "solution": "KRYPTON",
+                "hint": "Superman's home planet",
+                "segments": [
+                    "KRY",
+                    "PTON"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "LEIA",
+                "hint": "Princess of rebellion",
+                "segments": [
+                    "LE",
+                    "IA"
+                ]
+            },
+            {
+                "solution": "KATNISS",
+                "hint": "Everdeen, the Mockingjay",
+                "segments": [
+                    "KATN",
+                    "ISS"
+                ]
+            },
+            {
+                "solution": "NAUSICAA",
+                "hint": "Valley of the wind",
+                "segments": [
+                    "NAUS",
+                    "ICAA"
+                ]
+            },
+            {
+                "solution": "MATRIX",
+                "hint": "Neo's virtual world",
+                "segments": [
+                    "MAT",
+                    "RIX"
+                ]
+            },
+            {
+                "solution": "WATERWORLD",
+                "hint": "Mariner's aquatic adventure",
+                "segments": [
+                    "WATE",
+                    "RW",
+                    "OR",
+                    "LD"
+                ]
+            },
+            {
+                "solution": "VALERIAN",
+                "hint": "City of a thousand planets",
+                "segments": [
+                    "VALE",
+                    "RI",
+                    "AN"
+                ]
+            },
+            {
+                "solution": "HITCHHIKER",
+                "hint": "Galaxy traveler's guide",
+                "segments": [
+                    "HI",
+                    "TC",
+                    "HH",
+                    "IK",
+                    "ER"
+                ]
+            }
+        ]
+    ]
+}

@@ -1,0 +1,646 @@
+{
+    "name": "Food",
+    "description": "Treats to fit every taste",
+    "levels": [
+        [
+            {
+                "solution": "TRUFFLE",
+                "hint": "Fungus with a price",
+                "segments": [
+                    "TR",
+                    "UF",
+                    "FLE"
+                ]
+            },
+            {
+                "solution": "CANNELLONI",
+                "hint": "Tubular pasta treat",
+                "segments": [
+                    "CA",
+                    "NN",
+                    "EL",
+                    "LO",
+                    "NI"
+                ]
+            },
+            {
+                "solution": "AVOCADO",
+                "hint": "Green toast topper",
+                "segments": [
+                    "AVO",
+                    "CADO"
+                ]
+            },
+            {
+                "solution": "POUTINE",
+                "hint": "Canadian gravy fries",
+                "segments": [
+                    "POU",
+                    "TINE"
+                ]
+            },
+            {
+                "solution": "GRANOLA",
+                "hint": "Crunchy breakfast friend",
+                "segments": [
+                    "GR",
+                    "AN",
+                    "OLA"
+                ]
+            },
+            {
+                "solution": "PAVLOVA",
+                "hint": "Down under dessert",
+                "segments": [
+                    "PAV",
+                    "LOVA"
+                ]
+            },
+            {
+                "solution": "KIMCHI",
+                "hint": "Fermented Korean crunch",
+                "segments": [
+                    "KI",
+                    "MC",
+                    "HI"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "TIRAMISU",
+                "hint": "Italian pick-me-up",
+                "segments": [
+                    "TI",
+                    "RA",
+                    "MI",
+                    "SU"
+                ]
+            },
+            {
+                "solution": "POPCORN",
+                "hint": "Movie snack explosion",
+                "segments": [
+                    "PO",
+                    "PC",
+                    "ORN"
+                ]
+            },
+            {
+                "solution": "LASAGNA",
+                "hint": "Italian layered delight",
+                "segments": [
+                    "LA",
+                    "SA",
+                    "GNA"
+                ]
+            },
+            {
+                "solution": "BAGUETTE",
+                "hint": "French breadstick",
+                "segments": [
+                    "BA",
+                    "GU",
+                    "ET",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "GELATO",
+                "hint": "Italian ice cream cousin",
+                "segments": [
+                    "GEL",
+                    "ATO"
+                ]
+            },
+            {
+                "solution": "PANCAKE",
+                "hint": "Flat, fluffy breakfast",
+                "segments": [
+                    "PAN",
+                    "CAKE"
+                ]
+            },
+            {
+                "solution": "PANINI",
+                "hint": "Grilled sandwich affair",
+                "segments": [
+                    "PAN",
+                    "INI"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SORBET",
+                "hint": "Fruit-based icy treat",
+                "segments": [
+                    "SO",
+                    "RB",
+                    "ET"
+                ]
+            },
+            {
+                "solution": "NOODLE",
+                "hint": "Slippery strands of joy",
+                "segments": [
+                    "NO",
+                    "OD",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "QUINOA",
+                "hint": "Grain with many vowels",
+                "segments": [
+                    "QU",
+                    "IN",
+                    "OA"
+                ]
+            },
+            {
+                "solution": "FALAFEL",
+                "hint": "Deep-fried chickpea surprise",
+                "segments": [
+                    "FAL",
+                    "AFEL"
+                ]
+            },
+            {
+                "solution": "MARMALADE",
+                "hint": "Citrus spread delight",
+                "segments": [
+                    "MA",
+                    "RM",
+                    "AL",
+                    "ADE"
+                ]
+            },
+            {
+                "solution": "BURRITO",
+                "hint": "Wrapped-up edible treasure",
+                "segments": [
+                    "BU",
+                    "RR",
+                    "ITO"
+                ]
+            },
+            {
+                "solution": "SUSHI",
+                "hint": "Raw seafood chic",
+                "segments": [
+                    "SU",
+                    "SHI"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "TEMPURA",
+                "hint": "Battered and fried",
+                "segments": [
+                    "TE",
+                    "MP",
+                    "URA"
+                ]
+            },
+            {
+                "solution": "CUPCAKE",
+                "hint": "Mini cake temptation",
+                "segments": [
+                    "CU",
+                    "PC",
+                    "AKE"
+                ]
+            },
+            {
+                "solution": "CAKE",
+                "hint": "Frosted celebration",
+                "segments": [
+                    "CA",
+                    "KE"
+                ]
+            },
+            {
+                "solution": "HOTDOG",
+                "hint": "Ballpark favorite",
+                "segments": [
+                    "HO",
+                    "TD",
+                    "OG"
+                ]
+            },
+            {
+                "solution": "WAFFLE",
+                "hint": "Gridlocked breakfast",
+                "segments": [
+                    "WA",
+                    "FF",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "CHOCOLATE",
+                "hint": "Sweet cocoa love",
+                "segments": [
+                    "CH",
+                    "OC",
+                    "OL",
+                    "ATE"
+                ]
+            },
+            {
+                "solution": "FUDGE",
+                "hint": "Chocolatey gooey goodness",
+                "segments": [
+                    "FU",
+                    "DGE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "KEBAB",
+                "hint": "Grilled stick munchies",
+                "segments": [
+                    "KEB",
+                    "AB"
+                ]
+            },
+            {
+                "solution": "PROSCIUTTO",
+                "hint": "Fancy Italian ham",
+                "segments": [
+                    "PR",
+                    "OS",
+                    "CI",
+                    "UT",
+                    "TO"
+                ]
+            },
+            {
+                "solution": "BRUSSELS",
+                "hint": "Love 'em or hate 'em",
+                "segments": [
+                    "BR",
+                    "US",
+                    "SE",
+                    "LS"
+                ]
+            },
+            {
+                "solution": "LOBSTER",
+                "hint": "Red oceanic delicacy",
+                "segments": [
+                    "LOB",
+                    "STER"
+                ]
+            },
+            {
+                "solution": "TORTILLA",
+                "hint": "Round, flat edible plate",
+                "segments": [
+                    "TORT",
+                    "IL",
+                    "LA"
+                ]
+            },
+            {
+                "solution": "PIZZA",
+                "hint": "Triangular cheesy delight",
+                "segments": [
+                    "PIZ",
+                    "ZA"
+                ]
+            },
+            {
+                "solution": "TACO",
+                "hint": "Folded fiesta flavor",
+                "segments": [
+                    "TA",
+                    "CO"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "BAKLAVA",
+                "hint": "Sticky sweet layers",
+                "segments": [
+                    "BA",
+                    "KL",
+                    "AVA"
+                ]
+            },
+            {
+                "solution": "SAUSAGE",
+                "hint": "Tubed meat delight",
+                "segments": [
+                    "SA",
+                    "US",
+                    "AGE"
+                ]
+            },
+            {
+                "solution": "FONDUE",
+                "hint": "Melting pot party",
+                "segments": [
+                    "FO",
+                    "ND",
+                    "UE"
+                ]
+            },
+            {
+                "solution": "RAVIOLI",
+                "hint": "Pillow pasta surprise",
+                "segments": [
+                    "RA",
+                    "VI",
+                    "OLI"
+                ]
+            },
+            {
+                "solution": "BROWNIE",
+                "hint": "Fudgy chocolate square",
+                "segments": [
+                    "BRO",
+                    "WNIE"
+                ]
+            },
+            {
+                "solution": "BANANA",
+                "hint": "A-peeling yellow fruit",
+                "segments": [
+                    "BAN",
+                    "ANA"
+                ]
+            },
+            {
+                "solution": "OMELETTE",
+                "hint": "Eggy ensemble",
+                "segments": [
+                    "OM",
+                    "EL",
+                    "ET",
+                    "TE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "BRATWURST",
+                "hint": "German sausage fest",
+                "segments": [
+                    "BRA",
+                    "TWU",
+                    "RST"
+                ]
+            },
+            {
+                "solution": "JALAPENO",
+                "hint": "Spicy little firecracker",
+                "segments": [
+                    "JA",
+                    "LA",
+                    "PE",
+                    "NO"
+                ]
+            },
+            {
+                "solution": "SOUP",
+                "hint": "Sippable comfort",
+                "segments": [
+                    "SO",
+                    "UP"
+                ]
+            },
+            {
+                "solution": "DONUT",
+                "hint": "Glazed or filled, a treat",
+                "segments": [
+                    "DON",
+                    "UT"
+                ]
+            },
+            {
+                "solution": "SMOOTHIE",
+                "hint": "Blended fruit fusion",
+                "segments": [
+                    "SM",
+                    "OO",
+                    "TH",
+                    "IE"
+                ]
+            },
+            {
+                "solution": "CROISSANT",
+                "hint": "Flaky French roll",
+                "segments": [
+                    "CRO",
+                    "ISS",
+                    "ANT"
+                ]
+            },
+            {
+                "solution": "BACON",
+                "hint": "Crispy piggy treat",
+                "segments": [
+                    "BA",
+                    "CON"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "RAMEN",
+                "hint": "Noodle bowl sensation",
+                "segments": [
+                    "RA",
+                    "MEN"
+                ]
+            },
+            {
+                "solution": "CINNAMON",
+                "hint": "Spice up your roll",
+                "segments": [
+                    "CI",
+                    "NN",
+                    "AM",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "CHURRO",
+                "hint": "Cinnamon sugar fiesta",
+                "segments": [
+                    "CHU",
+                    "RRO"
+                ]
+            },
+            {
+                "solution": "GAZPACHO",
+                "hint": "Chilled tomato refresher",
+                "segments": [
+                    "GA",
+                    "ZP",
+                    "AC",
+                    "HO"
+                ]
+            },
+            {
+                "solution": "WASABI",
+                "hint": "Fiery green condiment",
+                "segments": [
+                    "WA",
+                    "SA",
+                    "BI"
+                ]
+            },
+            {
+                "solution": "PRETZEL",
+                "hint": "Twisty salty snack",
+                "segments": [
+                    "PR",
+                    "ET",
+                    "ZEL"
+                ]
+            },
+            {
+                "solution": "ECLAIR",
+                "hint": "Cream-filled delight",
+                "segments": [
+                    "ECL",
+                    "AIR"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "STRAWBERRY",
+                "hint": "Summer's red gem",
+                "segments": [
+                    "ST",
+                    "RA",
+                    "WB",
+                    "ER",
+                    "RY"
+                ]
+            },
+            {
+                "solution": "CREPE",
+                "hint": "Paper-thin French pancake",
+                "segments": [
+                    "CRE",
+                    "PE"
+                ]
+            },
+            {
+                "solution": "COFFEE",
+                "hint": "Mornings' lifeblood",
+                "segments": [
+                    "CO",
+                    "FF",
+                    "EE"
+                ]
+            },
+            {
+                "solution": "CHEESE",
+                "hint": "Melting dairy magic",
+                "segments": [
+                    "CH",
+                    "EE",
+                    "SE"
+                ]
+            },
+            {
+                "solution": "GUMBO",
+                "hint": "Cajun soup stew",
+                "segments": [
+                    "GUM",
+                    "BO"
+                ]
+            },
+            {
+                "solution": "EDAMAME",
+                "hint": "Snackable soybean",
+                "segments": [
+                    "ED",
+                    "AM",
+                    "AME"
+                ]
+            },
+            {
+                "solution": "JERKY",
+                "hint": "Chewy meat snack",
+                "segments": [
+                    "JER",
+                    "KY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "RISOTTO",
+                "hint": "Creamy rice masterpiece",
+                "segments": [
+                    "RIS",
+                    "OTTO"
+                ]
+            },
+            {
+                "solution": "MUFFIN",
+                "hint": "Cupcake's breakfast sibling",
+                "segments": [
+                    "MU",
+                    "FF",
+                    "IN"
+                ]
+            },
+            {
+                "solution": "SPINACH",
+                "hint": "Popeye's power boost",
+                "segments": [
+                    "SP",
+                    "IN",
+                    "ACH"
+                ]
+            },
+            {
+                "solution": "ARTICHOKE",
+                "hint": "Edible thistle adventure",
+                "segments": [
+                    "AR",
+                    "TI",
+                    "CH",
+                    "OKE"
+                ]
+            },
+            {
+                "solution": "LENTIL",
+                "hint": "Tiny protein-packed legume",
+                "segments": [
+                    "LEN",
+                    "TIL"
+                ]
+            },
+            {
+                "solution": "CURRY",
+                "hint": "Spiced flavor trip",
+                "segments": [
+                    "CUR",
+                    "RY"
+                ]
+            },
+            {
+                "solution": "HAMBURGER",
+                "hint": "Ground beef sandwich",
+                "segments": [
+                    "HA",
+                    "MB",
+                    "UR",
+                    "GER"
+                ]
+            }
+        ]
+    ]
+}

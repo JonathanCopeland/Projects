@@ -1,0 +1,646 @@
+{
+    "name": "Hobbies",
+    "description": "Pleasurable ways to spend time",
+    "levels": [
+        [
+            {
+                "solution": "DANCING",
+                "hint": "Groovy rhythmic moves",
+                "segments": [
+                    "DAN",
+                    "CING"
+                ]
+            },
+            {
+                "solution": "PHOTOGRAPHY",
+                "hint": "Capturing life's moments",
+                "segments": [
+                    "PH",
+                    "OT",
+                    "OG",
+                    "RA",
+                    "PHY"
+                ]
+            },
+            {
+                "solution": "COOKBOOK",
+                "hint": "Recipe rendezvous",
+                "segments": [
+                    "CO",
+                    "OK",
+                    "BO",
+                    "OK"
+                ]
+            },
+            {
+                "solution": "ARCHERY",
+                "hint": "Bullseye backyard hobby",
+                "segments": [
+                    "ARC",
+                    "HERY"
+                ]
+            },
+            {
+                "solution": "MUSIC",
+                "hint": "Melody maker",
+                "segments": [
+                    "MU",
+                    "SIC"
+                ]
+            },
+            {
+                "solution": "SUDOKU",
+                "hint": "Number puzzle pro",
+                "segments": [
+                    "SU",
+                    "DO",
+                    "KU"
+                ]
+            },
+            {
+                "solution": "KENDAMA",
+                "hint": "Japanese skill toy",
+                "segments": [
+                    "KEN",
+                    "DAMA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "EMBROIDERY",
+                "hint": "Thread and needle art",
+                "segments": [
+                    "EM",
+                    "BR",
+                    "OI",
+                    "DE",
+                    "RY"
+                ]
+            },
+            {
+                "solution": "MANGA",
+                "hint": "Japanese comic enthusiast",
+                "segments": [
+                    "MA",
+                    "NGA"
+                ]
+            },
+            {
+                "solution": "SKETCHING",
+                "hint": "Charcoal and paper duet",
+                "segments": [
+                    "SKE",
+                    "TCH",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "CERAMICS",
+                "hint": "Molding muddy masterpieces",
+                "segments": [
+                    "CERA",
+                    "MI",
+                    "CS"
+                ]
+            },
+            {
+                "solution": "SEWING",
+                "hint": "Stitching together fashion",
+                "segments": [
+                    "SEW",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "POTTERY",
+                "hint": "Spinning clay magic",
+                "segments": [
+                    "POT",
+                    "TERY"
+                ]
+            },
+            {
+                "solution": "WRITING",
+                "hint": "Word weaving wizard",
+                "segments": [
+                    "WR",
+                    "IT",
+                    "ING"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CHESS",
+                "hint": "Checkmate strategist",
+                "segments": [
+                    "CH",
+                    "ESS"
+                ]
+            },
+            {
+                "solution": "GUITAR",
+                "hint": "Strumming six-string serenades",
+                "segments": [
+                    "GUI",
+                    "TAR"
+                ]
+            },
+            {
+                "solution": "JOURNALING",
+                "hint": "Diary of the soul",
+                "segments": [
+                    "JOUR",
+                    "NALI",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "INSTRUMENT",
+                "hint": "Musical passion pursuit",
+                "segments": [
+                    "INST",
+                    "RUME",
+                    "NT"
+                ]
+            },
+            {
+                "solution": "JOGGING",
+                "hint": "Pace and perseverance",
+                "segments": [
+                    "JOG",
+                    "GING"
+                ]
+            },
+            {
+                "solution": "LEATHERWORK",
+                "hint": "Crafting hide-bound beauty",
+                "segments": [
+                    "LEA",
+                    "THE",
+                    "RWO",
+                    "RK"
+                ]
+            },
+            {
+                "solution": "SCRAPBOOKING",
+                "hint": "Memory lane collage",
+                "segments": [
+                    "SCR",
+                    "APB",
+                    "OOK",
+                    "ING"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "BAKING",
+                "hint": "Sweet treat alchemy",
+                "segments": [
+                    "BAK",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "UKELELE",
+                "hint": "Tiny tropical tunes",
+                "segments": [
+                    "UKE",
+                    "LELE"
+                ]
+            },
+            {
+                "solution": "STARGAZING",
+                "hint": "Cosmic admirer",
+                "segments": [
+                    "STAR",
+                    "GA",
+                    "ZI",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "PAINTING",
+                "hint": "Brushstroke beauty",
+                "segments": [
+                    "PA",
+                    "IN",
+                    "TI",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "CRAFTING",
+                "hint": "Homemade happiness",
+                "segments": [
+                    "CRAF",
+                    "TING"
+                ]
+            },
+            {
+                "solution": "ROLLERSKATING",
+                "hint": "Eight-wheeled dancer",
+                "segments": [
+                    "ROL",
+                    "LER",
+                    "SKA",
+                    "TING"
+                ]
+            },
+            {
+                "solution": "PUZZLES",
+                "hint": "Piece by piece challenge",
+                "segments": [
+                    "PUZ",
+                    "ZLES"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "READING",
+                "hint": "Wordy escape artist",
+                "segments": [
+                    "READ",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "MODELING",
+                "hint": "Miniature world builder",
+                "segments": [
+                    "MODE",
+                    "LING"
+                ]
+            },
+            {
+                "solution": "MEDITATION",
+                "hint": "Inner peace pursuit",
+                "segments": [
+                    "MEDI",
+                    "TA",
+                    "TI",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "CARDS",
+                "hint": "Deck of pastimes",
+                "segments": [
+                    "CAR",
+                    "DS"
+                ]
+            },
+            {
+                "solution": "GEOCACHING",
+                "hint": "GPS-powered treasure hunt",
+                "segments": [
+                    "GEOC",
+                    "ACHI",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "CROCHETING",
+                "hint": "Hook and loop magic",
+                "segments": [
+                    "CROC",
+                    "HETI",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "CALLIGRAPHY",
+                "hint": "Elegant lettering dance",
+                "segments": [
+                    "CAL",
+                    "LIG",
+                    "RAP",
+                    "HY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "WHITTLED",
+                "hint": "Wood shavings wizardry",
+                "segments": [
+                    "WH",
+                    "IT",
+                    "TL",
+                    "ED"
+                ]
+            },
+            {
+                "solution": "STAMP",
+                "hint": "Philatelic aficionado",
+                "segments": [
+                    "ST",
+                    "AMP"
+                ]
+            },
+            {
+                "solution": "POETRY",
+                "hint": "Verses and rhymes",
+                "segments": [
+                    "PO",
+                    "ET",
+                    "RY"
+                ]
+            },
+            {
+                "solution": "ASTRONOMY",
+                "hint": "Skyward stargazer",
+                "segments": [
+                    "AST",
+                    "RON",
+                    "OMY"
+                ]
+            },
+            {
+                "solution": "TAROT",
+                "hint": "Mystic card reader",
+                "segments": [
+                    "TA",
+                    "ROT"
+                ]
+            },
+            {
+                "solution": "MAGIC",
+                "hint": "Now you see it\u2026",
+                "segments": [
+                    "MA",
+                    "GIC"
+                ]
+            },
+            {
+                "solution": "PUPPETRY",
+                "hint": "Strings attached performance",
+                "segments": [
+                    "PU",
+                    "PP",
+                    "ET",
+                    "RY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "COOKING",
+                "hint": "Culinary masterpiece creator",
+                "segments": [
+                    "COO",
+                    "KING"
+                ]
+            },
+            {
+                "solution": "KARAOKE",
+                "hint": "Living room rock star",
+                "segments": [
+                    "KAR",
+                    "AOKE"
+                ]
+            },
+            {
+                "solution": "DRAWING",
+                "hint": "Pencil meets paper",
+                "segments": [
+                    "DR",
+                    "AW",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "HIKING",
+                "hint": "Taking life's trails",
+                "segments": [
+                    "HI",
+                    "KI",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "KNITTING",
+                "hint": "Purl, stitch, repeat",
+                "segments": [
+                    "KN",
+                    "IT",
+                    "TI",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "YOGA",
+                "hint": "Flexible body and mind",
+                "segments": [
+                    "YO",
+                    "GA"
+                ]
+            },
+            {
+                "solution": "COCKTAIL",
+                "hint": "Mixology maestro",
+                "segments": [
+                    "CO",
+                    "CK",
+                    "TA",
+                    "IL"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CARPENTRY",
+                "hint": "Woodworking wonders",
+                "segments": [
+                    "CAR",
+                    "PEN",
+                    "TRY"
+                ]
+            },
+            {
+                "solution": "QUILTING",
+                "hint": "Patchwork cozy creator",
+                "segments": [
+                    "QUIL",
+                    "TI",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "ASTROLOGY",
+                "hint": "Zodiac whisperer",
+                "segments": [
+                    "AST",
+                    "ROL",
+                    "OGY"
+                ]
+            },
+            {
+                "solution": "CAMPING",
+                "hint": "Starry night sleepovers",
+                "segments": [
+                    "CAM",
+                    "PING"
+                ]
+            },
+            {
+                "solution": "BEEKEEPING",
+                "hint": "Hive mind hobby",
+                "segments": [
+                    "BE",
+                    "EK",
+                    "EE",
+                    "PI",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "TRIVIA",
+                "hint": "Factoid fanatic",
+                "segments": [
+                    "TRI",
+                    "VIA"
+                ]
+            },
+            {
+                "solution": "ORIGAMI",
+                "hint": "Folding paper fun",
+                "segments": [
+                    "ORI",
+                    "GAMI"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SAILING",
+                "hint": "Wind-driven hobby",
+                "segments": [
+                    "SAI",
+                    "LING"
+                ]
+            },
+            {
+                "solution": "BONSAI",
+                "hint": "Miniature tree artist",
+                "segments": [
+                    "BO",
+                    "NS",
+                    "AI"
+                ]
+            },
+            {
+                "solution": "PILOTING",
+                "hint": "Airborne adventure",
+                "segments": [
+                    "PI",
+                    "LO",
+                    "TI",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "WINE",
+                "hint": "Vino virtuoso",
+                "segments": [
+                    "WI",
+                    "NE"
+                ]
+            },
+            {
+                "solution": "COFFEE",
+                "hint": "Home barista bliss",
+                "segments": [
+                    "CO",
+                    "FF",
+                    "EE"
+                ]
+            },
+            {
+                "solution": "FISHING",
+                "hint": "Hook, line, and sinker",
+                "segments": [
+                    "FI",
+                    "SH",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "ACRYLIC",
+                "hint": "Pouring paint passion",
+                "segments": [
+                    "AC",
+                    "RY",
+                    "LIC"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "GENEALOGY",
+                "hint": "Family tree detective",
+                "segments": [
+                    "GEN",
+                    "EAL",
+                    "OGY"
+                ]
+            },
+            {
+                "solution": "GARDENING",
+                "hint": "Cultivating a green thumb",
+                "segments": [
+                    "GAR",
+                    "DEN",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "FENCING",
+                "hint": "En garde! Hobbyist",
+                "segments": [
+                    "FE",
+                    "NC",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "CRYSTALS",
+                "hint": "Vibrant gemstone enthusiast",
+                "segments": [
+                    "CR",
+                    "YS",
+                    "TA",
+                    "LS"
+                ]
+            },
+            {
+                "solution": "VINYL",
+                "hint": "Record-spinning aficionado",
+                "segments": [
+                    "VI",
+                    "NYL"
+                ]
+            },
+            {
+                "solution": "SINGING",
+                "hint": "Vocal chords virtuoso",
+                "segments": [
+                    "SIN",
+                    "GING"
+                ]
+            },
+            {
+                "solution": "JIGSAWS",
+                "hint": "Image assembly ace",
+                "segments": [
+                    "JI",
+                    "GS",
+                    "AWS"
+                ]
+            }
+        ]
+    ]
+}

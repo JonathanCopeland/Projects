@@ -1,0 +1,646 @@
+{
+    "name": "Science",
+    "description": "All the -ologies back to back",
+    "levels": [
+        [
+            {
+                "solution": "CATALYST",
+                "hint": "Reaction's speeding agent",
+                "segments": [
+                    "CATA",
+                    "LYST"
+                ]
+            },
+            {
+                "solution": "HOMOGENEOUS",
+                "hint": "Uniform mixture magic",
+                "segments": [
+                    "HOMO",
+                    "GENE",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "PHOTOSYNTHESIS",
+                "hint": "Sunlight's green cuisine",
+                "segments": [
+                    "PHOT",
+                    "OSYN",
+                    "TH",
+                    "ES",
+                    "IS"
+                ]
+            },
+            {
+                "solution": "BIOSPHERE",
+                "hint": "Life's global habitat",
+                "segments": [
+                    "BIO",
+                    "SPH",
+                    "ERE"
+                ]
+            },
+            {
+                "solution": "ORBIT",
+                "hint": "Celestial body's path",
+                "segments": [
+                    "OR",
+                    "BIT"
+                ]
+            },
+            {
+                "solution": "RELATIVITY",
+                "hint": "Einstein's space-time theory",
+                "segments": [
+                    "RELA",
+                    "TIVI",
+                    "TY"
+                ]
+            },
+            {
+                "solution": "GAMETE",
+                "hint": "Reproductive cell's half",
+                "segments": [
+                    "GAM",
+                    "ETE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "TROPOSPHERE",
+                "hint": "Weather's atmospheric home",
+                "segments": [
+                    "TROP",
+                    "OS",
+                    "PH",
+                    "ERE"
+                ]
+            },
+            {
+                "solution": "AMPERE",
+                "hint": "Electric current's unit",
+                "segments": [
+                    "AMP",
+                    "ERE"
+                ]
+            },
+            {
+                "solution": "VELOCITY",
+                "hint": "Speed's directional side",
+                "segments": [
+                    "VELO",
+                    "CITY"
+                ]
+            },
+            {
+                "solution": "TECTONICS",
+                "hint": "Earth's crustal movement",
+                "segments": [
+                    "TEC",
+                    "TON",
+                    "ICS"
+                ]
+            },
+            {
+                "solution": "QUARK",
+                "hint": "Subatomic building blocks",
+                "segments": [
+                    "QUA",
+                    "RK"
+                ]
+            },
+            {
+                "solution": "PERIODIC",
+                "hint": "Table's elemental dance",
+                "segments": [
+                    "PE",
+                    "RI",
+                    "OD",
+                    "IC"
+                ]
+            },
+            {
+                "solution": "URANIUM",
+                "hint": "Heavy metal's nuclear fuel",
+                "segments": [
+                    "UR",
+                    "AN",
+                    "IUM"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "GENOME",
+                "hint": "Organism's genetic blueprint",
+                "segments": [
+                    "GE",
+                    "NO",
+                    "ME"
+                ]
+            },
+            {
+                "solution": "NUCLEUS",
+                "hint": "Atom's central command",
+                "segments": [
+                    "NU",
+                    "CL",
+                    "EUS"
+                ]
+            },
+            {
+                "solution": "ISOTOPE",
+                "hint": "Atom's family variation",
+                "segments": [
+                    "ISO",
+                    "TOPE"
+                ]
+            },
+            {
+                "solution": "DENSITY",
+                "hint": "Mass per unit volume",
+                "segments": [
+                    "DE",
+                    "NS",
+                    "ITY"
+                ]
+            },
+            {
+                "solution": "CHEMISTRY",
+                "hint": "Molecular bond's science",
+                "segments": [
+                    "CHE",
+                    "MIS",
+                    "TRY"
+                ]
+            },
+            {
+                "solution": "QUANTUM",
+                "hint": "Physics' tiny steps",
+                "segments": [
+                    "QUA",
+                    "NTUM"
+                ]
+            },
+            {
+                "solution": "NEUTRINO",
+                "hint": "Ghostly subatomic traveler",
+                "segments": [
+                    "NE",
+                    "UT",
+                    "RI",
+                    "NO"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "FUSION",
+                "hint": "Atomic nuclei's merger",
+                "segments": [
+                    "FUS",
+                    "ION"
+                ]
+            },
+            {
+                "solution": "METAMORPHIC",
+                "hint": "Rock's transformative identity",
+                "segments": [
+                    "MET",
+                    "AMO",
+                    "RPH",
+                    "IC"
+                ]
+            },
+            {
+                "solution": "BIOLOGY",
+                "hint": "Living organisms' study",
+                "segments": [
+                    "BIO",
+                    "LOGY"
+                ]
+            },
+            {
+                "solution": "TELESCOPE",
+                "hint": "Stargazer's visual aid",
+                "segments": [
+                    "TE",
+                    "LE",
+                    "SC",
+                    "OPE"
+                ]
+            },
+            {
+                "solution": "QUASAR",
+                "hint": "Galactic energetic powerhouse",
+                "segments": [
+                    "QUA",
+                    "SAR"
+                ]
+            },
+            {
+                "solution": "KELVIN",
+                "hint": "Absolute temperature scale",
+                "segments": [
+                    "KE",
+                    "LV",
+                    "IN"
+                ]
+            },
+            {
+                "solution": "VORTEX",
+                "hint": "Swirling fluid motion",
+                "segments": [
+                    "VO",
+                    "RT",
+                    "EX"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "WAVELENGTH",
+                "hint": "Light's colorful measure",
+                "segments": [
+                    "WAVE",
+                    "LE",
+                    "NG",
+                    "TH"
+                ]
+            },
+            {
+                "solution": "CAPACITOR",
+                "hint": "Electronic charge store",
+                "segments": [
+                    "CAP",
+                    "ACI",
+                    "TOR"
+                ]
+            },
+            {
+                "solution": "ENZYME",
+                "hint": "Biological reaction's helper",
+                "segments": [
+                    "ENZ",
+                    "YME"
+                ]
+            },
+            {
+                "solution": "JUNCTION",
+                "hint": "Cellular connection point",
+                "segments": [
+                    "JU",
+                    "NC",
+                    "TI",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "KINETIC",
+                "hint": "Motion's energetic aspect",
+                "segments": [
+                    "KINE",
+                    "TIC"
+                ]
+            },
+            {
+                "solution": "OSMOSIS",
+                "hint": "Membrane's molecular migration",
+                "segments": [
+                    "OSM",
+                    "OSIS"
+                ]
+            },
+            {
+                "solution": "VISCOSITY",
+                "hint": "Liquid's internal resistance",
+                "segments": [
+                    "VIS",
+                    "COS",
+                    "ITY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SOLAR",
+                "hint": "Sun-powered energy",
+                "segments": [
+                    "SOL",
+                    "AR"
+                ]
+            },
+            {
+                "solution": "FIBONACCI",
+                "hint": "Nature's math sequence",
+                "segments": [
+                    "FIB",
+                    "ONA",
+                    "CCI"
+                ]
+            },
+            {
+                "solution": "INERTIA",
+                "hint": "Resistance to motion change",
+                "segments": [
+                    "INER",
+                    "TIA"
+                ]
+            },
+            {
+                "solution": "KRYPTON",
+                "hint": "Noble gas, not Superman's home",
+                "segments": [
+                    "KRY",
+                    "PTON"
+                ]
+            },
+            {
+                "solution": "DEUTERIUM",
+                "hint": "Hydrogen's heavier twin",
+                "segments": [
+                    "DEU",
+                    "TER",
+                    "IUM"
+                ]
+            },
+            {
+                "solution": "SYMBIOSIS",
+                "hint": "Species' mutual partnership",
+                "segments": [
+                    "SYM",
+                    "BIO",
+                    "SIS"
+                ]
+            },
+            {
+                "solution": "ULTRASOUND",
+                "hint": "High-frequency imaging waves",
+                "segments": [
+                    "UL",
+                    "TR",
+                    "AS",
+                    "OU",
+                    "ND"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "NEUROLOGY",
+                "hint": "Nervous system's study",
+                "segments": [
+                    "NEU",
+                    "ROL",
+                    "OGY"
+                ]
+            },
+            {
+                "solution": "OZONE",
+                "hint": "Atmospheric triple oxygen",
+                "segments": [
+                    "OZ",
+                    "ONE"
+                ]
+            },
+            {
+                "solution": "ZIRCONIUM",
+                "hint": "Versatile metallic element",
+                "segments": [
+                    "ZIR",
+                    "CON",
+                    "IUM"
+                ]
+            },
+            {
+                "solution": "THERMODYNAMICS",
+                "hint": "Heat's energetic rules",
+                "segments": [
+                    "THER",
+                    "MO",
+                    "DY",
+                    "NA",
+                    "MI",
+                    "CS"
+                ]
+            },
+            {
+                "solution": "GRAVITY",
+                "hint": "Weighty force of attraction",
+                "segments": [
+                    "GRA",
+                    "VITY"
+                ]
+            },
+            {
+                "solution": "UNIVERSE",
+                "hint": "Cosmic everything bagel",
+                "segments": [
+                    "UNIV",
+                    "ERSE"
+                ]
+            },
+            {
+                "solution": "CARBON",
+                "hint": "Life's elemental backbone",
+                "segments": [
+                    "CAR",
+                    "BON"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "BACTERIA",
+                "hint": "Microscopic life's singletons",
+                "segments": [
+                    "BA",
+                    "CT",
+                    "ER",
+                    "IA"
+                ]
+            },
+            {
+                "solution": "ELECTRON",
+                "hint": "Atom's negatively charged mate",
+                "segments": [
+                    "EL",
+                    "EC",
+                    "TR",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "KILOJOULE",
+                "hint": "Energy's metric measure",
+                "segments": [
+                    "KIL",
+                    "OJO",
+                    "ULE"
+                ]
+            },
+            {
+                "solution": "VACUUM",
+                "hint": "Space's sparse substance",
+                "segments": [
+                    "VAC",
+                    "UUM"
+                ]
+            },
+            {
+                "solution": "HELIX",
+                "hint": "DNA's twisted ladder",
+                "segments": [
+                    "HEL",
+                    "IX"
+                ]
+            },
+            {
+                "solution": "JETSTREAM",
+                "hint": "Atmospheric speedy highway",
+                "segments": [
+                    "JE",
+                    "TS",
+                    "TR",
+                    "EAM"
+                ]
+            },
+            {
+                "solution": "ION",
+                "hint": "Charged particle's imbalance",
+                "segments": [
+                    "ION"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "MAGNETISM",
+                "hint": "Invisible force of attraction",
+                "segments": [
+                    "MAG",
+                    "NET",
+                    "ISM"
+                ]
+            },
+            {
+                "solution": "DIFFRACTION",
+                "hint": "Wave's bending phenomenon",
+                "segments": [
+                    "DIFF",
+                    "RACT",
+                    "ION"
+                ]
+            },
+            {
+                "solution": "PETRI",
+                "hint": "Culture dish's namesake",
+                "segments": [
+                    "PE",
+                    "TRI"
+                ]
+            },
+            {
+                "solution": "AEROBIC",
+                "hint": "Oxygen-fueled respiration",
+                "segments": [
+                    "AERO",
+                    "BIC"
+                ]
+            },
+            {
+                "solution": "LUMINESCENCE",
+                "hint": "Glowing without heat",
+                "segments": [
+                    "LUM",
+                    "INE",
+                    "SCE",
+                    "NCE"
+                ]
+            },
+            {
+                "solution": "PHOTON",
+                "hint": "Light's particle wave",
+                "segments": [
+                    "PHO",
+                    "TON"
+                ]
+            },
+            {
+                "solution": "RADIOACTIVE",
+                "hint": "Unstable nucleus's decay",
+                "segments": [
+                    "RAD",
+                    "IOA",
+                    "CTI",
+                    "VE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ELASTICITY",
+                "hint": "Material's stretchy ability",
+                "segments": [
+                    "EL",
+                    "AS",
+                    "TI",
+                    "CI",
+                    "TY"
+                ]
+            },
+            {
+                "solution": "ELEMENT",
+                "hint": "Matter's pure substance",
+                "segments": [
+                    "ELE",
+                    "MENT"
+                ]
+            },
+            {
+                "solution": "WATT",
+                "hint": "Power's measuring unit",
+                "segments": [
+                    "WA",
+                    "TT"
+                ]
+            },
+            {
+                "solution": "GAMMA",
+                "hint": "High-energy photon",
+                "segments": [
+                    "GA",
+                    "MMA"
+                ]
+            },
+            {
+                "solution": "SATELLITE",
+                "hint": "Orbiting celestial sidekick",
+                "segments": [
+                    "SAT",
+                    "ELL",
+                    "ITE"
+                ]
+            },
+            {
+                "solution": "DIODE",
+                "hint": "Current's one-way gate",
+                "segments": [
+                    "DIO",
+                    "DE"
+                ]
+            },
+            {
+                "solution": "FRICTION",
+                "hint": "Surface's resistant force",
+                "segments": [
+                    "FR",
+                    "IC",
+                    "TI",
+                    "ON"
+                ]
+            }
+        ]
+    ]
+}

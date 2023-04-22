@@ -1,0 +1,646 @@
+{
+    "name": "Animals",
+    "description": "Fluffy friends and foes",
+    "levels": [
+        [
+            {
+                "solution": "PLATYPUS",
+                "hint": "Nature's Franken-critter",
+                "segments": [
+                    "PLA",
+                    "TYP",
+                    "US"
+                ]
+            },
+            {
+                "solution": "AXOLOTL",
+                "hint": "Forever young amphibian",
+                "segments": [
+                    "AX",
+                    "OL",
+                    "OTL"
+                ]
+            },
+            {
+                "solution": "TARANTULA",
+                "hint": "Hairiest leg contest winner",
+                "segments": [
+                    "TAR",
+                    "ANT",
+                    "ULA"
+                ]
+            },
+            {
+                "solution": "PANDA",
+                "hint": "Black and white leaf eater",
+                "segments": [
+                    "PAN",
+                    "DA"
+                ]
+            },
+            {
+                "solution": "COCKATOO",
+                "hint": "Feathered punk rocker",
+                "segments": [
+                    "COC",
+                    "KA",
+                    "TOO"
+                ]
+            },
+            {
+                "solution": "CROCODILE",
+                "hint": "Reptilian ambush master",
+                "segments": [
+                    "CRO",
+                    "COD",
+                    "ILE"
+                ]
+            },
+            {
+                "solution": "KANGAROO",
+                "hint": "Aussie pouch commuter",
+                "segments": [
+                    "KAN",
+                    "GAR",
+                    "OO"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CAPYBARA",
+                "hint": "Rodent relaxation expert",
+                "segments": [
+                    "CAPY",
+                    "BARA"
+                ]
+            },
+            {
+                "solution": "WARTHOG",
+                "hint": "Whiskered wild pig",
+                "segments": [
+                    "WART",
+                    "HOG"
+                ]
+            },
+            {
+                "solution": "ELEPHANT",
+                "hint": "Never forgets a face",
+                "segments": [
+                    "EL",
+                    "EP",
+                    "HA",
+                    "NT"
+                ]
+            },
+            {
+                "solution": "SHARK",
+                "hint": "Ocean's misunderstood predator",
+                "segments": [
+                    "SH",
+                    "ARK"
+                ]
+            },
+            {
+                "solution": "PARROT",
+                "hint": "Feathered copycat",
+                "segments": [
+                    "PAR",
+                    "ROT"
+                ]
+            },
+            {
+                "solution": "GRASSHOPPER",
+                "hint": "Leaping green bug",
+                "segments": [
+                    "GRAS",
+                    "SH",
+                    "OP",
+                    "PER"
+                ]
+            },
+            {
+                "solution": "HIPPOPOTAMUS",
+                "hint": "River horse",
+                "segments": [
+                    "HIP",
+                    "POP",
+                    "OTA",
+                    "MUS"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "IGUANA",
+                "hint": "Lizard lounge king",
+                "segments": [
+                    "IG",
+                    "UA",
+                    "NA"
+                ]
+            },
+            {
+                "solution": "SQUIRREL",
+                "hint": "Nutty tree climber",
+                "segments": [
+                    "SQ",
+                    "UI",
+                    "RR",
+                    "EL"
+                ]
+            },
+            {
+                "solution": "MANATEE",
+                "hint": "Gentle underwater potato",
+                "segments": [
+                    "MAN",
+                    "ATEE"
+                ]
+            },
+            {
+                "solution": "KOALA",
+                "hint": "Tree-hugging specialist",
+                "segments": [
+                    "KOA",
+                    "LA"
+                ]
+            },
+            {
+                "solution": "SKUNK",
+                "hint": "Scented stripe-wearer",
+                "segments": [
+                    "SK",
+                    "UNK"
+                ]
+            },
+            {
+                "solution": "FLAMINGO",
+                "hint": "Stand-up pink comedian",
+                "segments": [
+                    "FL",
+                    "AM",
+                    "IN",
+                    "GO"
+                ]
+            },
+            {
+                "solution": "BEAVER",
+                "hint": "Dam engineer",
+                "segments": [
+                    "BE",
+                    "AV",
+                    "ER"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HEDGEHOG",
+                "hint": "Nature's pin cushion",
+                "segments": [
+                    "HE",
+                    "DG",
+                    "EH",
+                    "OG"
+                ]
+            },
+            {
+                "solution": "BISON",
+                "hint": "American prairie heavyweight",
+                "segments": [
+                    "BI",
+                    "SON"
+                ]
+            },
+            {
+                "solution": "GAZELLE",
+                "hint": "Graceful desert dancer",
+                "segments": [
+                    "GAZ",
+                    "ELLE"
+                ]
+            },
+            {
+                "solution": "HUMMINGBIRD",
+                "hint": "Aerial nectar sipper",
+                "segments": [
+                    "HU",
+                    "MM",
+                    "IN",
+                    "GBI",
+                    "RD"
+                ]
+            },
+            {
+                "solution": "TURTLE",
+                "hint": "Mobile home owner",
+                "segments": [
+                    "TU",
+                    "RT",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "VULTURE",
+                "hint": "Bald-headed cleanup crew",
+                "segments": [
+                    "VUL",
+                    "TURE"
+                ]
+            },
+            {
+                "solution": "KIWI",
+                "hint": "Bird with a fruit name",
+                "segments": [
+                    "KI",
+                    "WI"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "RACCOON",
+                "hint": "Masked midnight raider",
+                "segments": [
+                    "RA",
+                    "CC",
+                    "OON"
+                ]
+            },
+            {
+                "solution": "TERMITE",
+                "hint": "Wood munching menace",
+                "segments": [
+                    "TER",
+                    "MITE"
+                ]
+            },
+            {
+                "solution": "ALPACA",
+                "hint": "Fuzzy fashion model",
+                "segments": [
+                    "AL",
+                    "PA",
+                    "CA"
+                ]
+            },
+            {
+                "solution": "FENNEC",
+                "hint": "Listens for desert gossip",
+                "segments": [
+                    "FE",
+                    "NN",
+                    "EC"
+                ]
+            },
+            {
+                "solution": "MOOSE",
+                "hint": "Antlered forest monarch",
+                "segments": [
+                    "MOO",
+                    "SE"
+                ]
+            },
+            {
+                "solution": "CHIMPANZEE",
+                "hint": "Cousin with an attitude",
+                "segments": [
+                    "CH",
+                    "IM",
+                    "PA",
+                    "NZ",
+                    "EE"
+                ]
+            },
+            {
+                "solution": "TIGER",
+                "hint": "Striped forest stalker",
+                "segments": [
+                    "TIG",
+                    "ER"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "KOMODO",
+                "hint": "Dragon of the islands",
+                "segments": [
+                    "KOM",
+                    "ODO"
+                ]
+            },
+            {
+                "solution": "JACKAL",
+                "hint": "Cunning scavenger",
+                "segments": [
+                    "JA",
+                    "CK",
+                    "AL"
+                ]
+            },
+            {
+                "solution": "CHEETAH",
+                "hint": "Speeding ticket candidate",
+                "segments": [
+                    "CHE",
+                    "ETAH"
+                ]
+            },
+            {
+                "solution": "QUOKKA",
+                "hint": "World's happiest marsupial",
+                "segments": [
+                    "QU",
+                    "OK",
+                    "KA"
+                ]
+            },
+            {
+                "solution": "ARMADILLO",
+                "hint": "Medieval knight wannabe",
+                "segments": [
+                    "AR",
+                    "MA",
+                    "DI",
+                    "LLO"
+                ]
+            },
+            {
+                "solution": "STARFISH",
+                "hint": "Celestial sea dweller",
+                "segments": [
+                    "ST",
+                    "AR",
+                    "FI",
+                    "SH"
+                ]
+            },
+            {
+                "solution": "LOBSTER",
+                "hint": "Pinching gourmet favorite",
+                "segments": [
+                    "LOB",
+                    "STER"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "NARWHAL",
+                "hint": "Sea unicorn warrior",
+                "segments": [
+                    "NAR",
+                    "WHAL"
+                ]
+            },
+            {
+                "solution": "ANGLERFISH",
+                "hint": "Deep-sea fisherman",
+                "segments": [
+                    "AN",
+                    "GL",
+                    "ER",
+                    "FI",
+                    "SH"
+                ]
+            },
+            {
+                "solution": "WOMBAT",
+                "hint": "Burrower down under",
+                "segments": [
+                    "WOM",
+                    "BAT"
+                ]
+            },
+            {
+                "solution": "PUFFERFISH",
+                "hint": "Inflate-a-fish",
+                "segments": [
+                    "PUF",
+                    "FE",
+                    "RFI",
+                    "SH"
+                ]
+            },
+            {
+                "solution": "STINGRAY",
+                "hint": "Submarine kite",
+                "segments": [
+                    "STI",
+                    "NGR",
+                    "AY"
+                ]
+            },
+            {
+                "solution": "PENGUIN",
+                "hint": "Tuxedo-clad waddler",
+                "segments": [
+                    "PEN",
+                    "GUIN"
+                ]
+            },
+            {
+                "solution": "PEACOCK",
+                "hint": "Flaunting the tail fashion",
+                "segments": [
+                    "PEAC",
+                    "OCK"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "LEOPARD",
+                "hint": "Stealthy fashionista",
+                "segments": [
+                    "LE",
+                    "OP",
+                    "ARD"
+                ]
+            },
+            {
+                "solution": "SLOTH",
+                "hint": "World's slowest acrobat",
+                "segments": [
+                    "SL",
+                    "OTH"
+                ]
+            },
+            {
+                "solution": "ANTELOPE",
+                "hint": "Horned sprinter",
+                "segments": [
+                    "AN",
+                    "TE",
+                    "LO",
+                    "PE"
+                ]
+            },
+            {
+                "solution": "WOLVERINE",
+                "hint": "Ferocious forest weasel",
+                "segments": [
+                    "WO",
+                    "LV",
+                    "ER",
+                    "INE"
+                ]
+            },
+            {
+                "solution": "SALMON",
+                "hint": "Uphill swimmer",
+                "segments": [
+                    "SAL",
+                    "MON"
+                ]
+            },
+            {
+                "solution": "OCTOPUS",
+                "hint": "Undersea multitasker",
+                "segments": [
+                    "OC",
+                    "TO",
+                    "PUS"
+                ]
+            },
+            {
+                "solution": "MEERKAT",
+                "hint": "Pop-up prairie dog",
+                "segments": [
+                    "MEE",
+                    "RKAT"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "PIRANHA",
+                "hint": "Sharp-toothed swim team",
+                "segments": [
+                    "PI",
+                    "RA",
+                    "NHA"
+                ]
+            },
+            {
+                "solution": "PORCUPINE",
+                "hint": "Never short on quills",
+                "segments": [
+                    "PO",
+                    "RC",
+                    "UP",
+                    "INE"
+                ]
+            },
+            {
+                "solution": "WALRUS",
+                "hint": "Tusky beach bum",
+                "segments": [
+                    "WA",
+                    "LR",
+                    "US"
+                ]
+            },
+            {
+                "solution": "SNAIL",
+                "hint": "Life in the slow lane",
+                "segments": [
+                    "SN",
+                    "AIL"
+                ]
+            },
+            {
+                "solution": "ORANGUTAN",
+                "hint": "Ape with a hairstyle",
+                "segments": [
+                    "ORA",
+                    "NGU",
+                    "TAN"
+                ]
+            },
+            {
+                "solution": "GOPHER",
+                "hint": "Tunneling turf terror",
+                "segments": [
+                    "GO",
+                    "PH",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "COYOTE",
+                "hint": "Cunning canine trickster",
+                "segments": [
+                    "COY",
+                    "OTE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "LEMUR",
+                "hint": "Party animal of Madagascar",
+                "segments": [
+                    "LEM",
+                    "UR"
+                ]
+            },
+            {
+                "solution": "FALCON",
+                "hint": "Speed demon of the skies",
+                "segments": [
+                    "FAL",
+                    "CON"
+                ]
+            },
+            {
+                "solution": "DRAGONFLY",
+                "hint": "Flight pattern virtuoso",
+                "segments": [
+                    "DRA",
+                    "GON",
+                    "FLY"
+                ]
+            },
+            {
+                "solution": "DOLPHIN",
+                "hint": "Aquatic chatterbox",
+                "segments": [
+                    "DO",
+                    "LP",
+                    "HIN"
+                ]
+            },
+            {
+                "solution": "RHINOCEROS",
+                "hint": "Horned savannah tank",
+                "segments": [
+                    "RHIN",
+                    "OC",
+                    "ER",
+                    "OS"
+                ]
+            },
+            {
+                "solution": "AARDVARK",
+                "hint": "Anteater's alphabet buddy",
+                "segments": [
+                    "AA",
+                    "RDV",
+                    "ARK"
+                ]
+            },
+            {
+                "solution": "GIRAFFE",
+                "hint": "A real high achiever",
+                "segments": [
+                    "GI",
+                    "RA",
+                    "FFE"
+                ]
+            }
+        ]
+    ]
+}

@@ -1,0 +1,646 @@
+{
+    "name": "Manga and Anime",
+    "description": "The latest adventures from Japan",
+    "levels": [
+        [
+            {
+                "solution": "ZENITSU",
+                "hint": "Lightning-fast companion",
+                "segments": [
+                    "ZEN",
+                    "ITSU"
+                ]
+            },
+            {
+                "solution": "KAGOME",
+                "hint": "Modern schoolgirl, ancient hero",
+                "segments": [
+                    "KA",
+                    "GO",
+                    "ME"
+                ]
+            },
+            {
+                "solution": "KAORU",
+                "hint": "Dojo owner and love interest",
+                "segments": [
+                    "KAO",
+                    "RU"
+                ]
+            },
+            {
+                "solution": "OROCHIMARU",
+                "hint": "Snake-like antagonist",
+                "segments": [
+                    "OR",
+                    "OC",
+                    "HI",
+                    "MA",
+                    "RU"
+                ]
+            },
+            {
+                "solution": "KIRITO",
+                "hint": "Sword Art Online warrior",
+                "segments": [
+                    "KIR",
+                    "ITO"
+                ]
+            },
+            {
+                "solution": "NARUTO",
+                "hint": "Ramen-loving ninja",
+                "segments": [
+                    "NA",
+                    "RU",
+                    "TO"
+                ]
+            },
+            {
+                "solution": "ITACHI",
+                "hint": "Tragic Uchiha brother",
+                "segments": [
+                    "IT",
+                    "AC",
+                    "HI"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SANGO",
+                "hint": "Demon-slaying exterminator",
+                "segments": [
+                    "SAN",
+                    "GO"
+                ]
+            },
+            {
+                "solution": "ROBIN",
+                "hint": "Mysterious archaeologist",
+                "segments": [
+                    "ROB",
+                    "IN"
+                ]
+            },
+            {
+                "solution": "AKIRA",
+                "hint": "Post-apocalyptic Tokyo",
+                "segments": [
+                    "AKI",
+                    "RA"
+                ]
+            },
+            {
+                "solution": "KONOHAGAKURE",
+                "hint": "Hidden Leaf Village",
+                "segments": [
+                    "KON",
+                    "OHA",
+                    "GAK",
+                    "URE"
+                ]
+            },
+            {
+                "solution": "NARANCIA",
+                "hint": "Aerosmith Stand user",
+                "segments": [
+                    "NA",
+                    "RA",
+                    "NC",
+                    "IA"
+                ]
+            },
+            {
+                "solution": "NEZUKO",
+                "hint": "Demonic little sister",
+                "segments": [
+                    "NEZ",
+                    "UKO"
+                ]
+            },
+            {
+                "solution": "KUROSAKI",
+                "hint": "Family name of a Soul Reaper",
+                "segments": [
+                    "KU",
+                    "RO",
+                    "SA",
+                    "KI"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "KURAMA",
+                "hint": "Fox demon strategist",
+                "segments": [
+                    "KU",
+                    "RA",
+                    "MA"
+                ]
+            },
+            {
+                "solution": "BEERUS",
+                "hint": "God of Destruction",
+                "segments": [
+                    "BE",
+                    "ER",
+                    "US"
+                ]
+            },
+            {
+                "solution": "YUGI",
+                "hint": "King of Games",
+                "segments": [
+                    "YU",
+                    "GI"
+                ]
+            },
+            {
+                "solution": "BAKUGO",
+                "hint": "Explosive rival",
+                "segments": [
+                    "BAK",
+                    "UGO"
+                ]
+            },
+            {
+                "solution": "GRIFFITH",
+                "hint": "Ambitious antagonist",
+                "segments": [
+                    "GR",
+                    "IF",
+                    "FI",
+                    "TH"
+                ]
+            },
+            {
+                "solution": "MIROKU",
+                "hint": "Monk with a cursed hand",
+                "segments": [
+                    "MI",
+                    "RO",
+                    "KU"
+                ]
+            },
+            {
+                "solution": "YEAGER",
+                "hint": "Titan-slaying hero",
+                "segments": [
+                    "YE",
+                    "AG",
+                    "ER"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "LUFFY",
+                "hint": "Rubber-limbed pirate",
+                "segments": [
+                    "LUF",
+                    "FY"
+                ]
+            },
+            {
+                "solution": "SAILORMOON",
+                "hint": "Serena, moon princess",
+                "segments": [
+                    "SA",
+                    "IL",
+                    "OR",
+                    "MO",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "EDWARD",
+                "hint": "Fullmetal alchemist",
+                "segments": [
+                    "ED",
+                    "WA",
+                    "RD"
+                ]
+            },
+            {
+                "solution": "TANJIRO",
+                "hint": "Demon-slaying sibling",
+                "segments": [
+                    "TA",
+                    "NJ",
+                    "IRO"
+                ]
+            },
+            {
+                "solution": "JOTARO",
+                "hint": "Stand user extraordinaire",
+                "segments": [
+                    "JO",
+                    "TA",
+                    "RO"
+                ]
+            },
+            {
+                "solution": "SASUKE",
+                "hint": "Sharingan-wielding prodigy",
+                "segments": [
+                    "SAS",
+                    "UKE"
+                ]
+            },
+            {
+                "solution": "DEKU",
+                "hint": "My Hero Academia's hero",
+                "segments": [
+                    "DE",
+                    "KU"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "TSUNADE",
+                "hint": "Legendary medical ninja",
+                "segments": [
+                    "TS",
+                    "UN",
+                    "ADE"
+                ]
+            },
+            {
+                "solution": "FRANKY",
+                "hint": "Cyborg shipwright",
+                "segments": [
+                    "FR",
+                    "AN",
+                    "KY"
+                ]
+            },
+            {
+                "solution": "TETSUO",
+                "hint": "Unstable esper",
+                "segments": [
+                    "TE",
+                    "TS",
+                    "UO"
+                ]
+            },
+            {
+                "solution": "KILLUA",
+                "hint": "Assassin best friend",
+                "segments": [
+                    "KIL",
+                    "LUA"
+                ]
+            },
+            {
+                "solution": "INUYASHA",
+                "hint": "Half-demon dog boy",
+                "segments": [
+                    "IN",
+                    "UY",
+                    "AS",
+                    "HA"
+                ]
+            },
+            {
+                "solution": "FRIEZA",
+                "hint": "Emperor of the universe",
+                "segments": [
+                    "FRI",
+                    "EZA"
+                ]
+            },
+            {
+                "solution": "KAMINA",
+                "hint": "Cape-wearing big bro",
+                "segments": [
+                    "KA",
+                    "MI",
+                    "NA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "GUTS",
+                "hint": "Berserk swordsman",
+                "segments": [
+                    "GU",
+                    "TS"
+                ]
+            },
+            {
+                "solution": "LELOUCH",
+                "hint": "Ready for a sunrise rebellion",
+                "segments": [
+                    "LE",
+                    "LO",
+                    "UCH"
+                ]
+            },
+            {
+                "solution": "JINBE",
+                "hint": "Fish-man helmsman",
+                "segments": [
+                    "JI",
+                    "NBE"
+                ]
+            },
+            {
+                "solution": "BROOK",
+                "hint": "Singing skeleton",
+                "segments": [
+                    "BRO",
+                    "OK"
+                ]
+            },
+            {
+                "solution": "SATORU",
+                "hint": "Teen mentor",
+                "segments": [
+                    "SA",
+                    "TO",
+                    "RU"
+                ]
+            },
+            {
+                "solution": "SENJOUGAHARA",
+                "hint": "Crabby student",
+                "segments": [
+                    "SE",
+                    "NJ",
+                    "OU",
+                    "GA",
+                    "HA",
+                    "RA"
+                ]
+            },
+            {
+                "solution": "BULMA",
+                "hint": "Dragon Ball genius",
+                "segments": [
+                    "BU",
+                    "LMA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "YAGAMI",
+                "hint": "Murder he wrote",
+                "segments": [
+                    "YA",
+                    "GA",
+                    "MI"
+                ]
+            },
+            {
+                "solution": "ICHIGO",
+                "hint": "Strawberry-haired Soul Reaper",
+                "segments": [
+                    "IC",
+                    "HI",
+                    "GO"
+                ]
+            },
+            {
+                "solution": "SPIKE",
+                "hint": "Bounty hunter bebop",
+                "segments": [
+                    "SPI",
+                    "KE"
+                ]
+            },
+            {
+                "solution": "GHIACCIO",
+                "hint": "Chilling Stand user",
+                "segments": [
+                    "GH",
+                    "IA",
+                    "CC",
+                    "IO"
+                ]
+            },
+            {
+                "solution": "RUKIA",
+                "hint": "Death God in training",
+                "segments": [
+                    "RU",
+                    "KIA"
+                ]
+            },
+            {
+                "solution": "VEGETA",
+                "hint": "Prince of all Saiyans",
+                "segments": [
+                    "VE",
+                    "GE",
+                    "TA"
+                ]
+            },
+            {
+                "solution": "SAITAMA",
+                "hint": "Ordinary man, extraordinary strength",
+                "segments": [
+                    "SA",
+                    "IT",
+                    "AMA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CHIFUYU",
+                "hint": "First division vice captain",
+                "segments": [
+                    "CHI",
+                    "FUYU"
+                ]
+            },
+            {
+                "solution": "KAKASHI",
+                "hint": "Copy Ninja sensei",
+                "segments": [
+                    "KA",
+                    "KA",
+                    "SHI"
+                ]
+            },
+            {
+                "solution": "ARATAKA",
+                "hint": "World's #1 psychic, maybe",
+                "segments": [
+                    "AR",
+                    "AT",
+                    "AKA"
+                ]
+            },
+            {
+                "solution": "YUSUKE",
+                "hint": "Spirit Detective",
+                "segments": [
+                    "YU",
+                    "SU",
+                    "KE"
+                ]
+            },
+            {
+                "solution": "PICCOLO",
+                "hint": "Green, alien mentor",
+                "segments": [
+                    "PI",
+                    "CC",
+                    "OLO"
+                ]
+            },
+            {
+                "solution": "TOTORO",
+                "hint": "Forest guardian",
+                "segments": [
+                    "TOT",
+                    "ORO"
+                ]
+            },
+            {
+                "solution": "ALPHONSE",
+                "hint": "Armor-bound brother",
+                "segments": [
+                    "AL",
+                    "PH",
+                    "ON",
+                    "SE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "RORONOA",
+                "hint": "Three-sword swashbuckler",
+                "segments": [
+                    "ROR",
+                    "ONOA"
+                ]
+            },
+            {
+                "solution": "KENSHIN",
+                "hint": "Wandering swordsman",
+                "segments": [
+                    "KE",
+                    "NS",
+                    "HIN"
+                ]
+            },
+            {
+                "solution": "JIREN",
+                "hint": "Stoic alien fighter",
+                "segments": [
+                    "JI",
+                    "REN"
+                ]
+            },
+            {
+                "solution": "JOJO",
+                "hint": "Bizarre adventures await",
+                "segments": [
+                    "JO",
+                    "JO"
+                ]
+            },
+            {
+                "solution": "RINTARO",
+                "hint": "Adventuring scientist",
+                "segments": [
+                    "RI",
+                    "NT",
+                    "ARO"
+                ]
+            },
+            {
+                "solution": "SHINIGAMI",
+                "hint": "Death Gods in Bleach",
+                "segments": [
+                    "SH",
+                    "IN",
+                    "IG",
+                    "AMI"
+                ]
+            },
+            {
+                "solution": "AKATSUKI",
+                "hint": "Infamous criminal organization",
+                "segments": [
+                    "AK",
+                    "AT",
+                    "SU",
+                    "KI"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "MADOKA",
+                "hint": "Magical girl with a twist",
+                "segments": [
+                    "MAD",
+                    "OKA"
+                ]
+            },
+            {
+                "solution": "MIKASA",
+                "hint": "Scarf-wearing warrior",
+                "segments": [
+                    "MI",
+                    "KA",
+                    "SA"
+                ]
+            },
+            {
+                "solution": "PIKACHU",
+                "hint": "Iconic electric mouse",
+                "segments": [
+                    "PI",
+                    "KA",
+                    "CHU"
+                ]
+            },
+            {
+                "solution": "GOKU",
+                "hint": "Earth's mightiest Saiyan",
+                "segments": [
+                    "GO",
+                    "KU"
+                ]
+            },
+            {
+                "solution": "HINATA",
+                "hint": "Shy, powerful kunoichi",
+                "segments": [
+                    "HI",
+                    "NA",
+                    "TA"
+                ]
+            },
+            {
+                "solution": "CHOPPER",
+                "hint": "Doctor reindeer",
+                "segments": [
+                    "CH",
+                    "OP",
+                    "PER"
+                ]
+            },
+            {
+                "solution": "ACKERMAN",
+                "hint": "Humanity's strongest soldier",
+                "segments": [
+                    "AC",
+                    "KE",
+                    "RM",
+                    "AN"
+                ]
+            }
+        ]
+    ]
+}

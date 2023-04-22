@@ -1,0 +1,646 @@
+{
+    "name": "School",
+    "description": "Time to study!",
+    "levels": [
+        [
+            {
+                "solution": "FRESHMAN",
+                "hint": "Newbie in academia",
+                "segments": [
+                    "FRES",
+                    "HMAN"
+                ]
+            },
+            {
+                "solution": "LABORATORY",
+                "hint": "Science class workspace",
+                "segments": [
+                    "LA",
+                    "BO",
+                    "RA",
+                    "TO",
+                    "RY"
+                ]
+            },
+            {
+                "solution": "CRAMMING",
+                "hint": "Last-minute study marathon",
+                "segments": [
+                    "CRAM",
+                    "MING"
+                ]
+            },
+            {
+                "solution": "QUIZ",
+                "hint": "Classroom's mini challenge",
+                "segments": [
+                    "QU",
+                    "IZ"
+                ]
+            },
+            {
+                "solution": "SCHOLARSHIP",
+                "hint": "Financial study help",
+                "segments": [
+                    "SCH",
+                    "OLA",
+                    "RSH",
+                    "IP"
+                ]
+            },
+            {
+                "solution": "GYMNASIUM",
+                "hint": "Physical education's home",
+                "segments": [
+                    "GYM",
+                    "NAS",
+                    "IUM"
+                ]
+            },
+            {
+                "solution": "BOTANY",
+                "hint": "Plant life's exploration",
+                "segments": [
+                    "BOT",
+                    "ANY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "MAJOR",
+                "hint": "Degree's specialized focus",
+                "segments": [
+                    "MAJ",
+                    "OR"
+                ]
+            },
+            {
+                "solution": "JUNIOR",
+                "hint": "Middle-tier academic",
+                "segments": [
+                    "JU",
+                    "NI",
+                    "OR"
+                ]
+            },
+            {
+                "solution": "LECTURE",
+                "hint": "Wisdom from the podium",
+                "segments": [
+                    "LE",
+                    "CT",
+                    "URE"
+                ]
+            },
+            {
+                "solution": "PHYSICS",
+                "hint": "Matter and energy's rules",
+                "segments": [
+                    "PHY",
+                    "SICS"
+                ]
+            },
+            {
+                "solution": "BIOLOGY",
+                "hint": "Life's textbook study",
+                "segments": [
+                    "BI",
+                    "OL",
+                    "OGY"
+                ]
+            },
+            {
+                "solution": "FACULTY",
+                "hint": "Professors and staff team",
+                "segments": [
+                    "FAC",
+                    "ULTY"
+                ]
+            },
+            {
+                "solution": "VOLLEYBALL",
+                "hint": "Net's athletic encounter",
+                "segments": [
+                    "VO",
+                    "LL",
+                    "EY",
+                    "BA",
+                    "LL"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "FRATERNITY",
+                "hint": "Brotherhood's collegiate bond",
+                "segments": [
+                    "FRAT",
+                    "ERNI",
+                    "TY"
+                ]
+            },
+            {
+                "solution": "KNOWLEDGE",
+                "hint": "Pursuit of wisdom",
+                "segments": [
+                    "KNO",
+                    "WLE",
+                    "DGE"
+                ]
+            },
+            {
+                "solution": "BIOCHEMISTRY",
+                "hint": "Cellular reaction expert",
+                "segments": [
+                    "BIO",
+                    "CHE",
+                    "MIS",
+                    "TRY"
+                ]
+            },
+            {
+                "solution": "MATHEMATICS",
+                "hint": "Numbers' logical playground",
+                "segments": [
+                    "MATH",
+                    "EMAT",
+                    "ICS"
+                ]
+            },
+            {
+                "solution": "UNIVERSITY",
+                "hint": "Higher education's hub",
+                "segments": [
+                    "UNIV",
+                    "ERSI",
+                    "TY"
+                ]
+            },
+            {
+                "solution": "THESIS",
+                "hint": "Scholar's written masterpiece",
+                "segments": [
+                    "THE",
+                    "SIS"
+                ]
+            },
+            {
+                "solution": "WORKSHOP",
+                "hint": "Hands-on learning session",
+                "segments": [
+                    "WORK",
+                    "SHOP"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ORIENTATION",
+                "hint": "Freshman's guided tour",
+                "segments": [
+                    "ORI",
+                    "ENT",
+                    "ATI",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "SEMESTER",
+                "hint": "Half an academic year",
+                "segments": [
+                    "SEME",
+                    "ST",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "FINALS",
+                "hint": "End-of-term academic hurdle",
+                "segments": [
+                    "FIN",
+                    "ALS"
+                ]
+            },
+            {
+                "solution": "ADMISSION",
+                "hint": "University's entry ticket",
+                "segments": [
+                    "ADM",
+                    "ISS",
+                    "ION"
+                ]
+            },
+            {
+                "solution": "JOURNALISM",
+                "hint": "News and storytelling trade",
+                "segments": [
+                    "JOUR",
+                    "NALI",
+                    "SM"
+                ]
+            },
+            {
+                "solution": "ZOOLOGY",
+                "hint": "Animal kingdom's study",
+                "segments": [
+                    "ZOO",
+                    "LOGY"
+                ]
+            },
+            {
+                "solution": "ASTRONOMY",
+                "hint": "Stargazing science",
+                "segments": [
+                    "AST",
+                    "RON",
+                    "OMY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HOMEWORK",
+                "hint": "After-school assignments",
+                "segments": [
+                    "HOME",
+                    "WORK"
+                ]
+            },
+            {
+                "solution": "ORGANIZATION",
+                "hint": "Campus club collective",
+                "segments": [
+                    "ORG",
+                    "ANI",
+                    "ZAT",
+                    "ION"
+                ]
+            },
+            {
+                "solution": "ALUMNI",
+                "hint": "Graduates' united network",
+                "segments": [
+                    "ALU",
+                    "MNI"
+                ]
+            },
+            {
+                "solution": "PHILOSOPHY",
+                "hint": "Deep thoughts and reasoning",
+                "segments": [
+                    "PHIL",
+                    "OSOP",
+                    "HY"
+                ]
+            },
+            {
+                "solution": "PSYCHOLOGY",
+                "hint": "Mind and behavior study",
+                "segments": [
+                    "PSYC",
+                    "HOLO",
+                    "GY"
+                ]
+            },
+            {
+                "solution": "WHITEBOARD",
+                "hint": "Professor's clean slate",
+                "segments": [
+                    "WHIT",
+                    "EBOA",
+                    "RD"
+                ]
+            },
+            {
+                "solution": "DIPLOMA",
+                "hint": "Academic achievement paper",
+                "segments": [
+                    "DI",
+                    "PL",
+                    "OMA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "NURSING",
+                "hint": "Healing profession's school",
+                "segments": [
+                    "NUR",
+                    "SING"
+                ]
+            },
+            {
+                "solution": "FELLOWSHIP",
+                "hint": "Prestigious research grant",
+                "segments": [
+                    "FELL",
+                    "OW",
+                    "SH",
+                    "IP"
+                ]
+            },
+            {
+                "solution": "INTERNSHIP",
+                "hint": "Practical career experience",
+                "segments": [
+                    "INTE",
+                    "RNSH",
+                    "IP"
+                ]
+            },
+            {
+                "solution": "RESEARCH",
+                "hint": "Scholarly knowledge quest",
+                "segments": [
+                    "RE",
+                    "SE",
+                    "AR",
+                    "CH"
+                ]
+            },
+            {
+                "solution": "TEACHER",
+                "hint": "Classroom's guiding light",
+                "segments": [
+                    "TEA",
+                    "CHER"
+                ]
+            },
+            {
+                "solution": "DISCUSSION",
+                "hint": "Interactive class format",
+                "segments": [
+                    "DISC",
+                    "USSI",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "ENGLISH",
+                "hint": "Language, lit, and syntax",
+                "segments": [
+                    "ENG",
+                    "LISH"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "BOOKSTORE",
+                "hint": "Campus literary haven",
+                "segments": [
+                    "BOO",
+                    "KST",
+                    "ORE"
+                ]
+            },
+            {
+                "solution": "ALGEBRA",
+                "hint": "X marks the equation",
+                "segments": [
+                    "AL",
+                    "GE",
+                    "BRA"
+                ]
+            },
+            {
+                "solution": "HONORS",
+                "hint": "Academic distinction club",
+                "segments": [
+                    "HON",
+                    "ORS"
+                ]
+            },
+            {
+                "solution": "BACHELOR",
+                "hint": "First degree milestone",
+                "segments": [
+                    "BA",
+                    "CH",
+                    "EL",
+                    "OR"
+                ]
+            },
+            {
+                "solution": "CALCULUS",
+                "hint": "Mathematics' infinite limits",
+                "segments": [
+                    "CA",
+                    "LC",
+                    "UL",
+                    "US"
+                ]
+            },
+            {
+                "solution": "DORM",
+                "hint": "Students' temporary nest",
+                "segments": [
+                    "DO",
+                    "RM"
+                ]
+            },
+            {
+                "solution": "LIBRARY",
+                "hint": "Bookworm's sanctuary",
+                "segments": [
+                    "LIB",
+                    "RARY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ECONOMICS",
+                "hint": "Money and market studies",
+                "segments": [
+                    "ECO",
+                    "NOM",
+                    "ICS"
+                ]
+            },
+            {
+                "solution": "EXAM",
+                "hint": "Academic progress judge",
+                "segments": [
+                    "EX",
+                    "AM"
+                ]
+            },
+            {
+                "solution": "GRADUATE",
+                "hint": "Degree achiever",
+                "segments": [
+                    "GR",
+                    "AD",
+                    "UA",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "QUESTION",
+                "hint": "Classroom's curious spark",
+                "segments": [
+                    "QUES",
+                    "TI",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "YEARBOOK",
+                "hint": "School's annual memories",
+                "segments": [
+                    "YEAR",
+                    "BO",
+                    "OK"
+                ]
+            },
+            {
+                "solution": "GEOGRAPHY",
+                "hint": "Earth's scenic blueprint",
+                "segments": [
+                    "GEO",
+                    "GRA",
+                    "PHY"
+                ]
+            },
+            {
+                "solution": "DEAN",
+                "hint": "School's guiding figure",
+                "segments": [
+                    "DE",
+                    "AN"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "TUTOR",
+                "hint": "Extra help's guiding hand",
+                "segments": [
+                    "TU",
+                    "TOR"
+                ]
+            },
+            {
+                "solution": "ZOOM",
+                "hint": "Virtual classroom meet-up",
+                "segments": [
+                    "ZO",
+                    "OM"
+                ]
+            },
+            {
+                "solution": "LITERATURE",
+                "hint": "Written word's study",
+                "segments": [
+                    "LITE",
+                    "RA",
+                    "TU",
+                    "RE"
+                ]
+            },
+            {
+                "solution": "RECESS",
+                "hint": "Schoolyard's playful break",
+                "segments": [
+                    "REC",
+                    "ESS"
+                ]
+            },
+            {
+                "solution": "ELECTIVE",
+                "hint": "Optional course buffet",
+                "segments": [
+                    "EL",
+                    "EC",
+                    "TI",
+                    "VE"
+                ]
+            },
+            {
+                "solution": "UMBRELLA",
+                "hint": "Campus rain shield",
+                "segments": [
+                    "UM",
+                    "BR",
+                    "EL",
+                    "LA"
+                ]
+            },
+            {
+                "solution": "TUITION",
+                "hint": "Education's hefty price",
+                "segments": [
+                    "TUI",
+                    "TION"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CHEMISTRY",
+                "hint": "Molecular bonding tales",
+                "segments": [
+                    "CHE",
+                    "MIS",
+                    "TRY"
+                ]
+            },
+            {
+                "solution": "SORORITY",
+                "hint": "Sisterhood's collegiate bond",
+                "segments": [
+                    "SORO",
+                    "RI",
+                    "TY"
+                ]
+            },
+            {
+                "solution": "ESSAY",
+                "hint": "Prose-based assignment",
+                "segments": [
+                    "ESS",
+                    "AY"
+                ]
+            },
+            {
+                "solution": "HUMANITIES",
+                "hint": "Arts and culture studies",
+                "segments": [
+                    "HU",
+                    "MA",
+                    "NI",
+                    "TI",
+                    "ES"
+                ]
+            },
+            {
+                "solution": "HISTORY",
+                "hint": "Humanity's recorded tales",
+                "segments": [
+                    "HIS",
+                    "TORY"
+                ]
+            },
+            {
+                "solution": "SYLLABUS",
+                "hint": "Semester's road map",
+                "segments": [
+                    "SYLL",
+                    "AB",
+                    "US"
+                ]
+            },
+            {
+                "solution": "CHALK",
+                "hint": "Classroom's dusty ancestor",
+                "segments": [
+                    "CHA",
+                    "LK"
+                ]
+            }
+        ]
+    ]
+}

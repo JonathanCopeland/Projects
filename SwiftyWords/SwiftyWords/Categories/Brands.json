@@ -1,0 +1,646 @@
+{
+    "name": "Brands",
+    "description": "Where your money usually goes",
+    "levels": [
+        [
+            {
+                "solution": "VICTORINOX",
+                "hint": "Swiss Army savior",
+                "segments": [
+                    "VI",
+                    "CT",
+                    "OR",
+                    "IN",
+                    "OX"
+                ]
+            },
+            {
+                "solution": "IKEA",
+                "hint": "Swedish furniture maze",
+                "segments": [
+                    "IK",
+                    "EA"
+                ]
+            },
+            {
+                "solution": "LENOVO",
+                "hint": "ThinkPad pros",
+                "segments": [
+                    "LE",
+                    "NO",
+                    "VO"
+                ]
+            },
+            {
+                "solution": "FERRARI",
+                "hint": "Prancing horsepower",
+                "segments": [
+                    "FE",
+                    "RR",
+                    "ARI"
+                ]
+            },
+            {
+                "solution": "MARVEL",
+                "hint": "Assemble the merchandise",
+                "segments": [
+                    "MA",
+                    "RV",
+                    "EL"
+                ]
+            },
+            {
+                "solution": "ROLEX",
+                "hint": "Timeless luxury",
+                "segments": [
+                    "ROL",
+                    "EX"
+                ]
+            },
+            {
+                "solution": "NETFLIX",
+                "hint": "Binge-watch haven",
+                "segments": [
+                    "NET",
+                    "FLIX"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "STARBUCKS",
+                "hint": "Siren of caffeine",
+                "segments": [
+                    "ST",
+                    "AR",
+                    "BU",
+                    "CKS"
+                ]
+            },
+            {
+                "solution": "GOOGLE",
+                "hint": "The know-it-all",
+                "segments": [
+                    "GO",
+                    "OG",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "LINKEDIN",
+                "hint": "Joining your network",
+                "segments": [
+                    "LI",
+                    "NK",
+                    "ED",
+                    "IN"
+                ]
+            },
+            {
+                "solution": "PANTENE",
+                "hint": "Crowning hair glory",
+                "segments": [
+                    "PAN",
+                    "TENE"
+                ]
+            },
+            {
+                "solution": "DORITOS",
+                "hint": "Crunchy triangle delight",
+                "segments": [
+                    "DOR",
+                    "ITOS"
+                ]
+            },
+            {
+                "solution": "SONY",
+                "hint": "Playstation powerhouse",
+                "segments": [
+                    "SO",
+                    "NY"
+                ]
+            },
+            {
+                "solution": "TWITCH",
+                "hint": "Streams for fun and profit",
+                "segments": [
+                    "TW",
+                    "IT",
+                    "CH"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ORACLE",
+                "hint": "Tech fortune telling",
+                "segments": [
+                    "OR",
+                    "AC",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "PORSCHE",
+                "hint": "Speed and luxury",
+                "segments": [
+                    "PO",
+                    "RS",
+                    "CHE"
+                ]
+            },
+            {
+                "solution": "YOUTUBE",
+                "hint": "Where viral videos reside",
+                "segments": [
+                    "YOU",
+                    "TUBE"
+                ]
+            },
+            {
+                "solution": "SEPHORA",
+                "hint": "Makeup mecca",
+                "segments": [
+                    "SE",
+                    "PH",
+                    "ORA"
+                ]
+            },
+            {
+                "solution": "MASTERCARD",
+                "hint": "Priceless possibilities",
+                "segments": [
+                    "MA",
+                    "ST",
+                    "ER",
+                    "CA",
+                    "RD"
+                ]
+            },
+            {
+                "solution": "TOYOTA",
+                "hint": "Oh, what a feeling!",
+                "segments": [
+                    "TOY",
+                    "OTA"
+                ]
+            },
+            {
+                "solution": "ATARI",
+                "hint": "Pioneering pixels",
+                "segments": [
+                    "AT",
+                    "ARI"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "GATORADE",
+                "hint": "Thirst-quenching victory",
+                "segments": [
+                    "GA",
+                    "TO",
+                    "RA",
+                    "DE"
+                ]
+            },
+            {
+                "solution": "SPOTIFY",
+                "hint": "Your musical universe",
+                "segments": [
+                    "SPO",
+                    "TIFY"
+                ]
+            },
+            {
+                "solution": "MERCEDES",
+                "hint": "Luxury on wheels",
+                "segments": [
+                    "ME",
+                    "RC",
+                    "ED",
+                    "ES"
+                ]
+            },
+            {
+                "solution": "GIBSON",
+                "hint": "Strings of rock",
+                "segments": [
+                    "GI",
+                    "BS",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "TESLA",
+                "hint": "Electric dreams",
+                "segments": [
+                    "TES",
+                    "LA"
+                ]
+            },
+            {
+                "solution": "SUBWAY",
+                "hint": "Freshly made footlongs",
+                "segments": [
+                    "SUB",
+                    "WAY"
+                ]
+            },
+            {
+                "solution": "NUTELLA",
+                "hint": "Chocolate hazelnut heaven",
+                "segments": [
+                    "NU",
+                    "TE",
+                    "LLA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "UBISOFT",
+                "hint": "Assassin's gaming creed",
+                "segments": [
+                    "UB",
+                    "IS",
+                    "OFT"
+                ]
+            },
+            {
+                "solution": "PINTEREST",
+                "hint": "Visual bookmarks",
+                "segments": [
+                    "PI",
+                    "NT",
+                    "ER",
+                    "EST"
+                ]
+            },
+            {
+                "solution": "NESTLE",
+                "hint": "Sweet chocolate retreat",
+                "segments": [
+                    "NES",
+                    "TLE"
+                ]
+            },
+            {
+                "solution": "BEATS",
+                "hint": "Music to your ears",
+                "segments": [
+                    "BEA",
+                    "TS"
+                ]
+            },
+            {
+                "solution": "ADIDAS",
+                "hint": "Three-striped style",
+                "segments": [
+                    "ADI",
+                    "DAS"
+                ]
+            },
+            {
+                "solution": "CANON",
+                "hint": "Click, capture, create",
+                "segments": [
+                    "CA",
+                    "NON"
+                ]
+            },
+            {
+                "solution": "VOLKSWAGEN",
+                "hint": "Fahrvergn\u00fcgen fun",
+                "segments": [
+                    "VO",
+                    "LK",
+                    "SW",
+                    "AG",
+                    "EN"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "MCDONALDS",
+                "hint": "Golden arches",
+                "segments": [
+                    "MC",
+                    "DO",
+                    "NA",
+                    "LDS"
+                ]
+            },
+            {
+                "solution": "PEPSI",
+                "hint": "Blue refreshment rival",
+                "segments": [
+                    "PE",
+                    "PSI"
+                ]
+            },
+            {
+                "solution": "HONDA",
+                "hint": "Power of dreams",
+                "segments": [
+                    "HO",
+                    "NDA"
+                ]
+            },
+            {
+                "solution": "SAMSUNG",
+                "hint": "Galaxy of gadgets",
+                "segments": [
+                    "SA",
+                    "MS",
+                    "UNG"
+                ]
+            },
+            {
+                "solution": "WIKIPEDIA",
+                "hint": "Collaborative knowledge base",
+                "segments": [
+                    "WI",
+                    "KI",
+                    "PE",
+                    "DIA"
+                ]
+            },
+            {
+                "solution": "KITKAT",
+                "hint": "Snappable deliciousness",
+                "segments": [
+                    "KI",
+                    "TK",
+                    "AT"
+                ]
+            },
+            {
+                "solution": "PIXAR",
+                "hint": "Lamp of storytelling",
+                "segments": [
+                    "PIX",
+                    "AR"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "TARGET",
+                "hint": "Bullseye buys",
+                "segments": [
+                    "TA",
+                    "RG",
+                    "ET"
+                ]
+            },
+            {
+                "solution": "AIRBNB",
+                "hint": "Home away from home",
+                "segments": [
+                    "AI",
+                    "RB",
+                    "NB"
+                ]
+            },
+            {
+                "solution": "REDBULL",
+                "hint": "Winged energy",
+                "segments": [
+                    "RE",
+                    "DB",
+                    "ULL"
+                ]
+            },
+            {
+                "solution": "MONSTER",
+                "hint": "Green adrenaline",
+                "segments": [
+                    "MON",
+                    "STER"
+                ]
+            },
+            {
+                "solution": "GILLETTE",
+                "hint": "The best a man can get",
+                "segments": [
+                    "GI",
+                    "LL",
+                    "ET",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "FENDER",
+                "hint": "Strumming legends",
+                "segments": [
+                    "FE",
+                    "ND",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "WALMART",
+                "hint": "Rollback retail",
+                "segments": [
+                    "WAL",
+                    "MART"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "LEGO",
+                "hint": "Build your dreams",
+                "segments": [
+                    "LE",
+                    "GO"
+                ]
+            },
+            {
+                "solution": "APPLE",
+                "hint": "Fruit of technology",
+                "segments": [
+                    "APP",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "SUBARU",
+                "hint": "Love-driven adventures",
+                "segments": [
+                    "SU",
+                    "BA",
+                    "RU"
+                ]
+            },
+            {
+                "solution": "AMAZON",
+                "hint": "Online retail jungle",
+                "segments": [
+                    "AM",
+                    "AZ",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "REEBOK",
+                "hint": "Pump up your kicks",
+                "segments": [
+                    "RE",
+                    "EB",
+                    "OK"
+                ]
+            },
+            {
+                "solution": "VERSACE",
+                "hint": "Medusa's couture",
+                "segments": [
+                    "VE",
+                    "RS",
+                    "ACE"
+                ]
+            },
+            {
+                "solution": "LANDROVER",
+                "hint": "Rugged, refined rides",
+                "segments": [
+                    "LA",
+                    "ND",
+                    "RO",
+                    "VER"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "FANTA",
+                "hint": "Orange soda fantasies",
+                "segments": [
+                    "FAN",
+                    "TA"
+                ]
+            },
+            {
+                "solution": "NIKE",
+                "hint": "Swoosh to success",
+                "segments": [
+                    "NI",
+                    "KE"
+                ]
+            },
+            {
+                "solution": "MICROSOFT",
+                "hint": "Windows to success",
+                "segments": [
+                    "MIC",
+                    "ROS",
+                    "OFT"
+                ]
+            },
+            {
+                "solution": "CRAIGSLIST",
+                "hint": "Classified everything",
+                "segments": [
+                    "CRAI",
+                    "GSLI",
+                    "ST"
+                ]
+            },
+            {
+                "solution": "TRIPADVISOR",
+                "hint": "Your holiday helper",
+                "segments": [
+                    "TRI",
+                    "PAD",
+                    "VIS",
+                    "OR"
+                ]
+            },
+            {
+                "solution": "NINTENDO",
+                "hint": "Gaming's all-stars",
+                "segments": [
+                    "NI",
+                    "NT",
+                    "EN",
+                    "DO"
+                ]
+            },
+            {
+                "solution": "NIVEA",
+                "hint": "Cream of the crop",
+                "segments": [
+                    "NI",
+                    "VEA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SUPREME",
+                "hint": "Hypebeast heaven",
+                "segments": [
+                    "SU",
+                    "PR",
+                    "EME"
+                ]
+            },
+            {
+                "solution": "COSTCO",
+                "hint": "Big boxes, bigger shelves",
+                "segments": [
+                    "CO",
+                    "ST",
+                    "CO"
+                ]
+            },
+            {
+                "solution": "CHANEL",
+                "hint": "No. 1 style icon",
+                "segments": [
+                    "CH",
+                    "AN",
+                    "EL"
+                ]
+            },
+            {
+                "solution": "FACEBOOK",
+                "hint": "Hub for over-sharing",
+                "segments": [
+                    "FA",
+                    "CE",
+                    "BO",
+                    "OK"
+                ]
+            },
+            {
+                "solution": "VOLVO",
+                "hint": "Swedish safety stars",
+                "segments": [
+                    "VOL",
+                    "VO"
+                ]
+            },
+            {
+                "solution": "DISNEY",
+                "hint": "Mouse House magic",
+                "segments": [
+                    "DI",
+                    "SN",
+                    "EY"
+                ]
+            },
+            {
+                "solution": "NOKIA",
+                "hint": "Ancient connectors",
+                "segments": [
+                    "NO",
+                    "KIA"
+                ]
+            }
+        ]
+    ]
+}

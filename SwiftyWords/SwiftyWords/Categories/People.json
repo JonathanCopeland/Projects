@@ -1,0 +1,646 @@
+{
+    "name": "People",
+    "description": "Thinkers, makers, and more",
+    "levels": [
+        [
+            {
+                "solution": "NIGHTINGALE",
+                "hint": "Lady with the lamp",
+                "segments": [
+                    "NI",
+                    "GH",
+                    "TI",
+                    "NG",
+                    "ALE"
+                ]
+            },
+            {
+                "solution": "FLEMING",
+                "hint": "Penicillin and Bond",
+                "segments": [
+                    "FLE",
+                    "MING"
+                ]
+            },
+            {
+                "solution": "CHAPLIN",
+                "hint": "Silent film star",
+                "segments": [
+                    "CH",
+                    "AP",
+                    "LIN"
+                ]
+            },
+            {
+                "solution": "PICASSO",
+                "hint": "Cubism's creator",
+                "segments": [
+                    "PI",
+                    "CA",
+                    "SSO"
+                ]
+            },
+            {
+                "solution": "CARLIN",
+                "hint": "Witty wordsmith",
+                "segments": [
+                    "CAR",
+                    "LIN"
+                ]
+            },
+            {
+                "solution": "REMBRANDT",
+                "hint": "Dutch master of light",
+                "segments": [
+                    "REM",
+                    "BRA",
+                    "NDT"
+                ]
+            },
+            {
+                "solution": "KELLER",
+                "hint": "Overcoming adversity",
+                "segments": [
+                    "KEL",
+                    "LER"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HAMILTON",
+                "hint": "Duel or nothing",
+                "segments": [
+                    "HA",
+                    "MI",
+                    "LT",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "MARADONA",
+                "hint": "Hand of God",
+                "segments": [
+                    "MA",
+                    "RA",
+                    "DO",
+                    "NA"
+                ]
+            },
+            {
+                "solution": "NEWTON",
+                "hint": "Gravitationally inspired",
+                "segments": [
+                    "NEW",
+                    "TON"
+                ]
+            },
+            {
+                "solution": "DICKENS",
+                "hint": "Victorian literary master",
+                "segments": [
+                    "DI",
+                    "CK",
+                    "ENS"
+                ]
+            },
+            {
+                "solution": "HAWKING",
+                "hint": "A brief history of brilliance",
+                "segments": [
+                    "HAW",
+                    "KING"
+                ]
+            },
+            {
+                "solution": "PRESLEY",
+                "hint": "Hips don't lie",
+                "segments": [
+                    "PR",
+                    "ES",
+                    "LEY"
+                ]
+            },
+            {
+                "solution": "COBAIN",
+                "hint": "Grunge icon",
+                "segments": [
+                    "COB",
+                    "AIN"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "RINGO",
+                "hint": "Beatles' backbeat",
+                "segments": [
+                    "RI",
+                    "NGO"
+                ]
+            },
+            {
+                "solution": "GUEVARA",
+                "hint": "Revolutionary icon",
+                "segments": [
+                    "GU",
+                    "EV",
+                    "ARA"
+                ]
+            },
+            {
+                "solution": "GATES",
+                "hint": "Windows to riches",
+                "segments": [
+                    "GA",
+                    "TES"
+                ]
+            },
+            {
+                "solution": "MARLEY",
+                "hint": "Reggae legend",
+                "segments": [
+                    "MA",
+                    "RL",
+                    "EY"
+                ]
+            },
+            {
+                "solution": "GANDHI",
+                "hint": "Nonviolent game changer",
+                "segments": [
+                    "GAN",
+                    "DHI"
+                ]
+            },
+            {
+                "solution": "BEYONCE",
+                "hint": "Queen Bey",
+                "segments": [
+                    "BE",
+                    "YO",
+                    "NCE"
+                ]
+            },
+            {
+                "solution": "COPERNICUS",
+                "hint": "Solar system switcharoo",
+                "segments": [
+                    "CO",
+                    "PE",
+                    "RN",
+                    "IC",
+                    "US"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "DARWIN",
+                "hint": "Evolutionary trailblazer",
+                "segments": [
+                    "DA",
+                    "RW",
+                    "IN"
+                ]
+            },
+            {
+                "solution": "ARMSTRONG",
+                "hint": "Moonwalking pioneer",
+                "segments": [
+                    "AR",
+                    "MS",
+                    "TR",
+                    "ONG"
+                ]
+            },
+            {
+                "solution": "KUBRICK",
+                "hint": "Enigmatic filmmaker",
+                "segments": [
+                    "KU",
+                    "BR",
+                    "ICK"
+                ]
+            },
+            {
+                "solution": "DOYLE",
+                "hint": "Sherlock's creator",
+                "segments": [
+                    "DO",
+                    "YLE"
+                ]
+            },
+            {
+                "solution": "DISNEY",
+                "hint": "Magical kingdom creator",
+                "segments": [
+                    "DI",
+                    "SN",
+                    "EY"
+                ]
+            },
+            {
+                "solution": "GALILEO",
+                "hint": "Stargazing rebel",
+                "segments": [
+                    "GA",
+                    "LI",
+                    "LEO"
+                ]
+            },
+            {
+                "solution": "TESLA",
+                "hint": "Electrifying inventor",
+                "segments": [
+                    "TE",
+                    "SLA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "NOSTRADAMUS",
+                "hint": "Prophecy predictor",
+                "segments": [
+                    "NOS",
+                    "TRA",
+                    "DAM",
+                    "US"
+                ]
+            },
+            {
+                "solution": "POLLOCK",
+                "hint": "Drip painting pioneer",
+                "segments": [
+                    "PO",
+                    "LL",
+                    "OCK"
+                ]
+            },
+            {
+                "solution": "EINSTEIN",
+                "hint": "Relative genius",
+                "segments": [
+                    "EI",
+                    "NS",
+                    "TE",
+                    "IN"
+                ]
+            },
+            {
+                "solution": "MONROE",
+                "hint": "Blonde bombshell",
+                "segments": [
+                    "MON",
+                    "ROE"
+                ]
+            },
+            {
+                "solution": "BACH",
+                "hint": "Baroque's best",
+                "segments": [
+                    "BA",
+                    "CH"
+                ]
+            },
+            {
+                "solution": "SINATRA",
+                "hint": "Chairman of the Board",
+                "segments": [
+                    "SIN",
+                    "ATRA"
+                ]
+            },
+            {
+                "solution": "MOZART",
+                "hint": "Musical prodigy",
+                "segments": [
+                    "MO",
+                    "ZA",
+                    "RT"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CLEOPATRA",
+                "hint": "Nile's enchantress",
+                "segments": [
+                    "CLE",
+                    "OPA",
+                    "TRA"
+                ]
+            },
+            {
+                "solution": "WILDE",
+                "hint": "Witty Victorian playwright",
+                "segments": [
+                    "WIL",
+                    "DE"
+                ]
+            },
+            {
+                "solution": "LINCOLN",
+                "hint": "Emancipation proclamation",
+                "segments": [
+                    "LI",
+                    "NC",
+                    "OLN"
+                ]
+            },
+            {
+                "solution": "THATCHER",
+                "hint": "Iron Lady",
+                "segments": [
+                    "TH",
+                    "AT",
+                    "CH",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "HEPBURN",
+                "hint": "Classy and iconic",
+                "segments": [
+                    "HE",
+                    "PB",
+                    "URN"
+                ]
+            },
+            {
+                "solution": "MCQUEEN",
+                "hint": "Cool king of cinema",
+                "segments": [
+                    "MC",
+                    "QU",
+                    "EEN"
+                ]
+            },
+            {
+                "solution": "FREUD",
+                "hint": "Dream analyzer",
+                "segments": [
+                    "FR",
+                    "EUD"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HOUDINI",
+                "hint": "Magical escape artist",
+                "segments": [
+                    "HO",
+                    "UD",
+                    "INI"
+                ]
+            },
+            {
+                "solution": "CHOPIN",
+                "hint": "Pianist par excellence",
+                "segments": [
+                    "CH",
+                    "OP",
+                    "IN"
+                ]
+            },
+            {
+                "solution": "EARHART",
+                "hint": "Fearless flyer",
+                "segments": [
+                    "EA",
+                    "RH",
+                    "ART"
+                ]
+            },
+            {
+                "solution": "AUSTEN",
+                "hint": "Classic romance novelist",
+                "segments": [
+                    "AU",
+                    "ST",
+                    "EN"
+                ]
+            },
+            {
+                "solution": "HITCHCOCK",
+                "hint": "Master of suspense",
+                "segments": [
+                    "HIT",
+                    "CHC",
+                    "OCK"
+                ]
+            },
+            {
+                "solution": "CURIE",
+                "hint": "Radiant discoverer",
+                "segments": [
+                    "CU",
+                    "RIE"
+                ]
+            },
+            {
+                "solution": "CLINTON",
+                "hint": "Sax-playing President",
+                "segments": [
+                    "CL",
+                    "IN",
+                    "TON"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "LOVELACE",
+                "hint": "Early programmer Ada",
+                "segments": [
+                    "LO",
+                    "VE",
+                    "LA",
+                    "CE"
+                ]
+            },
+            {
+                "solution": "BUFFETT",
+                "hint": "Investment oracle",
+                "segments": [
+                    "BU",
+                    "FF",
+                    "ETT"
+                ]
+            },
+            {
+                "solution": "PANKHURST",
+                "hint": "Suffragette leader",
+                "segments": [
+                    "PAN",
+                    "KHU",
+                    "RST"
+                ]
+            },
+            {
+                "solution": "BOWIE",
+                "hint": "Ziggy Stardust's alter ego",
+                "segments": [
+                    "BO",
+                    "WIE"
+                ]
+            },
+            {
+                "solution": "TWAIN",
+                "hint": "Mississippi storyteller",
+                "segments": [
+                    "TWA",
+                    "IN"
+                ]
+            },
+            {
+                "solution": "ELLINGTON",
+                "hint": "Jazz royalty",
+                "segments": [
+                    "ELL",
+                    "ING",
+                    "TON"
+                ]
+            },
+            {
+                "solution": "BEETHOVEN",
+                "hint": "Composed through silence",
+                "segments": [
+                    "BEE",
+                    "THO",
+                    "VEN"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "OPRAH",
+                "hint": "Talk show titan",
+                "segments": [
+                    "OP",
+                    "RAH"
+                ]
+            },
+            {
+                "solution": "CHURCHILL",
+                "hint": "British bulldog",
+                "segments": [
+                    "CH",
+                    "UR",
+                    "CH",
+                    "ILL"
+                ]
+            },
+            {
+                "solution": "SHAKESPEARE",
+                "hint": "Bard of Avon",
+                "segments": [
+                    "SH",
+                    "AK",
+                    "ES",
+                    "PE",
+                    "ARE"
+                ]
+            },
+            {
+                "solution": "TUBMAN",
+                "hint": "Freedom's conductor",
+                "segments": [
+                    "TUB",
+                    "MAN"
+                ]
+            },
+            {
+                "solution": "CAPONE",
+                "hint": "Infamous crime boss",
+                "segments": [
+                    "CAP",
+                    "ONE"
+                ]
+            },
+            {
+                "solution": "MANDELA",
+                "hint": "Freedom fighter",
+                "segments": [
+                    "MAN",
+                    "DELA"
+                ]
+            },
+            {
+                "solution": "TURING",
+                "hint": "Codebreaking genius",
+                "segments": [
+                    "TU",
+                    "RI",
+                    "NG"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "FRANKLIN",
+                "hint": "Renaissance Founding Father",
+                "segments": [
+                    "FR",
+                    "AN",
+                    "KL",
+                    "IN"
+                ]
+            },
+            {
+                "solution": "KING",
+                "hint": "Dreamer of equality",
+                "segments": [
+                    "KI",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "EDISON",
+                "hint": "Lightbulb moment",
+                "segments": [
+                    "EDI",
+                    "SON"
+                ]
+            },
+            {
+                "solution": "NOBEL",
+                "hint": "Dynamite prizes",
+                "segments": [
+                    "NO",
+                    "BEL"
+                ]
+            },
+            {
+                "solution": "BONAPARTE",
+                "hint": "Height-challenged conqueror",
+                "segments": [
+                    "BO",
+                    "NA",
+                    "PA",
+                    "RTE"
+                ]
+            },
+            {
+                "solution": "KENNEDY",
+                "hint": "Camelot's clan",
+                "segments": [
+                    "KE",
+                    "NN",
+                    "EDY"
+                ]
+            },
+            {
+                "solution": "JORDAN",
+                "hint": "Basketball's high flyer",
+                "segments": [
+                    "JO",
+                    "RD",
+                    "AN"
+                ]
+            }
+        ]
+    ]
+}

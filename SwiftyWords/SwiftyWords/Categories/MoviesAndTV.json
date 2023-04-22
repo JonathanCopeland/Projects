@@ -1,0 +1,646 @@
+{
+    "name": "Movies and TV",
+    "description": "There's always something on the box",
+    "levels": [
+        [
+            {
+                "solution": "DOCUMENTARY",
+                "hint": "Real-life story showcase",
+                "segments": [
+                    "DO",
+                    "CU",
+                    "ME",
+                    "NT",
+                    "ARY"
+                ]
+            },
+            {
+                "solution": "MAKEUP",
+                "hint": "Transformative artistry",
+                "segments": [
+                    "MAK",
+                    "EUP"
+                ]
+            },
+            {
+                "solution": "MONTAGE",
+                "hint": "Film's time-lapse showcase",
+                "segments": [
+                    "MON",
+                    "TAGE"
+                ]
+            },
+            {
+                "solution": "CARTOON",
+                "hint": "Animated antics",
+                "segments": [
+                    "CART",
+                    "OON"
+                ]
+            },
+            {
+                "solution": "SATIRE",
+                "hint": "Witty, critical humor",
+                "segments": [
+                    "SAT",
+                    "IRE"
+                ]
+            },
+            {
+                "solution": "ENSEMBLE",
+                "hint": "Star-studded cast",
+                "segments": [
+                    "EN",
+                    "SE",
+                    "MB",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "SPOILER",
+                "hint": "Story's secret revealer",
+                "segments": [
+                    "SP",
+                    "OI",
+                    "LER"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CAMEO",
+                "hint": "Star's fleeting appearance",
+                "segments": [
+                    "CA",
+                    "MEO"
+                ]
+            },
+            {
+                "solution": "CENSORSHIP",
+                "hint": "Film's controversial gatekeeper",
+                "segments": [
+                    "CE",
+                    "NS",
+                    "OR",
+                    "SH",
+                    "IP"
+                ]
+            },
+            {
+                "solution": "MASTERPIECE",
+                "hint": "Film's crowning glory",
+                "segments": [
+                    "MAS",
+                    "TER",
+                    "PIE",
+                    "CE"
+                ]
+            },
+            {
+                "solution": "ANIME",
+                "hint": "Japanese animated art",
+                "segments": [
+                    "ANI",
+                    "ME"
+                ]
+            },
+            {
+                "solution": "BLOOPERS",
+                "hint": "Filming's funny mishaps",
+                "segments": [
+                    "BLOO",
+                    "PE",
+                    "RS"
+                ]
+            },
+            {
+                "solution": "BINGE",
+                "hint": "TV marathon madness",
+                "segments": [
+                    "BIN",
+                    "GE"
+                ]
+            },
+            {
+                "solution": "OSCARS",
+                "hint": "Hollywood's coveted gold",
+                "segments": [
+                    "OSC",
+                    "ARS"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CINEMA",
+                "hint": "Hollywood's dazzling playground",
+                "segments": [
+                    "CIN",
+                    "EMA"
+                ]
+            },
+            {
+                "solution": "BIOGRAPHY",
+                "hint": "Celeb's life display",
+                "segments": [
+                    "BIO",
+                    "GRA",
+                    "PHY"
+                ]
+            },
+            {
+                "solution": "REBOOT",
+                "hint": "Familiar tale's facelift",
+                "segments": [
+                    "REB",
+                    "OOT"
+                ]
+            },
+            {
+                "solution": "CASTING",
+                "hint": "Actor hunting mission",
+                "segments": [
+                    "CA",
+                    "ST",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "DIRECTOR",
+                "hint": "Film's creative captain",
+                "segments": [
+                    "DIRE",
+                    "CT",
+                    "OR"
+                ]
+            },
+            {
+                "solution": "SUPERHERO",
+                "hint": "Caped crusader flicks",
+                "segments": [
+                    "SUP",
+                    "ERH",
+                    "ERO"
+                ]
+            },
+            {
+                "solution": "CLIFFHANGER",
+                "hint": "Suspenseful story tease",
+                "segments": [
+                    "CLIF",
+                    "FH",
+                    "AN",
+                    "GER"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ANIMATION",
+                "hint": "Illustrated film magic",
+                "segments": [
+                    "ANI",
+                    "MAT",
+                    "ION"
+                ]
+            },
+            {
+                "solution": "WESTERN",
+                "hint": "Cowboys and dusty tales",
+                "segments": [
+                    "WES",
+                    "TERN"
+                ]
+            },
+            {
+                "solution": "PRODUCER",
+                "hint": "Movie's logistical mastermind",
+                "segments": [
+                    "PR",
+                    "OD",
+                    "UC",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "CINEMATOGRAPHY",
+                "hint": "Film's visual poetry",
+                "segments": [
+                    "CINE",
+                    "MATO",
+                    "GR",
+                    "AP",
+                    "HY"
+                ]
+            },
+            {
+                "solution": "CABLE",
+                "hint": "TV's wired connection",
+                "segments": [
+                    "CAB",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "MUSICAL",
+                "hint": "Singing and dancing's domain",
+                "segments": [
+                    "MUS",
+                    "ICAL"
+                ]
+            },
+            {
+                "solution": "REMAKE",
+                "hint": "Film's fresh perspective",
+                "segments": [
+                    "REM",
+                    "AKE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "WARDROBE",
+                "hint": "Costume's magic closet",
+                "segments": [
+                    "WA",
+                    "RD",
+                    "RO",
+                    "BE"
+                ]
+            },
+            {
+                "solution": "PRIME",
+                "hint": "Amazon's video offering",
+                "segments": [
+                    "PRI",
+                    "ME"
+                ]
+            },
+            {
+                "solution": "SITCOM",
+                "hint": "Laughing with life",
+                "segments": [
+                    "SI",
+                    "TC",
+                    "OM"
+                ]
+            },
+            {
+                "solution": "MINISERIES",
+                "hint": "TV's storytelling sprint",
+                "segments": [
+                    "MI",
+                    "NI",
+                    "SE",
+                    "RI",
+                    "ES"
+                ]
+            },
+            {
+                "solution": "CULT",
+                "hint": "Devoted fan following",
+                "segments": [
+                    "CU",
+                    "LT"
+                ]
+            },
+            {
+                "solution": "EPISODE",
+                "hint": "TV's storytelling chapter",
+                "segments": [
+                    "EPI",
+                    "SODE"
+                ]
+            },
+            {
+                "solution": "SERIES",
+                "hint": "Extended screen story",
+                "segments": [
+                    "SER",
+                    "IES"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SOAP",
+                "hint": "Daytime drama's sudsy world",
+                "segments": [
+                    "SO",
+                    "AP"
+                ]
+            },
+            {
+                "solution": "HORROR",
+                "hint": "Frights and chills abound",
+                "segments": [
+                    "HO",
+                    "RR",
+                    "OR"
+                ]
+            },
+            {
+                "solution": "ADAPTATION",
+                "hint": "Book to screen journey",
+                "segments": [
+                    "AD",
+                    "AP",
+                    "TA",
+                    "TI",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "ROMCOM",
+                "hint": "Love's playful dance",
+                "segments": [
+                    "RO",
+                    "MC",
+                    "OM"
+                ]
+            },
+            {
+                "solution": "NOIR",
+                "hint": "Dark, stylish crime tales",
+                "segments": [
+                    "NO",
+                    "IR"
+                ]
+            },
+            {
+                "solution": "TRIVIA",
+                "hint": "Movie fact fun",
+                "segments": [
+                    "TR",
+                    "IV",
+                    "IA"
+                ]
+            },
+            {
+                "solution": "SCORE",
+                "hint": "Film's musical heartbeat",
+                "segments": [
+                    "SC",
+                    "ORE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ACTION",
+                "hint": "High-octane film fare",
+                "segments": [
+                    "ACT",
+                    "ION"
+                ]
+            },
+            {
+                "solution": "CHOREOGRAPHY",
+                "hint": "Dance's creative vision",
+                "segments": [
+                    "CHO",
+                    "REO",
+                    "GRA",
+                    "PHY"
+                ]
+            },
+            {
+                "solution": "THRILLER",
+                "hint": "Chills, spills, and suspense",
+                "segments": [
+                    "THRI",
+                    "LL",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "MYSTERY",
+                "hint": "Whodunit's puzzling allure",
+                "segments": [
+                    "MY",
+                    "ST",
+                    "ERY"
+                ]
+            },
+            {
+                "solution": "PARODY",
+                "hint": "Comedic imitation",
+                "segments": [
+                    "PAR",
+                    "ODY"
+                ]
+            },
+            {
+                "solution": "EMMYS",
+                "hint": "TV's shining accolades",
+                "segments": [
+                    "EM",
+                    "MYS"
+                ]
+            },
+            {
+                "solution": "SCREENPLAY",
+                "hint": "Film's written foundation",
+                "segments": [
+                    "SCRE",
+                    "EN",
+                    "PL",
+                    "AY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CRIME",
+                "hint": "Law and order's playground",
+                "segments": [
+                    "CR",
+                    "IME"
+                ]
+            },
+            {
+                "solution": "TRAILER",
+                "hint": "Movie's exciting appetizer",
+                "segments": [
+                    "TR",
+                    "AI",
+                    "LER"
+                ]
+            },
+            {
+                "solution": "AUTEUR",
+                "hint": "Director's creative stamp",
+                "segments": [
+                    "AU",
+                    "TE",
+                    "UR"
+                ]
+            },
+            {
+                "solution": "STUNTMAN",
+                "hint": "Hero's daring double",
+                "segments": [
+                    "ST",
+                    "UN",
+                    "TM",
+                    "AN"
+                ]
+            },
+            {
+                "solution": "DRAMA",
+                "hint": "Intense emotions on-screen",
+                "segments": [
+                    "DR",
+                    "AMA"
+                ]
+            },
+            {
+                "solution": "SWORDPLAY",
+                "hint": "Chivalry and sharp edges",
+                "segments": [
+                    "SW",
+                    "OR",
+                    "DP",
+                    "LAY"
+                ]
+            },
+            {
+                "solution": "REALITY",
+                "hint": "Life's unscripted showcase",
+                "segments": [
+                    "REA",
+                    "LITY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "EDITOR",
+                "hint": "Visual storytelling's maestro",
+                "segments": [
+                    "EDI",
+                    "TOR"
+                ]
+            },
+            {
+                "solution": "BLOCKBUSTER",
+                "hint": "Mega-hit movie phenomenon",
+                "segments": [
+                    "BLO",
+                    "CKB",
+                    "UST",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "STANDUP",
+                "hint": "Comedy's solo spotlight",
+                "segments": [
+                    "ST",
+                    "AN",
+                    "DUP"
+                ]
+            },
+            {
+                "solution": "WHODUNIT",
+                "hint": "Mystery's key question",
+                "segments": [
+                    "WH",
+                    "OD",
+                    "UN",
+                    "IT"
+                ]
+            },
+            {
+                "solution": "SCIFI",
+                "hint": "Spacy science adventures",
+                "segments": [
+                    "SCI",
+                    "FI"
+                ]
+            },
+            {
+                "solution": "PRIMETIME",
+                "hint": "TV's golden hour",
+                "segments": [
+                    "PRI",
+                    "MET",
+                    "IME"
+                ]
+            },
+            {
+                "solution": "PILOT",
+                "hint": "TV show's first flight",
+                "segments": [
+                    "PI",
+                    "LOT"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "NETFLIX",
+                "hint": "Entertainment's cozy home",
+                "segments": [
+                    "NETF",
+                    "LIX"
+                ]
+            },
+            {
+                "solution": "SLASHER",
+                "hint": "Knife-wielding horror",
+                "segments": [
+                    "SLA",
+                    "SHER"
+                ]
+            },
+            {
+                "solution": "TELEPLAY",
+                "hint": "TV's scripted tale",
+                "segments": [
+                    "TELE",
+                    "PL",
+                    "AY"
+                ]
+            },
+            {
+                "solution": "TELENOVELA",
+                "hint": "Passionate, serialized drama",
+                "segments": [
+                    "TE",
+                    "LE",
+                    "NO",
+                    "VE",
+                    "LA"
+                ]
+            },
+            {
+                "solution": "ANTENNA",
+                "hint": "Free TV reception",
+                "segments": [
+                    "ANT",
+                    "ENNA"
+                ]
+            },
+            {
+                "solution": "SPINOFF",
+                "hint": "Story's branching adventure",
+                "segments": [
+                    "SPIN",
+                    "OFF"
+                ]
+            },
+            {
+                "solution": "MOCKUMENTARY",
+                "hint": "Faux-documentary hilarity",
+                "segments": [
+                    "MOC",
+                    "KUM",
+                    "ENT",
+                    "ARY"
+                ]
+            }
+        ]
+    ]
+}

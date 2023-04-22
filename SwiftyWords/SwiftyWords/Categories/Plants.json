@@ -1,0 +1,646 @@
+{
+    "name": "Plants",
+    "description": "Some fertilizer for your brain",
+    "levels": [
+        [
+            {
+                "solution": "BOUGAINVILLEA",
+                "hint": "Brilliant climbing colors",
+                "segments": [
+                    "BO",
+                    "UG",
+                    "AI",
+                    "NV",
+                    "IL",
+                    "LEA"
+                ]
+            },
+            {
+                "solution": "HYDRANGEA",
+                "hint": "Puffy color-changing clusters",
+                "segments": [
+                    "HYD",
+                    "RAN",
+                    "GEA"
+                ]
+            },
+            {
+                "solution": "OLEANDER",
+                "hint": "Beware the beauty",
+                "segments": [
+                    "OLEA",
+                    "ND",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "ALOE",
+                "hint": "Soothing succulent",
+                "segments": [
+                    "AL",
+                    "OE"
+                ]
+            },
+            {
+                "solution": "ROSE",
+                "hint": "Thorny love symbol",
+                "segments": [
+                    "RO",
+                    "SE"
+                ]
+            },
+            {
+                "solution": "THISTLE",
+                "hint": "Prickly purple pride",
+                "segments": [
+                    "THI",
+                    "STLE"
+                ]
+            },
+            {
+                "solution": "REDWOOD",
+                "hint": "Giant of the forest",
+                "segments": [
+                    "RED",
+                    "WOOD"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SNAPDRAGON",
+                "hint": "Dragon's jaw bouquet",
+                "segments": [
+                    "SN",
+                    "AP",
+                    "DR",
+                    "AG",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "MARIGOLD",
+                "hint": "Vibrant and versatile",
+                "segments": [
+                    "MARI",
+                    "GO",
+                    "LD"
+                ]
+            },
+            {
+                "solution": "PETUNIA",
+                "hint": "Trumpet tune in bloom",
+                "segments": [
+                    "PET",
+                    "UNIA"
+                ]
+            },
+            {
+                "solution": "BONSAI",
+                "hint": "Petite tree mastery",
+                "segments": [
+                    "BON",
+                    "SAI"
+                ]
+            },
+            {
+                "solution": "IRIS",
+                "hint": "Rainbow messenger",
+                "segments": [
+                    "IR",
+                    "IS"
+                ]
+            },
+            {
+                "solution": "POINSETTIA",
+                "hint": "Holiday red and green",
+                "segments": [
+                    "POIN",
+                    "SE",
+                    "TT",
+                    "IA"
+                ]
+            },
+            {
+                "solution": "CACTUS",
+                "hint": "Prickly desert dweller",
+                "segments": [
+                    "CAC",
+                    "TUS"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "FOXGLOVE",
+                "hint": "Bewitching bell tower",
+                "segments": [
+                    "FO",
+                    "XG",
+                    "LO",
+                    "VE"
+                ]
+            },
+            {
+                "solution": "FREESIA",
+                "hint": "Graceful, fragrant stems",
+                "segments": [
+                    "FRE",
+                    "ESIA"
+                ]
+            },
+            {
+                "solution": "DAFFODIL",
+                "hint": "Trumpet-shaped spring surprise",
+                "segments": [
+                    "DA",
+                    "FF",
+                    "OD",
+                    "IL"
+                ]
+            },
+            {
+                "solution": "ORCHID",
+                "hint": "Exotic elegance",
+                "segments": [
+                    "ORC",
+                    "HID"
+                ]
+            },
+            {
+                "solution": "CYPRESS",
+                "hint": "Evergreen Mediterranean sentinel",
+                "segments": [
+                    "CYP",
+                    "RESS"
+                ]
+            },
+            {
+                "solution": "CROCUS",
+                "hint": "Early spring messenger",
+                "segments": [
+                    "CRO",
+                    "CUS"
+                ]
+            },
+            {
+                "solution": "SWEETPEA",
+                "hint": "Delicate, fragrant climbers",
+                "segments": [
+                    "SW",
+                    "EE",
+                    "TP",
+                    "EA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HOSTA",
+                "hint": "Shade-loving foliage",
+                "segments": [
+                    "HO",
+                    "STA"
+                ]
+            },
+            {
+                "solution": "MONSTERA",
+                "hint": "Swiss cheese plant",
+                "segments": [
+                    "MONS",
+                    "TE",
+                    "RA"
+                ]
+            },
+            {
+                "solution": "FUCHSIA",
+                "hint": "Dancing fairy blossoms",
+                "segments": [
+                    "FU",
+                    "CH",
+                    "SIA"
+                ]
+            },
+            {
+                "solution": "CHRYSANTHEMUM",
+                "hint": "Autumn floral star",
+                "segments": [
+                    "CHR",
+                    "YSA",
+                    "NTH",
+                    "EMUM"
+                ]
+            },
+            {
+                "solution": "MAGNOLIA",
+                "hint": "Grand, fragrant blooms",
+                "segments": [
+                    "MA",
+                    "GN",
+                    "OL",
+                    "IA"
+                ]
+            },
+            {
+                "solution": "CLEMATIS",
+                "hint": "Climbing floral spectacle",
+                "segments": [
+                    "CLEM",
+                    "ATIS"
+                ]
+            },
+            {
+                "solution": "DAISY",
+                "hint": "Friendly face of petals",
+                "segments": [
+                    "DA",
+                    "ISY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "BAMBOO",
+                "hint": "Fast-growing forest",
+                "segments": [
+                    "BA",
+                    "MB",
+                    "OO"
+                ]
+            },
+            {
+                "solution": "WISTERIA",
+                "hint": "Hanging purple clusters",
+                "segments": [
+                    "WI",
+                    "ST",
+                    "ER",
+                    "IA"
+                ]
+            },
+            {
+                "solution": "PANSY",
+                "hint": "Face-like floral friend",
+                "segments": [
+                    "PA",
+                    "NSY"
+                ]
+            },
+            {
+                "solution": "PEONY",
+                "hint": "Lush, layered loveliness",
+                "segments": [
+                    "PEO",
+                    "NY"
+                ]
+            },
+            {
+                "solution": "CAMOMILE",
+                "hint": "Delicate daisy-like relaxer",
+                "segments": [
+                    "CA",
+                    "MO",
+                    "MI",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "COLEUS",
+                "hint": "Rainbow of foliage",
+                "segments": [
+                    "COL",
+                    "EUS"
+                ]
+            },
+            {
+                "solution": "SUNFLOWER",
+                "hint": "Yellow giant's gaze",
+                "segments": [
+                    "SUN",
+                    "FLO",
+                    "WER"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "RHODODENDRON",
+                "hint": "Royal bush blossoms",
+                "segments": [
+                    "RHO",
+                    "DOD",
+                    "END",
+                    "RON"
+                ]
+            },
+            {
+                "solution": "AZALEA",
+                "hint": "Rhododendron's cousin",
+                "segments": [
+                    "AZA",
+                    "LEA"
+                ]
+            },
+            {
+                "solution": "GARDENIA",
+                "hint": "Creamy, fragrant charm",
+                "segments": [
+                    "GA",
+                    "RD",
+                    "EN",
+                    "IA"
+                ]
+            },
+            {
+                "solution": "TULIP",
+                "hint": "Dutch delight",
+                "segments": [
+                    "TU",
+                    "LIP"
+                ]
+            },
+            {
+                "solution": "VERBENA",
+                "hint": "Nectar-rich bloomer",
+                "segments": [
+                    "VERB",
+                    "ENA"
+                ]
+            },
+            {
+                "solution": "HIBISCUS",
+                "hint": "Tropical flair",
+                "segments": [
+                    "HI",
+                    "BI",
+                    "SC",
+                    "US"
+                ]
+            },
+            {
+                "solution": "LOTUS",
+                "hint": "Symbol of enlightenment",
+                "segments": [
+                    "LOT",
+                    "US"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SUCCULENT",
+                "hint": "Plump water storage",
+                "segments": [
+                    "SUC",
+                    "CUL",
+                    "ENT"
+                ]
+            },
+            {
+                "solution": "AMARYLLIS",
+                "hint": "Winter blooming belle",
+                "segments": [
+                    "AMA",
+                    "RYL",
+                    "LIS"
+                ]
+            },
+            {
+                "solution": "SYCAMORE",
+                "hint": "Majestic, mottled bark",
+                "segments": [
+                    "SYCA",
+                    "MO",
+                    "RE"
+                ]
+            },
+            {
+                "solution": "JASMINE",
+                "hint": "Perfumed night queen",
+                "segments": [
+                    "JA",
+                    "SM",
+                    "INE"
+                ]
+            },
+            {
+                "solution": "SEQUOIA",
+                "hint": "Towering, ancient giants",
+                "segments": [
+                    "SEQ",
+                    "UOIA"
+                ]
+            },
+            {
+                "solution": "PRIMROSE",
+                "hint": "Early blooming beauty",
+                "segments": [
+                    "PRIM",
+                    "RO",
+                    "SE"
+                ]
+            },
+            {
+                "solution": "BEGONIA",
+                "hint": "Waxen leaf wonder",
+                "segments": [
+                    "BE",
+                    "GO",
+                    "NIA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "MIMOSA",
+                "hint": "Sensitive touch-me-not",
+                "segments": [
+                    "MIM",
+                    "OSA"
+                ]
+            },
+            {
+                "solution": "VIOLET",
+                "hint": "Shy, dainty beauty",
+                "segments": [
+                    "VIO",
+                    "LET"
+                ]
+            },
+            {
+                "solution": "CARNATION",
+                "hint": "Clove-scented classic",
+                "segments": [
+                    "CAR",
+                    "NAT",
+                    "ION"
+                ]
+            },
+            {
+                "solution": "GERANIUM",
+                "hint": "Balcony blossoms",
+                "segments": [
+                    "GERA",
+                    "NIUM"
+                ]
+            },
+            {
+                "solution": "PHILODENDRON",
+                "hint": "Vine time climb",
+                "segments": [
+                    "PHI",
+                    "LOD",
+                    "END",
+                    "RON"
+                ]
+            },
+            {
+                "solution": "LICHEN",
+                "hint": "Symbiotic slow-grower",
+                "segments": [
+                    "LIC",
+                    "HEN"
+                ]
+            },
+            {
+                "solution": "EUCALYPTUS",
+                "hint": "Koala's cuisine",
+                "segments": [
+                    "EU",
+                    "CA",
+                    "LY",
+                    "PT",
+                    "US"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "BALSAM",
+                "hint": "Resin-rich conifer",
+                "segments": [
+                    "BAL",
+                    "SAM"
+                ]
+            },
+            {
+                "solution": "GINKGO",
+                "hint": "Living fossil fan",
+                "segments": [
+                    "GI",
+                    "NK",
+                    "GO"
+                ]
+            },
+            {
+                "solution": "SNOWDROP",
+                "hint": "Winter's thaw harbinger",
+                "segments": [
+                    "SN",
+                    "OW",
+                    "DR",
+                    "OP"
+                ]
+            },
+            {
+                "solution": "LILY",
+                "hint": "Elegant aquatic bloom",
+                "segments": [
+                    "LI",
+                    "LY"
+                ]
+            },
+            {
+                "solution": "NASTURTIUM",
+                "hint": "Edible garden gem",
+                "segments": [
+                    "NA",
+                    "ST",
+                    "UR",
+                    "TI",
+                    "UM"
+                ]
+            },
+            {
+                "solution": "PINE",
+                "hint": "Evergreen needle provider",
+                "segments": [
+                    "PI",
+                    "NE"
+                ]
+            },
+            {
+                "solution": "MINT",
+                "hint": "Refreshing herbal favorite",
+                "segments": [
+                    "MI",
+                    "NT"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "DRACAENA",
+                "hint": "Dragon tree drama",
+                "segments": [
+                    "DR",
+                    "AC",
+                    "AE",
+                    "NA"
+                ]
+            },
+            {
+                "solution": "PALM",
+                "hint": "Tropical canopy creator",
+                "segments": [
+                    "PA",
+                    "LM"
+                ]
+            },
+            {
+                "solution": "GLADIOLUS",
+                "hint": "Sword-like floral drama",
+                "segments": [
+                    "GLA",
+                    "DIO",
+                    "LUS"
+                ]
+            },
+            {
+                "solution": "LAVENDER",
+                "hint": "Fragrant purple calm",
+                "segments": [
+                    "LAVE",
+                    "NDER"
+                ]
+            },
+            {
+                "solution": "POPLAR",
+                "hint": "Towering deciduous delight",
+                "segments": [
+                    "POP",
+                    "LAR"
+                ]
+            },
+            {
+                "solution": "HOLLY",
+                "hint": "Festive evergreen",
+                "segments": [
+                    "HOL",
+                    "LY"
+                ]
+            },
+            {
+                "solution": "FERNSPRAKE",
+                "hint": "Fronds with benefits",
+                "segments": [
+                    "FE",
+                    "RN",
+                    "SP",
+                    "RA",
+                    "KE"
+                ]
+            }
+        ]
+    ]
+}

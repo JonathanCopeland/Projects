@@ -1,0 +1,646 @@
+{
+    "name": "Celebrities",
+    "description": "Singers, actors, and more",
+    "levels": [
+        [
+            {
+                "solution": "CUMBERBATCH",
+                "hint": "Curious detective name",
+                "segments": [
+                    "CU",
+                    "MB",
+                    "ER",
+                    "BA",
+                    "TCH"
+                ]
+            },
+            {
+                "solution": "ELBA",
+                "hint": "Luther's charm",
+                "segments": [
+                    "EL",
+                    "BA"
+                ]
+            },
+            {
+                "solution": "MALIK",
+                "hint": "Former One Directioner",
+                "segments": [
+                    "MA",
+                    "LIK"
+                ]
+            },
+            {
+                "solution": "HARRELSON",
+                "hint": "Zombieland survivor",
+                "segments": [
+                    "HAR",
+                    "REL",
+                    "SON"
+                ]
+            },
+            {
+                "solution": "GOMEZ",
+                "hint": "Wizards' pop star",
+                "segments": [
+                    "GOM",
+                    "EZ"
+                ]
+            },
+            {
+                "solution": "BOYEGA",
+                "hint": "Disobedient stormtrooper",
+                "segments": [
+                    "BO",
+                    "YE",
+                    "GA"
+                ]
+            },
+            {
+                "solution": "ZENDAYA",
+                "hint": "Euphoric actress",
+                "segments": [
+                    "ZE",
+                    "ND",
+                    "AYA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ADELE",
+                "hint": "Rolling in the deep",
+                "segments": [
+                    "ADE",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "STONE",
+                "hint": "Stuck in La La Land",
+                "segments": [
+                    "ST",
+                    "ONE"
+                ]
+            },
+            {
+                "solution": "HANKS",
+                "hint": "Hollywood's nice guy",
+                "segments": [
+                    "HAN",
+                    "KS"
+                ]
+            },
+            {
+                "solution": "GOSLING",
+                "hint": "Hey girl actor",
+                "segments": [
+                    "GO",
+                    "SL",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "REDMAYNE",
+                "hint": "Magical suitcase handler",
+                "segments": [
+                    "RE",
+                    "DM",
+                    "AY",
+                    "NE"
+                ]
+            },
+            {
+                "solution": "AGUILERA",
+                "hint": "Genie in a bottle",
+                "segments": [
+                    "AG",
+                    "UI",
+                    "LE",
+                    "RA"
+                ]
+            },
+            {
+                "solution": "KUSHNER",
+                "hint": "Chameleon playwright",
+                "segments": [
+                    "KU",
+                    "SH",
+                    "NER"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "PITT",
+                "hint": "One half of Brangelina",
+                "segments": [
+                    "PI",
+                    "TT"
+                ]
+            },
+            {
+                "solution": "HEPBURN",
+                "hint": "Unlikely British baker",
+                "segments": [
+                    "HE",
+                    "PB",
+                    "URN"
+                ]
+            },
+            {
+                "solution": "WINSLET",
+                "hint": "Titanic survivor",
+                "segments": [
+                    "WIN",
+                    "SLET"
+                ]
+            },
+            {
+                "solution": "RUFFALO",
+                "hint": "Incredible green actor",
+                "segments": [
+                    "RUFF",
+                    "ALO"
+                ]
+            },
+            {
+                "solution": "BOYLE",
+                "hint": "Unexpected singing sensation",
+                "segments": [
+                    "BO",
+                    "YLE"
+                ]
+            },
+            {
+                "solution": "TIMBERLAKE",
+                "hint": "Bringing sexy back",
+                "segments": [
+                    "TIMB",
+                    "ERLA",
+                    "KE"
+                ]
+            },
+            {
+                "solution": "SCHWARZENEGGER",
+                "hint": "Will be back",
+                "segments": [
+                    "SCH",
+                    "WAR",
+                    "ZE",
+                    "NE",
+                    "GG",
+                    "ER"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "JONAS",
+                "hint": "Brotherly love and music",
+                "segments": [
+                    "JO",
+                    "NAS"
+                ]
+            },
+            {
+                "solution": "JOLIE",
+                "hint": "Tomb Raider actress",
+                "segments": [
+                    "JO",
+                    "LIE"
+                ]
+            },
+            {
+                "solution": "LOPEZ",
+                "hint": "J. Lo from the block",
+                "segments": [
+                    "LO",
+                    "PEZ"
+                ]
+            },
+            {
+                "solution": "SANDLER",
+                "hint": "Comedic waterboy",
+                "segments": [
+                    "SA",
+                    "ND",
+                    "LER"
+                ]
+            },
+            {
+                "solution": "CRANSTON",
+                "hint": "Breaking Bad chemist",
+                "segments": [
+                    "CR",
+                    "AN",
+                    "ST",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "JENNER",
+                "hint": "Lip kit mogul",
+                "segments": [
+                    "JE",
+                    "NN",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "RODRIGUEZ",
+                "hint": "Jane the Virgin",
+                "segments": [
+                    "RO",
+                    "DR",
+                    "IG",
+                    "UEZ"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "MUSK",
+                "hint": "Car salesman",
+                "segments": [
+                    "MU",
+                    "SK"
+                ]
+            },
+            {
+                "solution": "ANISTON",
+                "hint": "Friend named Rachel",
+                "segments": [
+                    "AN",
+                    "IS",
+                    "TON"
+                ]
+            },
+            {
+                "solution": "CHALAMET",
+                "hint": "King of peaches",
+                "segments": [
+                    "CH",
+                    "AL",
+                    "AM",
+                    "ET"
+                ]
+            },
+            {
+                "solution": "KARDASHIAN",
+                "hint": "Reality TV royalty",
+                "segments": [
+                    "KA",
+                    "RD",
+                    "AS",
+                    "HI",
+                    "AN"
+                ]
+            },
+            {
+                "solution": "HOLLAND",
+                "hint": "Spidey senses tingling",
+                "segments": [
+                    "HOL",
+                    "LAND"
+                ]
+            },
+            {
+                "solution": "GAGA",
+                "hint": "Poker-faced artist",
+                "segments": [
+                    "GA",
+                    "GA"
+                ]
+            },
+            {
+                "solution": "DEPP",
+                "hint": "Eccentric pirate actor",
+                "segments": [
+                    "DE",
+                    "PP"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "JOHANSSON",
+                "hint": "Black Widow in action",
+                "segments": [
+                    "JOH",
+                    "ANS",
+                    "SON"
+                ]
+            },
+            {
+                "solution": "SHEERAN",
+                "hint": "Ginger guitar hero",
+                "segments": [
+                    "SHE",
+                    "ERAN"
+                ]
+            },
+            {
+                "solution": "BLANCHARD",
+                "hint": "Blackish grown-ish star",
+                "segments": [
+                    "BL",
+                    "AN",
+                    "CH",
+                    "ARD"
+                ]
+            },
+            {
+                "solution": "THUNBERG",
+                "hint": "Climate crusader",
+                "segments": [
+                    "TH",
+                    "UN",
+                    "BE",
+                    "RG"
+                ]
+            },
+            {
+                "solution": "CLOONEY",
+                "hint": "Silver fox actor",
+                "segments": [
+                    "CLO",
+                    "ONEY"
+                ]
+            },
+            {
+                "solution": "EGERTON",
+                "hint": "Rocketman of the screen",
+                "segments": [
+                    "EGE",
+                    "RTON"
+                ]
+            },
+            {
+                "solution": "CAVILL",
+                "hint": "Man of Steel",
+                "segments": [
+                    "CA",
+                    "VI",
+                    "LL"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "RIHANNA",
+                "hint": "Umbrella enthusiast",
+                "segments": [
+                    "RI",
+                    "HA",
+                    "NNA"
+                ]
+            },
+            {
+                "solution": "DICAPRIO",
+                "hint": "Sinking heartthrob",
+                "segments": [
+                    "DI",
+                    "CA",
+                    "PR",
+                    "IO"
+                ]
+            },
+            {
+                "solution": "GYLLENHAAL",
+                "hint": "Donnie's dark adventures",
+                "segments": [
+                    "GYLL",
+                    "EN",
+                    "HA",
+                    "AL"
+                ]
+            },
+            {
+                "solution": "DAMON",
+                "hint": "Stranded Martian",
+                "segments": [
+                    "DA",
+                    "MON"
+                ]
+            },
+            {
+                "solution": "AYKROYD",
+                "hint": "Ghostbusting comedian",
+                "segments": [
+                    "AY",
+                    "KR",
+                    "OYD"
+                ]
+            },
+            {
+                "solution": "SWIFT",
+                "hint": "Shakes it off",
+                "segments": [
+                    "SWI",
+                    "FT"
+                ]
+            },
+            {
+                "solution": "GADOT",
+                "hint": "Wonderful Amazon",
+                "segments": [
+                    "GA",
+                    "DOT"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "BEYONCE",
+                "hint": "Queen B",
+                "segments": [
+                    "BE",
+                    "YO",
+                    "NCE"
+                ]
+            },
+            {
+                "solution": "DUVERNAY",
+                "hint": "Visionary director",
+                "segments": [
+                    "DU",
+                    "VE",
+                    "RN",
+                    "AY"
+                ]
+            },
+            {
+                "solution": "STYLES",
+                "hint": "Watermelon sugar high",
+                "segments": [
+                    "ST",
+                    "YL",
+                    "ES"
+                ]
+            },
+            {
+                "solution": "SCHUMER",
+                "hint": "Trainwreck creator",
+                "segments": [
+                    "SCH",
+                    "UMER"
+                ]
+            },
+            {
+                "solution": "HOPKINS",
+                "hint": "Famous face biter",
+                "segments": [
+                    "HOP",
+                    "KINS"
+                ]
+            },
+            {
+                "solution": "DRAKE",
+                "hint": "Started from the bottom",
+                "segments": [
+                    "DRA",
+                    "KE"
+                ]
+            },
+            {
+                "solution": "WILLIAMS",
+                "hint": "Has doubts about the Mrs",
+                "segments": [
+                    "WI",
+                    "LL",
+                    "IA",
+                    "MS"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "LIVELY",
+                "hint": "Gossip Girl fashionista",
+                "segments": [
+                    "LIV",
+                    "ELY"
+                ]
+            },
+            {
+                "solution": "KENDRICK",
+                "hint": "Pitch Perfect singer",
+                "segments": [
+                    "KE",
+                    "ND",
+                    "RI",
+                    "CK"
+                ]
+            },
+            {
+                "solution": "CAPALDI",
+                "hint": "Someone You Loved",
+                "segments": [
+                    "CAP",
+                    "ALDI"
+                ]
+            },
+            {
+                "solution": "HARDY",
+                "hint": "Venomous actor",
+                "segments": [
+                    "HAR",
+                    "DY"
+                ]
+            },
+            {
+                "solution": "JACKMAN",
+                "hint": "Wolverine's alter ego",
+                "segments": [
+                    "JA",
+                    "CK",
+                    "MAN"
+                ]
+            },
+            {
+                "solution": "MIRREN",
+                "hint": "Regal British thespian",
+                "segments": [
+                    "MI",
+                    "RR",
+                    "EN"
+                ]
+            },
+            {
+                "solution": "LAWRENCE",
+                "hint": "Hunger Games archer",
+                "segments": [
+                    "LA",
+                    "WR",
+                    "EN",
+                    "CE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "BRITNEY",
+                "hint": "Spears of pop",
+                "segments": [
+                    "BRI",
+                    "TNEY"
+                ]
+            },
+            {
+                "solution": "MINAJ",
+                "hint": "Anaconda queen",
+                "segments": [
+                    "MIN",
+                    "AJ"
+                ]
+            },
+            {
+                "solution": "CORDEN",
+                "hint": "Carpool karaoke driver",
+                "segments": [
+                    "CO",
+                    "RD",
+                    "EN"
+                ]
+            },
+            {
+                "solution": "HEMSWORTH",
+                "hint": "Mighty Avenger",
+                "segments": [
+                    "HE",
+                    "MS",
+                    "WO",
+                    "RTH"
+                ]
+            },
+            {
+                "solution": "BIEBER",
+                "hint": "Baby crooner",
+                "segments": [
+                    "BIE",
+                    "BER"
+                ]
+            },
+            {
+                "solution": "FASSBENDER",
+                "hint": "Magnetic mutant",
+                "segments": [
+                    "FA",
+                    "SS",
+                    "BE",
+                    "ND",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "CAREY",
+                "hint": "Elusive chanteuse",
+                "segments": [
+                    "CA",
+                    "REY"
+                ]
+            }
+        ]
+    ]
+}

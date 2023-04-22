@@ -1,0 +1,646 @@
+{
+    "name": "Sports and Games",
+    "description": "Time to score a goal",
+    "levels": [
+        [
+            {
+                "solution": "BILLIARDS",
+                "hint": "Cue stick finesse",
+                "segments": [
+                    "BIL",
+                    "LIA",
+                    "RDS"
+                ]
+            },
+            {
+                "solution": "EQUESTRIAN",
+                "hint": "Horse-riding sport",
+                "segments": [
+                    "EQUE",
+                    "STRI",
+                    "AN"
+                ]
+            },
+            {
+                "solution": "BOWLING",
+                "hint": "Strikes and spares",
+                "segments": [
+                    "BOW",
+                    "LING"
+                ]
+            },
+            {
+                "solution": "GYMNASTICS",
+                "hint": "Flips and leaps",
+                "segments": [
+                    "GYMN",
+                    "ASTI",
+                    "CS"
+                ]
+            },
+            {
+                "solution": "BASKETBALL",
+                "hint": "Slam dunk hoopla",
+                "segments": [
+                    "BASK",
+                    "ETBA",
+                    "LL"
+                ]
+            },
+            {
+                "solution": "SNOWBOARDING",
+                "hint": "Shredding slopes",
+                "segments": [
+                    "SNO",
+                    "WBO",
+                    "ARD",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "ARCHERY",
+                "hint": "Bullseye precision",
+                "segments": [
+                    "ARC",
+                    "HERY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "FISHING",
+                "hint": "Reeling in relaxation",
+                "segments": [
+                    "FIS",
+                    "HING"
+                ]
+            },
+            {
+                "solution": "ROLLERSKATING",
+                "hint": "Eight-wheeled glide",
+                "segments": [
+                    "ROL",
+                    "LER",
+                    "SKA",
+                    "TING"
+                ]
+            },
+            {
+                "solution": "JUDO",
+                "hint": "Gentle way grappling",
+                "segments": [
+                    "JU",
+                    "DO"
+                ]
+            },
+            {
+                "solution": "VOLLEYBALL",
+                "hint": "Spikes and serves",
+                "segments": [
+                    "VOLL",
+                    "EY",
+                    "BA",
+                    "LL"
+                ]
+            },
+            {
+                "solution": "CHESS",
+                "hint": "Intellectual battlefield",
+                "segments": [
+                    "CH",
+                    "ESS"
+                ]
+            },
+            {
+                "solution": "CANOEING",
+                "hint": "Serene paddling adventure",
+                "segments": [
+                    "CANO",
+                    "EING"
+                ]
+            },
+            {
+                "solution": "MARATHON",
+                "hint": "26.2-mile test",
+                "segments": [
+                    "MA",
+                    "RA",
+                    "TH",
+                    "ON"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "POLO",
+                "hint": "Horse-mounted mallet match",
+                "segments": [
+                    "PO",
+                    "LO"
+                ]
+            },
+            {
+                "solution": "KAYAKING",
+                "hint": "Paddle-powered fun",
+                "segments": [
+                    "KA",
+                    "YA",
+                    "KI",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "SURFING",
+                "hint": "Wave riding balance",
+                "segments": [
+                    "SU",
+                    "RF",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "DIVING",
+                "hint": "Acrobatic plunge",
+                "segments": [
+                    "DIV",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "BOCCIA",
+                "hint": "Italian lawn bowling",
+                "segments": [
+                    "BOC",
+                    "CIA"
+                ]
+            },
+            {
+                "solution": "POLEVAULT",
+                "hint": "Sky-high bar leap",
+                "segments": [
+                    "POL",
+                    "EVA",
+                    "ULT"
+                ]
+            },
+            {
+                "solution": "SWIMMING",
+                "hint": "Freestyle and butterfly",
+                "segments": [
+                    "SW",
+                    "IM",
+                    "MI",
+                    "NG"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SKATEBOARDING",
+                "hint": "Ollies and kickflips",
+                "segments": [
+                    "SKAT",
+                    "EB",
+                    "OA",
+                    "RD",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "CLIMBING",
+                "hint": "Rock-scaling challenge",
+                "segments": [
+                    "CLIM",
+                    "BI",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "KENDO",
+                "hint": "Way of the sword",
+                "segments": [
+                    "KEN",
+                    "DO"
+                ]
+            },
+            {
+                "solution": "TENNIS",
+                "hint": "Love-all racquet sport",
+                "segments": [
+                    "TEN",
+                    "NIS"
+                ]
+            },
+            {
+                "solution": "SUMO",
+                "hint": "Hefty wrestler showdown",
+                "segments": [
+                    "SU",
+                    "MO"
+                ]
+            },
+            {
+                "solution": "RODEO",
+                "hint": "Cowboy competition",
+                "segments": [
+                    "RO",
+                    "DEO"
+                ]
+            },
+            {
+                "solution": "BIATHLON",
+                "hint": "Ski and shoot combo",
+                "segments": [
+                    "BI",
+                    "AT",
+                    "HL",
+                    "ON"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "TRIATHLON",
+                "hint": "Swim, bike, run!",
+                "segments": [
+                    "TRI",
+                    "ATH",
+                    "LON"
+                ]
+            },
+            {
+                "solution": "KARATE",
+                "hint": "Hi-ya! Chop and kick",
+                "segments": [
+                    "KAR",
+                    "ATE"
+                ]
+            },
+            {
+                "solution": "FOOTBALL",
+                "hint": "Pigskin and touchdowns",
+                "segments": [
+                    "FOOT",
+                    "BA",
+                    "LL"
+                ]
+            },
+            {
+                "solution": "BASEBALL",
+                "hint": "Diamonds and homeruns",
+                "segments": [
+                    "BA",
+                    "SE",
+                    "BA",
+                    "LL"
+                ]
+            },
+            {
+                "solution": "CRICKET",
+                "hint": "Wickets and bats",
+                "segments": [
+                    "CR",
+                    "IC",
+                    "KET"
+                ]
+            },
+            {
+                "solution": "NETBALL",
+                "hint": "Hoop action sans backboard",
+                "segments": [
+                    "NE",
+                    "TB",
+                    "ALL"
+                ]
+            },
+            {
+                "solution": "YOGA",
+                "hint": "Namaste flex and stretch",
+                "segments": [
+                    "YO",
+                    "GA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HOCKEY",
+                "hint": "Pucks and hat tricks",
+                "segments": [
+                    "HOC",
+                    "KEY"
+                ]
+            },
+            {
+                "solution": "CURLING",
+                "hint": "Icy shuffleboard",
+                "segments": [
+                    "CU",
+                    "RL",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "BOBSLEDDING",
+                "hint": "Downhill icy glide",
+                "segments": [
+                    "BOBS",
+                    "LEDD",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "PAINTBALL",
+                "hint": "Colorful combat",
+                "segments": [
+                    "PAI",
+                    "NTB",
+                    "ALL"
+                ]
+            },
+            {
+                "solution": "GOLF",
+                "hint": "Fairways and birdies",
+                "segments": [
+                    "GO",
+                    "LF"
+                ]
+            },
+            {
+                "solution": "FIGURESKATING",
+                "hint": "Ice dance artistry",
+                "segments": [
+                    "FIGU",
+                    "RE",
+                    "SK",
+                    "AT",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "SAILING",
+                "hint": "Wind-driven water adventure",
+                "segments": [
+                    "SAI",
+                    "LING"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ZUMBA",
+                "hint": "Dance-fitness party",
+                "segments": [
+                    "ZUM",
+                    "BA"
+                ]
+            },
+            {
+                "solution": "BOXING",
+                "hint": "Knockout punch show",
+                "segments": [
+                    "BOX",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "SKIING",
+                "hint": "Downhill winter rush",
+                "segments": [
+                    "SK",
+                    "II",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "FENCING",
+                "hint": "Parry and riposte duel",
+                "segments": [
+                    "FE",
+                    "NC",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "WRESTLING",
+                "hint": "Grapple and pin",
+                "segments": [
+                    "WRE",
+                    "STL",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "DODGEBALL",
+                "hint": "Avoidance tactics",
+                "segments": [
+                    "DO",
+                    "DG",
+                    "EB",
+                    "ALL"
+                ]
+            },
+            {
+                "solution": "SPRINTING",
+                "hint": "Speedy foot race",
+                "segments": [
+                    "SPR",
+                    "INT",
+                    "ING"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SQUASH",
+                "hint": "Racquetball's cousin",
+                "segments": [
+                    "SQU",
+                    "ASH"
+                ]
+            },
+            {
+                "solution": "RUGBY",
+                "hint": "Rough and tumble scoring",
+                "segments": [
+                    "RUG",
+                    "BY"
+                ]
+            },
+            {
+                "solution": "WATERPOLO",
+                "hint": "Pool-based ball game",
+                "segments": [
+                    "WAT",
+                    "ERP",
+                    "OLO"
+                ]
+            },
+            {
+                "solution": "LACROSSE",
+                "hint": "Nets and sprints",
+                "segments": [
+                    "LACR",
+                    "OS",
+                    "SE"
+                ]
+            },
+            {
+                "solution": "KICKBOXING",
+                "hint": "Fist and foot combat",
+                "segments": [
+                    "KI",
+                    "CK",
+                    "BO",
+                    "XI",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "TAEKWONDO",
+                "hint": "Korean high-kick action",
+                "segments": [
+                    "TAE",
+                    "KWO",
+                    "NDO"
+                ]
+            },
+            {
+                "solution": "BALLET",
+                "hint": "Graceful dance leaps",
+                "segments": [
+                    "BAL",
+                    "LET"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "RACQUETBALL",
+                "hint": "Court sprint showdown",
+                "segments": [
+                    "RAC",
+                    "QUE",
+                    "TBA",
+                    "LL"
+                ]
+            },
+            {
+                "solution": "CYCLING",
+                "hint": "Pedal-powered speed",
+                "segments": [
+                    "CYC",
+                    "LING"
+                ]
+            },
+            {
+                "solution": "SOCCER",
+                "hint": "The beautiful game",
+                "segments": [
+                    "SOC",
+                    "CER"
+                ]
+            },
+            {
+                "solution": "BADMINTON",
+                "hint": "Shuttlecock rally",
+                "segments": [
+                    "BAD",
+                    "MIN",
+                    "TON"
+                ]
+            },
+            {
+                "solution": "ORIENTEERING",
+                "hint": "Map and compass quest",
+                "segments": [
+                    "ORI",
+                    "ENT",
+                    "EER",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "DARTS",
+                "hint": "Bullseye precision throws",
+                "segments": [
+                    "DAR",
+                    "TS"
+                ]
+            },
+            {
+                "solution": "TRAMPOLINE",
+                "hint": "Bouncy flips and twists",
+                "segments": [
+                    "TRAM",
+                    "POLI",
+                    "NE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ROWING",
+                "hint": "Crew teamwork glide",
+                "segments": [
+                    "ROW",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "PARKOUR",
+                "hint": "Urban obstacle course",
+                "segments": [
+                    "PAR",
+                    "KOUR"
+                ]
+            },
+            {
+                "solution": "HANDBALL",
+                "hint": "Nimble team toss",
+                "segments": [
+                    "HAND",
+                    "BA",
+                    "LL"
+                ]
+            },
+            {
+                "solution": "WEIGHTLIFTING",
+                "hint": "Herculean heave",
+                "segments": [
+                    "WEI",
+                    "GHT",
+                    "LIF",
+                    "TING"
+                ]
+            },
+            {
+                "solution": "CROSSFIT",
+                "hint": "WOD warriors",
+                "segments": [
+                    "CROS",
+                    "SF",
+                    "IT"
+                ]
+            },
+            {
+                "solution": "PILATES",
+                "hint": "Core strength and stretch",
+                "segments": [
+                    "PILA",
+                    "TES"
+                ]
+            },
+            {
+                "solution": "SKEETSHOOTING",
+                "hint": "Clay pigeon blasts",
+                "segments": [
+                    "SKE",
+                    "ETS",
+                    "HOO",
+                    "TING"
+                ]
+            }
+        ]
+    ]
+}

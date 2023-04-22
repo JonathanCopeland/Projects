@@ -1,0 +1,646 @@
+{
+    "name": "Computers",
+    "description": "Technological fun times",
+    "levels": [
+        [
+            {
+                "solution": "COMPILER",
+                "hint": "Code translator",
+                "segments": [
+                    "CO",
+                    "MP",
+                    "IL",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "DATABASE",
+                "hint": "Organized info vault",
+                "segments": [
+                    "DATA",
+                    "BA",
+                    "SE"
+                ]
+            },
+            {
+                "solution": "INTERFACE",
+                "hint": "Meeting of tech minds",
+                "segments": [
+                    "INT",
+                    "ERF",
+                    "ACE"
+                ]
+            },
+            {
+                "solution": "KEYBOARD",
+                "hint": "Type your destiny",
+                "segments": [
+                    "KE",
+                    "YB",
+                    "OA",
+                    "RD"
+                ]
+            },
+            {
+                "solution": "TOUCHPAD",
+                "hint": "Fingertip mouse replacement",
+                "segments": [
+                    "TOUC",
+                    "HPAD"
+                ]
+            },
+            {
+                "solution": "LINUX",
+                "hint": "Penguin-powered OS",
+                "segments": [
+                    "LI",
+                    "NUX"
+                ]
+            },
+            {
+                "solution": "RUBY",
+                "hint": "Gem of a language",
+                "segments": [
+                    "RU",
+                    "BY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "RAID",
+                "hint": "Redundant but important",
+                "segments": [
+                    "RA",
+                    "ID"
+                ]
+            },
+            {
+                "solution": "RASTER",
+                "hint": "Pixelated picture world",
+                "segments": [
+                    "RAS",
+                    "TER"
+                ]
+            },
+            {
+                "solution": "BROWSER",
+                "hint": "Window to the web",
+                "segments": [
+                    "BR",
+                    "OW",
+                    "SER"
+                ]
+            },
+            {
+                "solution": "ROUTER",
+                "hint": "Web traffic conductor",
+                "segments": [
+                    "ROU",
+                    "TER"
+                ]
+            },
+            {
+                "solution": "CYBERSECURITY",
+                "hint": "Digital guardian",
+                "segments": [
+                    "CYB",
+                    "ERS",
+                    "ECU",
+                    "RITY"
+                ]
+            },
+            {
+                "solution": "MALWARE",
+                "hint": "Bad apple of software",
+                "segments": [
+                    "MA",
+                    "LW",
+                    "ARE"
+                ]
+            },
+            {
+                "solution": "MEGAPIXEL",
+                "hint": "One million tiny points",
+                "segments": [
+                    "ME",
+                    "GA",
+                    "PI",
+                    "XEL"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CAPTCHA",
+                "hint": "Bot-blocking test",
+                "segments": [
+                    "CAP",
+                    "TCHA"
+                ]
+            },
+            {
+                "solution": "FIREWALL",
+                "hint": "Digital blaze barrier",
+                "segments": [
+                    "FI",
+                    "RE",
+                    "WA",
+                    "LL"
+                ]
+            },
+            {
+                "solution": "JOYSTICK",
+                "hint": "Gaming's control stick",
+                "segments": [
+                    "JOYS",
+                    "TI",
+                    "CK"
+                ]
+            },
+            {
+                "solution": "PIXEL",
+                "hint": "Digital dot art",
+                "segments": [
+                    "PI",
+                    "XEL"
+                ]
+            },
+            {
+                "solution": "HARDWARE",
+                "hint": "Rigid computer components",
+                "segments": [
+                    "HARD",
+                    "WA",
+                    "RE"
+                ]
+            },
+            {
+                "solution": "BYTE",
+                "hint": "Data's tasty morsel",
+                "segments": [
+                    "BY",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "RANSOMWARE",
+                "hint": "Kidnapper's coding",
+                "segments": [
+                    "RANS",
+                    "OM",
+                    "WA",
+                    "RE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "MOTHERBOARD",
+                "hint": "Computer's maternal figure",
+                "segments": [
+                    "MOT",
+                    "HER",
+                    "BOA",
+                    "RD"
+                ]
+            },
+            {
+                "solution": "ADMIN",
+                "hint": "Digital rights gatekeeper",
+                "segments": [
+                    "AD",
+                    "MIN"
+                ]
+            },
+            {
+                "solution": "BANDWIDTH",
+                "hint": "Internet's waist size",
+                "segments": [
+                    "BAN",
+                    "DWI",
+                    "DTH"
+                ]
+            },
+            {
+                "solution": "FILE",
+                "hint": "Digital document holder",
+                "segments": [
+                    "FI",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "DEFRAG",
+                "hint": "Storage space organizer",
+                "segments": [
+                    "DE",
+                    "FR",
+                    "AG"
+                ]
+            },
+            {
+                "solution": "PROCESSOR",
+                "hint": "Speedy silicon brain",
+                "segments": [
+                    "PR",
+                    "OC",
+                    "ES",
+                    "SOR"
+                ]
+            },
+            {
+                "solution": "CACHE",
+                "hint": "Hidden storage treasure",
+                "segments": [
+                    "CA",
+                    "CHE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SERVER",
+                "hint": "Digital waiter",
+                "segments": [
+                    "SER",
+                    "VER"
+                ]
+            },
+            {
+                "solution": "OVERCLOCK",
+                "hint": "Turbocharged computing",
+                "segments": [
+                    "OV",
+                    "ER",
+                    "CL",
+                    "OCK"
+                ]
+            },
+            {
+                "solution": "MODEM",
+                "hint": "Dial-up dinosaur",
+                "segments": [
+                    "MO",
+                    "DEM"
+                ]
+            },
+            {
+                "solution": "EMULATOR",
+                "hint": "Gaming's time machine",
+                "segments": [
+                    "EM",
+                    "UL",
+                    "AT",
+                    "OR"
+                ]
+            },
+            {
+                "solution": "PYTHON",
+                "hint": "Slithering script",
+                "segments": [
+                    "PY",
+                    "TH",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "MOUSE",
+                "hint": "Cursor's tiny guide",
+                "segments": [
+                    "MOU",
+                    "SE"
+                ]
+            },
+            {
+                "solution": "MICROCHIP",
+                "hint": "Miniature tech marvel",
+                "segments": [
+                    "MIC",
+                    "ROC",
+                    "HIP"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "NETWORK",
+                "hint": "Digital connections web",
+                "segments": [
+                    "NETW",
+                    "ORK"
+                ]
+            },
+            {
+                "solution": "FIREFOX",
+                "hint": "Browser's blazing beast",
+                "segments": [
+                    "FIR",
+                    "EFOX"
+                ]
+            },
+            {
+                "solution": "SOFTWARE",
+                "hint": "Silky smooth code",
+                "segments": [
+                    "SOFT",
+                    "WA",
+                    "RE"
+                ]
+            },
+            {
+                "solution": "INTRANET",
+                "hint": "Company's private web",
+                "segments": [
+                    "IN",
+                    "TR",
+                    "AN",
+                    "ET"
+                ]
+            },
+            {
+                "solution": "SAFARI",
+                "hint": "Web-jungle explorer",
+                "segments": [
+                    "SAF",
+                    "ARI"
+                ]
+            },
+            {
+                "solution": "SPAM",
+                "hint": "Unwanted email deli",
+                "segments": [
+                    "SP",
+                    "AM"
+                ]
+            },
+            {
+                "solution": "SUPERCOMPUTER",
+                "hint": "Hercules of machines",
+                "segments": [
+                    "SUPE",
+                    "RC",
+                    "OM",
+                    "PU",
+                    "TER"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CLIENT",
+                "hint": "Server's customer",
+                "segments": [
+                    "CLI",
+                    "ENT"
+                ]
+            },
+            {
+                "solution": "VIRTUAL",
+                "hint": "Simulated reality",
+                "segments": [
+                    "VI",
+                    "RT",
+                    "UAL"
+                ]
+            },
+            {
+                "solution": "ETHERNET",
+                "hint": "Wired internet highway",
+                "segments": [
+                    "ET",
+                    "HE",
+                    "RN",
+                    "ET"
+                ]
+            },
+            {
+                "solution": "FIRMWARE",
+                "hint": "Between hard and soft",
+                "segments": [
+                    "FI",
+                    "RM",
+                    "WA",
+                    "RE"
+                ]
+            },
+            {
+                "solution": "UNIX",
+                "hint": "Computer's ancient roots",
+                "segments": [
+                    "UN",
+                    "IX"
+                ]
+            },
+            {
+                "solution": "TROJAN",
+                "hint": "Sneaky digital horse",
+                "segments": [
+                    "TRO",
+                    "JAN"
+                ]
+            },
+            {
+                "solution": "WINDOWS",
+                "hint": "Glass panes of software",
+                "segments": [
+                    "WI",
+                    "ND",
+                    "OWS"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "FOLDER",
+                "hint": "Electronic storage organizer",
+                "segments": [
+                    "FOL",
+                    "DER"
+                ]
+            },
+            {
+                "solution": "DOMAIN",
+                "hint": "Internet real estate",
+                "segments": [
+                    "DOM",
+                    "AIN"
+                ]
+            },
+            {
+                "solution": "DEBUGGING",
+                "hint": "Coding pest control",
+                "segments": [
+                    "DEB",
+                    "UGG",
+                    "ING"
+                ]
+            },
+            {
+                "solution": "CHROME",
+                "hint": "Polished internet navigator",
+                "segments": [
+                    "CH",
+                    "RO",
+                    "ME"
+                ]
+            },
+            {
+                "solution": "MAINFRAME",
+                "hint": "Computing's big boss",
+                "segments": [
+                    "MAI",
+                    "NFR",
+                    "AME"
+                ]
+            },
+            {
+                "solution": "SMARTPHONE",
+                "hint": "Pocket-sized wonder",
+                "segments": [
+                    "SM",
+                    "AR",
+                    "TP",
+                    "HO",
+                    "NE"
+                ]
+            },
+            {
+                "solution": "BOOT",
+                "hint": "Computer's footwear startup",
+                "segments": [
+                    "BO",
+                    "OT"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "VECTOR",
+                "hint": "Math-based graphics",
+                "segments": [
+                    "VE",
+                    "CT",
+                    "OR"
+                ]
+            },
+            {
+                "solution": "KERNEL",
+                "hint": "Computer's core seed",
+                "segments": [
+                    "KE",
+                    "RN",
+                    "EL"
+                ]
+            },
+            {
+                "solution": "WEBCAM",
+                "hint": "Online eye",
+                "segments": [
+                    "WE",
+                    "BC",
+                    "AM"
+                ]
+            },
+            {
+                "solution": "COOKIE",
+                "hint": "Web's tiny crumb",
+                "segments": [
+                    "CO",
+                    "OK",
+                    "IE"
+                ]
+            },
+            {
+                "solution": "LAPTOP",
+                "hint": "Portable productivity pal",
+                "segments": [
+                    "LA",
+                    "PT",
+                    "OP"
+                ]
+            },
+            {
+                "solution": "JAVA",
+                "hint": "Caffeinated code",
+                "segments": [
+                    "JA",
+                    "VA"
+                ]
+            },
+            {
+                "solution": "TABLET",
+                "hint": "Touchscreen slate",
+                "segments": [
+                    "TA",
+                    "BL",
+                    "ET"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ASCII",
+                "hint": "Text's coding costume",
+                "segments": [
+                    "ASC",
+                    "II"
+                ]
+            },
+            {
+                "solution": "ENCRYPTION",
+                "hint": "Secret code keeper",
+                "segments": [
+                    "EN",
+                    "CR",
+                    "YP",
+                    "TI",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "BINARY",
+                "hint": "1s and 0s only",
+                "segments": [
+                    "BIN",
+                    "ARY"
+                ]
+            },
+            {
+                "solution": "MONITOR",
+                "hint": "Visual guardian",
+                "segments": [
+                    "MO",
+                    "NI",
+                    "TOR"
+                ]
+            },
+            {
+                "solution": "BACKUP",
+                "hint": "Safety data duplicate",
+                "segments": [
+                    "BA",
+                    "CK",
+                    "UP"
+                ]
+            },
+            {
+                "solution": "CLOUD",
+                "hint": "Sky-high storage",
+                "segments": [
+                    "CL",
+                    "OUD"
+                ]
+            },
+            {
+                "solution": "HACKER",
+                "hint": "Digital intruder",
+                "segments": [
+                    "HA",
+                    "CK",
+                    "ER"
+                ]
+            }
+        ]
+    ]
+}

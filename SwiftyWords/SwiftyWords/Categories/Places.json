@@ -1,0 +1,646 @@
+{
+    "name": "Places",
+    "description": "Cities and countries from around the world",
+    "levels": [
+        [
+            {
+                "solution": "SPAIN",
+                "hint": "Flamenco and siesta",
+                "segments": [
+                    "SP",
+                    "AIN"
+                ]
+            },
+            {
+                "solution": "LUXEMBOURG",
+                "hint": "Tiny European Grand Duchy",
+                "segments": [
+                    "LU",
+                    "XE",
+                    "MB",
+                    "OU",
+                    "RG"
+                ]
+            },
+            {
+                "solution": "BANGKOK",
+                "hint": "Floating markets and tuk-tuks",
+                "segments": [
+                    "BA",
+                    "NG",
+                    "KOK"
+                ]
+            },
+            {
+                "solution": "IRELAND",
+                "hint": "Emerald Isle and folklore",
+                "segments": [
+                    "IR",
+                    "EL",
+                    "AND"
+                ]
+            },
+            {
+                "solution": "INDIA",
+                "hint": "Curry-scented wonderland",
+                "segments": [
+                    "IN",
+                    "DIA"
+                ]
+            },
+            {
+                "solution": "FINLAND",
+                "hint": "Northern lights and saunas",
+                "segments": [
+                    "FI",
+                    "NL",
+                    "AND"
+                ]
+            },
+            {
+                "solution": "KENYA",
+                "hint": "Lions, elephants, and wildebeest",
+                "segments": [
+                    "KEN",
+                    "YA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "THAILAND",
+                "hint": "Tuk-tuks and temples",
+                "segments": [
+                    "TH",
+                    "AI",
+                    "LA",
+                    "ND"
+                ]
+            },
+            {
+                "solution": "VIENNA",
+                "hint": "Waltz into history",
+                "segments": [
+                    "VI",
+                    "EN",
+                    "NA"
+                ]
+            },
+            {
+                "solution": "CAMBODIA",
+                "hint": "Temples and tuk-tuks",
+                "segments": [
+                    "CA",
+                    "MB",
+                    "OD",
+                    "IA"
+                ]
+            },
+            {
+                "solution": "NORWAY",
+                "hint": "Fjords and Vikings",
+                "segments": [
+                    "NOR",
+                    "WAY"
+                ]
+            },
+            {
+                "solution": "GREECE",
+                "hint": "Ancient ruins and gyros",
+                "segments": [
+                    "GRE",
+                    "ECE"
+                ]
+            },
+            {
+                "solution": "EGYPT",
+                "hint": "Pyramids and pharaohs",
+                "segments": [
+                    "EGY",
+                    "PT"
+                ]
+            },
+            {
+                "solution": "UKRAINE",
+                "hint": "Sunflowers and borscht",
+                "segments": [
+                    "UK",
+                    "RA",
+                    "INE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ROME",
+                "hint": "Ancient empire central",
+                "segments": [
+                    "RO",
+                    "ME"
+                ]
+            },
+            {
+                "solution": "BOLIVIA",
+                "hint": "Salt flats and llamas",
+                "segments": [
+                    "BO",
+                    "LI",
+                    "VIA"
+                ]
+            },
+            {
+                "solution": "ISRAEL",
+                "hint": "Ancient history and hummus",
+                "segments": [
+                    "IS",
+                    "RA",
+                    "EL"
+                ]
+            },
+            {
+                "solution": "CHICAGO",
+                "hint": "Windy City deep-dish",
+                "segments": [
+                    "CH",
+                    "IC",
+                    "AGO"
+                ]
+            },
+            {
+                "solution": "JAPAN",
+                "hint": "Sake and cherry blossoms",
+                "segments": [
+                    "JAP",
+                    "AN"
+                ]
+            },
+            {
+                "solution": "BUDAPEST",
+                "hint": "Thermal baths and goulash",
+                "segments": [
+                    "BU",
+                    "DA",
+                    "PE",
+                    "ST"
+                ]
+            },
+            {
+                "solution": "MOSCOW",
+                "hint": "Kremlin and onion domes",
+                "segments": [
+                    "MO",
+                    "SC",
+                    "OW"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "LONDON",
+                "hint": "Foggy tea capital",
+                "segments": [
+                    "LO",
+                    "ND",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "JORDAN",
+                "hint": "Hidden city of Petra",
+                "segments": [
+                    "JO",
+                    "RD",
+                    "AN"
+                ]
+            },
+            {
+                "solution": "GEORGIA",
+                "hint": "Toasts and mountain vistas",
+                "segments": [
+                    "GEO",
+                    "RGIA"
+                ]
+            },
+            {
+                "solution": "SINGAPORE",
+                "hint": "Tiny island powerhouse",
+                "segments": [
+                    "SI",
+                    "NG",
+                    "AP",
+                    "ORE"
+                ]
+            },
+            {
+                "solution": "MONGOLIA",
+                "hint": "Nomadic lands and yurts",
+                "segments": [
+                    "MO",
+                    "NG",
+                    "OL",
+                    "IA"
+                ]
+            },
+            {
+                "solution": "ESTONIA",
+                "hint": "Baltic medieval charm",
+                "segments": [
+                    "EST",
+                    "ONIA"
+                ]
+            },
+            {
+                "solution": "PARIS",
+                "hint": "City of amour",
+                "segments": [
+                    "PAR",
+                    "IS"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "AMSTERDAM",
+                "hint": "Bikes and canals",
+                "segments": [
+                    "AMS",
+                    "TER",
+                    "DAM"
+                ]
+            },
+            {
+                "solution": "MONACO",
+                "hint": "Playground for the rich",
+                "segments": [
+                    "MON",
+                    "ACO"
+                ]
+            },
+            {
+                "solution": "PORTUGAL",
+                "hint": "Pastel de nata paradise",
+                "segments": [
+                    "PO",
+                    "RT",
+                    "UG",
+                    "AL"
+                ]
+            },
+            {
+                "solution": "MADRID",
+                "hint": "Tapas and Picasso",
+                "segments": [
+                    "MAD",
+                    "RID"
+                ]
+            },
+            {
+                "solution": "VATICAN",
+                "hint": "Smallest country, big history",
+                "segments": [
+                    "VA",
+                    "TI",
+                    "CAN"
+                ]
+            },
+            {
+                "solution": "MOROCCO",
+                "hint": "Markets and mint tea",
+                "segments": [
+                    "MOR",
+                    "OCCO"
+                ]
+            },
+            {
+                "solution": "TANZANIA",
+                "hint": "Serengeti and Kilimanjaro",
+                "segments": [
+                    "TA",
+                    "NZ",
+                    "AN",
+                    "IA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "BELGIUM",
+                "hint": "Waffles and chocolate galore",
+                "segments": [
+                    "BE",
+                    "LG",
+                    "IUM"
+                ]
+            },
+            {
+                "solution": "GERMANY",
+                "hint": "Lederhosen and beer",
+                "segments": [
+                    "GER",
+                    "MANY"
+                ]
+            },
+            {
+                "solution": "SCOTLAND",
+                "hint": "Kilts and bagpipes",
+                "segments": [
+                    "SC",
+                    "OT",
+                    "LA",
+                    "ND"
+                ]
+            },
+            {
+                "solution": "FRANCE",
+                "hint": "Baguettes and berets",
+                "segments": [
+                    "FRA",
+                    "NCE"
+                ]
+            },
+            {
+                "solution": "HAWAII",
+                "hint": "Aloha paradise",
+                "segments": [
+                    "HAW",
+                    "AII"
+                ]
+            },
+            {
+                "solution": "CZECHIA",
+                "hint": "Prague and pilsner",
+                "segments": [
+                    "CZ",
+                    "EC",
+                    "HIA"
+                ]
+            },
+            {
+                "solution": "MALDIVES",
+                "hint": "Overwater bungalow dreams",
+                "segments": [
+                    "MA",
+                    "LD",
+                    "IV",
+                    "ES"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SWEDEN",
+                "hint": "Meatballs and minimalism",
+                "segments": [
+                    "SWE",
+                    "DEN"
+                ]
+            },
+            {
+                "solution": "AUSTRIA",
+                "hint": "Sound of Music locale",
+                "segments": [
+                    "AU",
+                    "ST",
+                    "RIA"
+                ]
+            },
+            {
+                "solution": "AUSTRALIA",
+                "hint": "Down under wonder",
+                "segments": [
+                    "AUS",
+                    "TRA",
+                    "LIA"
+                ]
+            },
+            {
+                "solution": "ITALY",
+                "hint": "Boot-shaped pasta heaven",
+                "segments": [
+                    "IT",
+                    "ALY"
+                ]
+            },
+            {
+                "solution": "CYPRUS",
+                "hint": "Aphrodite's birthplace",
+                "segments": [
+                    "CY",
+                    "PR",
+                    "US"
+                ]
+            },
+            {
+                "solution": "RUSSIA",
+                "hint": "Vodka and Matryoshka dolls",
+                "segments": [
+                    "RU",
+                    "SS",
+                    "IA"
+                ]
+            },
+            {
+                "solution": "ZIMBABWE",
+                "hint": "Victoria Falls splendor",
+                "segments": [
+                    "ZI",
+                    "MB",
+                    "AB",
+                    "WE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "BEIJING",
+                "hint": "Forbidden City secrets",
+                "segments": [
+                    "BEI",
+                    "JING"
+                ]
+            },
+            {
+                "solution": "JAMAICA",
+                "hint": "Reggae beats and beaches",
+                "segments": [
+                    "JAM",
+                    "AICA"
+                ]
+            },
+            {
+                "solution": "MEXICO",
+                "hint": "Taco and tequila central",
+                "segments": [
+                    "ME",
+                    "XI",
+                    "CO"
+                ]
+            },
+            {
+                "solution": "ECUADOR",
+                "hint": "Equator-straddling nation",
+                "segments": [
+                    "ECU",
+                    "ADOR"
+                ]
+            },
+            {
+                "solution": "ARGENTINA",
+                "hint": "Tango and beef",
+                "segments": [
+                    "AR",
+                    "GE",
+                    "NT",
+                    "INA"
+                ]
+            },
+            {
+                "solution": "SWITZERLAND",
+                "hint": "Chocolate and Alps",
+                "segments": [
+                    "SW",
+                    "IT",
+                    "ZE",
+                    "RL",
+                    "AND"
+                ]
+            },
+            {
+                "solution": "TOKYO",
+                "hint": "Sushi metropolis",
+                "segments": [
+                    "TOK",
+                    "YO"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "COLOMBIA",
+                "hint": "Coffee and salsa",
+                "segments": [
+                    "CO",
+                    "LO",
+                    "MB",
+                    "IA"
+                ]
+            },
+            {
+                "solution": "BRAZIL",
+                "hint": "Samba and soccer",
+                "segments": [
+                    "BRA",
+                    "ZIL"
+                ]
+            },
+            {
+                "solution": "TURKEY",
+                "hint": "Kebabs and turquoise coast",
+                "segments": [
+                    "TU",
+                    "RK",
+                    "EY"
+                ]
+            },
+            {
+                "solution": "CROATIA",
+                "hint": "Adriatic Sea gem",
+                "segments": [
+                    "CRO",
+                    "ATIA"
+                ]
+            },
+            {
+                "solution": "VENICE",
+                "hint": "Gondola-floating romance",
+                "segments": [
+                    "VEN",
+                    "ICE"
+                ]
+            },
+            {
+                "solution": "DUBLIN",
+                "hint": "Guinness and leprechauns",
+                "segments": [
+                    "DU",
+                    "BL",
+                    "IN"
+                ]
+            },
+            {
+                "solution": "BARCELONA",
+                "hint": "Gaudi's masterpiece playground",
+                "segments": [
+                    "BA",
+                    "RC",
+                    "EL",
+                    "ONA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CHINA",
+                "hint": "Great Wall and dumplings",
+                "segments": [
+                    "CHI",
+                    "NA"
+                ]
+            },
+            {
+                "solution": "ICELAND",
+                "hint": "Land of fire and ice",
+                "segments": [
+                    "IC",
+                    "EL",
+                    "AND"
+                ]
+            },
+            {
+                "solution": "LEBANON",
+                "hint": "Cedars and ancient ruins",
+                "segments": [
+                    "LEB",
+                    "ANON"
+                ]
+            },
+            {
+                "solution": "SYDNEY",
+                "hint": "Opera House landmark",
+                "segments": [
+                    "SYD",
+                    "NEY"
+                ]
+            },
+            {
+                "solution": "COPENHAGEN",
+                "hint": "Danish hygge capital",
+                "segments": [
+                    "CO",
+                    "PE",
+                    "NH",
+                    "AG",
+                    "EN"
+                ]
+            },
+            {
+                "solution": "ISTANBUL",
+                "hint": "East meets West",
+                "segments": [
+                    "IS",
+                    "TA",
+                    "NB",
+                    "UL"
+                ]
+            },
+            {
+                "solution": "CANADA",
+                "hint": "Land of maple syrup",
+                "segments": [
+                    "CAN",
+                    "ADA"
+                ]
+            }
+        ]
+    ]
+}

@@ -1,0 +1,6406 @@
+{
+    "name": "Random",
+    "description": "A box of assorted delights",
+    "levels": [
+        [
+            {
+                "solution": "INCUR",
+                "hint": "Bring trouble upon oneself",
+                "segments": [
+                    "IN",
+                    "CUR"
+                ]
+            },
+            {
+                "solution": "BENEVOLENT",
+                "hint": "Kind and generous",
+                "segments": [
+                    "BENE",
+                    "VO",
+                    "LE",
+                    "NT"
+                ]
+            },
+            {
+                "solution": "KLUTZ",
+                "hint": "Accident-prone individual",
+                "segments": [
+                    "KLU",
+                    "TZ"
+                ]
+            },
+            {
+                "solution": "TRUCULENT",
+                "hint": "Aggressive or hostile",
+                "segments": [
+                    "TRU",
+                    "CUL",
+                    "ENT"
+                ]
+            },
+            {
+                "solution": "SCURRILOUS",
+                "hint": "Vulgar or abusive language",
+                "segments": [
+                    "SCUR",
+                    "RI",
+                    "LO",
+                    "US"
+                ]
+            },
+            {
+                "solution": "ZAFTIG",
+                "hint": "Having a full, shapely figure",
+                "segments": [
+                    "ZAF",
+                    "TIG"
+                ]
+            },
+            {
+                "solution": "ORNITHOLOGY",
+                "hint": "Bird study",
+                "segments": [
+                    "ORNI",
+                    "THOL",
+                    "OGY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SANCTUARY",
+                "hint": "Safe haven",
+                "segments": [
+                    "SAN",
+                    "CTU",
+                    "ARY"
+                ]
+            },
+            {
+                "solution": "AMPERSAND",
+                "hint": "Et cetera's curvy cousin",
+                "segments": [
+                    "AMP",
+                    "ERS",
+                    "AND"
+                ]
+            },
+            {
+                "solution": "PASTICHE",
+                "hint": "Artistic imitation",
+                "segments": [
+                    "PA",
+                    "ST",
+                    "IC",
+                    "HE"
+                ]
+            },
+            {
+                "solution": "GROVEL",
+                "hint": "Beg with humility",
+                "segments": [
+                    "GRO",
+                    "VEL"
+                ]
+            },
+            {
+                "solution": "ZIGZAG",
+                "hint": "Path of a lightning bolt",
+                "segments": [
+                    "ZIG",
+                    "ZAG"
+                ]
+            },
+            {
+                "solution": "LIMELIGHT",
+                "hint": "Stage performer's shine",
+                "segments": [
+                    "LIM",
+                    "ELI",
+                    "GHT"
+                ]
+            },
+            {
+                "solution": "ANIMOSITY",
+                "hint": "Strong hostility",
+                "segments": [
+                    "ANI",
+                    "MOS",
+                    "ITY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "FIDGET",
+                "hint": "Nervous squirming",
+                "segments": [
+                    "FID",
+                    "GET"
+                ]
+            },
+            {
+                "solution": "COLOSSUS",
+                "hint": "Gigantic, towering figure",
+                "segments": [
+                    "COLO",
+                    "SS",
+                    "US"
+                ]
+            },
+            {
+                "solution": "ZEPPELIN",
+                "hint": "Rigid airship",
+                "segments": [
+                    "ZE",
+                    "PP",
+                    "EL",
+                    "IN"
+                ]
+            },
+            {
+                "solution": "INCENSE",
+                "hint": "Fragrant smoke creator",
+                "segments": [
+                    "IN",
+                    "CE",
+                    "NSE"
+                ]
+            },
+            {
+                "solution": "MAGNANIMOUS",
+                "hint": "Generous and forgiving",
+                "segments": [
+                    "MAG",
+                    "NAN",
+                    "IMO",
+                    "US"
+                ]
+            },
+            {
+                "solution": "PANACHE",
+                "hint": "Flamboyant confidence or style",
+                "segments": [
+                    "PANA",
+                    "CHE"
+                ]
+            },
+            {
+                "solution": "PLIGHT",
+                "hint": "Unfortunate predicament",
+                "segments": [
+                    "PLI",
+                    "GHT"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "GOBLET",
+                "hint": "Stemmed drinking vessel",
+                "segments": [
+                    "GO",
+                    "BL",
+                    "ET"
+                ]
+            },
+            {
+                "solution": "SIMPER",
+                "hint": "Silly, self-conscious smile",
+                "segments": [
+                    "SIM",
+                    "PER"
+                ]
+            },
+            {
+                "solution": "COBWEB",
+                "hint": "Spider's home or dusty corner",
+                "segments": [
+                    "COB",
+                    "WEB"
+                ]
+            },
+            {
+                "solution": "JUGGLE",
+                "hint": "Toss and catch",
+                "segments": [
+                    "JUG",
+                    "GLE"
+                ]
+            },
+            {
+                "solution": "TANTALIZE",
+                "hint": "Tease with the unattainable",
+                "segments": [
+                    "TAN",
+                    "TAL",
+                    "IZE"
+                ]
+            },
+            {
+                "solution": "MAWKISH",
+                "hint": "Overly sentimental",
+                "segments": [
+                    "MA",
+                    "WK",
+                    "ISH"
+                ]
+            },
+            {
+                "solution": "PERSNICKETY",
+                "hint": "Fussy or excessively particular",
+                "segments": [
+                    "PE",
+                    "RS",
+                    "NI",
+                    "CK",
+                    "ETY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "IMPART",
+                "hint": "Pass on knowledge",
+                "segments": [
+                    "IMP",
+                    "ART"
+                ]
+            },
+            {
+                "solution": "NEXUS",
+                "hint": "Connection or link",
+                "segments": [
+                    "NEX",
+                    "US"
+                ]
+            },
+            {
+                "solution": "LAMBASTE",
+                "hint": "Criticize harshly or scold",
+                "segments": [
+                    "LA",
+                    "MB",
+                    "AS",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "INKLING",
+                "hint": "A vague notion",
+                "segments": [
+                    "INK",
+                    "LING"
+                ]
+            },
+            {
+                "solution": "ACQUIESCE",
+                "hint": "Consent or comply passively",
+                "segments": [
+                    "ACQ",
+                    "UIE",
+                    "SCE"
+                ]
+            },
+            {
+                "solution": "TRAJECTORY",
+                "hint": "Path of a moving object",
+                "segments": [
+                    "TRAJ",
+                    "EC",
+                    "TO",
+                    "RY"
+                ]
+            },
+            {
+                "solution": "OBLIVION",
+                "hint": "State of being forgotten",
+                "segments": [
+                    "OBLI",
+                    "VI",
+                    "ON"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "LUDICROUS",
+                "hint": "Absurd and laughable",
+                "segments": [
+                    "LUD",
+                    "ICR",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "EBULLIENT",
+                "hint": "Overflowing with enthusiasm",
+                "segments": [
+                    "EBU",
+                    "LLI",
+                    "ENT"
+                ]
+            },
+            {
+                "solution": "ECCENTRIC",
+                "hint": "Odd or unconventional",
+                "segments": [
+                    "ECC",
+                    "ENT",
+                    "RIC"
+                ]
+            },
+            {
+                "solution": "ROULETTE",
+                "hint": "Betting on black or red",
+                "segments": [
+                    "ROUL",
+                    "ET",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "COALESCE",
+                "hint": "Merge into one",
+                "segments": [
+                    "CO",
+                    "AL",
+                    "ES",
+                    "CE"
+                ]
+            },
+            {
+                "solution": "KINSHIP",
+                "hint": "Family ties",
+                "segments": [
+                    "KIN",
+                    "SHIP"
+                ]
+            },
+            {
+                "solution": "LACERATE",
+                "hint": "Tear, cut, or slash",
+                "segments": [
+                    "LACE",
+                    "RATE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "DEFT",
+                "hint": "Skillful or quick",
+                "segments": [
+                    "DE",
+                    "FT"
+                ]
+            },
+            {
+                "solution": "ABODE",
+                "hint": "Where the heart is",
+                "segments": [
+                    "ABO",
+                    "DE"
+                ]
+            },
+            {
+                "solution": "TRANSMOGRIFY",
+                "hint": "Transform surprisingly",
+                "segments": [
+                    "TRA",
+                    "NSM",
+                    "OGR",
+                    "IFY"
+                ]
+            },
+            {
+                "solution": "GESTICULATE",
+                "hint": "Express with hand motions",
+                "segments": [
+                    "GE",
+                    "ST",
+                    "IC",
+                    "UL",
+                    "ATE"
+                ]
+            },
+            {
+                "solution": "REPROBATE",
+                "hint": "Morally unprincipled",
+                "segments": [
+                    "REP",
+                    "ROB",
+                    "ATE"
+                ]
+            },
+            {
+                "solution": "WHISK",
+                "hint": "Stirring kitchen tool",
+                "segments": [
+                    "WHI",
+                    "SK"
+                ]
+            },
+            {
+                "solution": "TATTERS",
+                "hint": "Shreds of worn-out clothes",
+                "segments": [
+                    "TATT",
+                    "ERS"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "WHIMSY",
+                "hint": "Playful quirkiness",
+                "segments": [
+                    "WHI",
+                    "MSY"
+                ]
+            },
+            {
+                "solution": "CACHE",
+                "hint": "Hidden treasure trove",
+                "segments": [
+                    "CA",
+                    "CHE"
+                ]
+            },
+            {
+                "solution": "SOLILOQUY",
+                "hint": "Dramatic monologue",
+                "segments": [
+                    "SOL",
+                    "ILO",
+                    "QUY"
+                ]
+            },
+            {
+                "solution": "RUDIMENTARY",
+                "hint": "Basic or undeveloped",
+                "segments": [
+                    "RUDI",
+                    "ME",
+                    "NT",
+                    "ARY"
+                ]
+            },
+            {
+                "solution": "PERFUNCTORY",
+                "hint": "Done without interest or care",
+                "segments": [
+                    "PERF",
+                    "UNCT",
+                    "ORY"
+                ]
+            },
+            {
+                "solution": "PAPARAZZO",
+                "hint": "Celebrity-chasing photographer",
+                "segments": [
+                    "PAP",
+                    "ARA",
+                    "ZZO"
+                ]
+            },
+            {
+                "solution": "UNCANNY",
+                "hint": "Eerie or strange",
+                "segments": [
+                    "UN",
+                    "CA",
+                    "NNY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "INVECTIVE",
+                "hint": "Harsh or abusive language",
+                "segments": [
+                    "INV",
+                    "ECT",
+                    "IVE"
+                ]
+            },
+            {
+                "solution": "DECIPHER",
+                "hint": "Crack the code",
+                "segments": [
+                    "DECI",
+                    "PH",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "PRATTLE",
+                "hint": "Babble, chatter, or talk aimlessly",
+                "segments": [
+                    "PRA",
+                    "TTLE"
+                ]
+            },
+            {
+                "solution": "WANDERER",
+                "hint": "One who roams",
+                "segments": [
+                    "WAND",
+                    "ER",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "MUMMERY",
+                "hint": "Pretentious ceremonies",
+                "segments": [
+                    "MU",
+                    "MM",
+                    "ERY"
+                ]
+            },
+            {
+                "solution": "OMNIPRESENT",
+                "hint": "Present everywhere",
+                "segments": [
+                    "OMNI",
+                    "PR",
+                    "ES",
+                    "ENT"
+                ]
+            },
+            {
+                "solution": "OUTCAST",
+                "hint": "Socially shunned",
+                "segments": [
+                    "OUT",
+                    "CAST"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "PARADOX",
+                "hint": "Contradictory puzzle",
+                "segments": [
+                    "PARA",
+                    "DOX"
+                ]
+            },
+            {
+                "solution": "CANTER",
+                "hint": "Horse's smooth gait",
+                "segments": [
+                    "CAN",
+                    "TER"
+                ]
+            },
+            {
+                "solution": "RAPSCALLION",
+                "hint": "Mischievous rogue",
+                "segments": [
+                    "RAP",
+                    "SCA",
+                    "LLI",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "FORLORN",
+                "hint": "Sad, abandoned, or lonely",
+                "segments": [
+                    "FOR",
+                    "LORN"
+                ]
+            },
+            {
+                "solution": "GLUTTONY",
+                "hint": "Excessive eating or drinking",
+                "segments": [
+                    "GLUT",
+                    "TO",
+                    "NY"
+                ]
+            },
+            {
+                "solution": "QUANDARY",
+                "hint": "Dilemma or uncertainty",
+                "segments": [
+                    "QU",
+                    "AN",
+                    "DA",
+                    "RY"
+                ]
+            },
+            {
+                "solution": "HARBINGER",
+                "hint": "Sign of something to come",
+                "segments": [
+                    "HAR",
+                    "BIN",
+                    "GER"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "LANGUID",
+                "hint": "Slow, relaxed, unhurried",
+                "segments": [
+                    "LAN",
+                    "GUID"
+                ]
+            },
+            {
+                "solution": "IRIDESCENT",
+                "hint": "Shimmering color display",
+                "segments": [
+                    "IR",
+                    "ID",
+                    "ES",
+                    "CE",
+                    "NT"
+                ]
+            },
+            {
+                "solution": "HERALD",
+                "hint": "Messenger of news",
+                "segments": [
+                    "HER",
+                    "ALD"
+                ]
+            },
+            {
+                "solution": "UNRAVEL",
+                "hint": "Disentangle",
+                "segments": [
+                    "UNR",
+                    "AVEL"
+                ]
+            },
+            {
+                "solution": "ESCAPADE",
+                "hint": "Wild adventure",
+                "segments": [
+                    "ES",
+                    "CA",
+                    "PA",
+                    "DE"
+                ]
+            },
+            {
+                "solution": "OBLIQUE",
+                "hint": "Slanting or indirectly stated",
+                "segments": [
+                    "OBL",
+                    "IQUE"
+                ]
+            },
+            {
+                "solution": "LIAISON",
+                "hint": "Communication link",
+                "segments": [
+                    "LI",
+                    "AI",
+                    "SON"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HICCUP",
+                "hint": "Diaphragm's sudden spasm",
+                "segments": [
+                    "HIC",
+                    "CUP"
+                ]
+            },
+            {
+                "solution": "FRISSON",
+                "hint": "A sudden thrill or shiver",
+                "segments": [
+                    "FR",
+                    "IS",
+                    "SON"
+                ]
+            },
+            {
+                "solution": "CREDO",
+                "hint": "Personal belief system",
+                "segments": [
+                    "CRE",
+                    "DO"
+                ]
+            },
+            {
+                "solution": "BEHEST",
+                "hint": "Commanding request",
+                "segments": [
+                    "BE",
+                    "HE",
+                    "ST"
+                ]
+            },
+            {
+                "solution": "UNFLAPPABLE",
+                "hint": "Calm and composed",
+                "segments": [
+                    "UNF",
+                    "LAP",
+                    "PAB",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "DISPARAGE",
+                "hint": "Belittle or criticize",
+                "segments": [
+                    "DI",
+                    "SP",
+                    "AR",
+                    "AGE"
+                ]
+            },
+            {
+                "solution": "ABYSS",
+                "hint": "Bottomless pit or profound depth",
+                "segments": [
+                    "ABY",
+                    "SS"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "NADIR",
+                "hint": "Rock bottom",
+                "segments": [
+                    "NA",
+                    "DIR"
+                ]
+            },
+            {
+                "solution": "CONUNDRUM",
+                "hint": "A puzzling question or riddle",
+                "segments": [
+                    "CON",
+                    "UND",
+                    "RUM"
+                ]
+            },
+            {
+                "solution": "BLITHE",
+                "hint": "Cheerful or carefree",
+                "segments": [
+                    "BL",
+                    "IT",
+                    "HE"
+                ]
+            },
+            {
+                "solution": "CULMINATE",
+                "hint": "Reach the climax",
+                "segments": [
+                    "CUL",
+                    "MIN",
+                    "ATE"
+                ]
+            },
+            {
+                "solution": "FILCH",
+                "hint": "Sneakily steal",
+                "segments": [
+                    "FIL",
+                    "CH"
+                ]
+            },
+            {
+                "solution": "UBIQUITOUS",
+                "hint": "Present everywhere",
+                "segments": [
+                    "UB",
+                    "IQ",
+                    "UI",
+                    "TO",
+                    "US"
+                ]
+            },
+            {
+                "solution": "FRACAS",
+                "hint": "Noisy disturbance, brawl",
+                "segments": [
+                    "FRA",
+                    "CAS"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "JADED",
+                "hint": "Worn out or fatigued",
+                "segments": [
+                    "JA",
+                    "DED"
+                ]
+            },
+            {
+                "solution": "SILHOUETTE",
+                "hint": "Shadowy figure or dark outline",
+                "segments": [
+                    "SILH",
+                    "OU",
+                    "ET",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "ONOMATOPOEIA",
+                "hint": "Sounds like it's spelled",
+                "segments": [
+                    "ONO",
+                    "MAT",
+                    "OPO",
+                    "EIA"
+                ]
+            },
+            {
+                "solution": "UPHEAVAL",
+                "hint": "Sudden disruption",
+                "segments": [
+                    "UPHE",
+                    "AVAL"
+                ]
+            },
+            {
+                "solution": "ILLUSORY",
+                "hint": "Deceptive, not real",
+                "segments": [
+                    "ILLU",
+                    "SO",
+                    "RY"
+                ]
+            },
+            {
+                "solution": "DECOY",
+                "hint": "Fake ducks for hunters",
+                "segments": [
+                    "DEC",
+                    "OY"
+                ]
+            },
+            {
+                "solution": "OSTRACIZE",
+                "hint": "Exclude or banish",
+                "segments": [
+                    "OST",
+                    "RAC",
+                    "IZE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "TEMERITY",
+                "hint": "Reckless boldness",
+                "segments": [
+                    "TE",
+                    "ME",
+                    "RI",
+                    "TY"
+                ]
+            },
+            {
+                "solution": "XENOPHOBIA",
+                "hint": "Fear of foreigners",
+                "segments": [
+                    "XENO",
+                    "PH",
+                    "OB",
+                    "IA"
+                ]
+            },
+            {
+                "solution": "NUMISMATIST",
+                "hint": "Coin collector",
+                "segments": [
+                    "NUM",
+                    "ISM",
+                    "ATI",
+                    "ST"
+                ]
+            },
+            {
+                "solution": "OVERTURE",
+                "hint": "Musical introduction",
+                "segments": [
+                    "OVER",
+                    "TURE"
+                ]
+            },
+            {
+                "solution": "DIDACTIC",
+                "hint": "Intended to teach, instructive",
+                "segments": [
+                    "DIDA",
+                    "CTIC"
+                ]
+            },
+            {
+                "solution": "KNAVERY",
+                "hint": "Dishonest dealings",
+                "segments": [
+                    "KNAV",
+                    "ERY"
+                ]
+            },
+            {
+                "solution": "HEEDLESS",
+                "hint": "Careless, inattentive, or thoughtless",
+                "segments": [
+                    "HEED",
+                    "LESS"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "QUIZ",
+                "hint": "Trivia enthusiast's delight",
+                "segments": [
+                    "QU",
+                    "IZ"
+                ]
+            },
+            {
+                "solution": "QUIVER",
+                "hint": "Tremble, shake, or archer's case",
+                "segments": [
+                    "QUI",
+                    "VER"
+                ]
+            },
+            {
+                "solution": "PALINDROME",
+                "hint": "Spelled forwards and back",
+                "segments": [
+                    "PA",
+                    "LI",
+                    "ND",
+                    "RO",
+                    "ME"
+                ]
+            },
+            {
+                "solution": "LAMBENT",
+                "hint": "Softly glowing or flickering",
+                "segments": [
+                    "LA",
+                    "MB",
+                    "ENT"
+                ]
+            },
+            {
+                "solution": "RUCKUS",
+                "hint": "Boisterous commotion",
+                "segments": [
+                    "RUC",
+                    "KUS"
+                ]
+            },
+            {
+                "solution": "DEBONAIR",
+                "hint": "Suave, sophisticated charm",
+                "segments": [
+                    "DEBO",
+                    "NA",
+                    "IR"
+                ]
+            },
+            {
+                "solution": "HERBIVORE",
+                "hint": "Veggie muncher",
+                "segments": [
+                    "HER",
+                    "BIV",
+                    "ORE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "UTOPIA",
+                "hint": "Perfect society",
+                "segments": [
+                    "UTO",
+                    "PIA"
+                ]
+            },
+            {
+                "solution": "BREVITY",
+                "hint": "Short and sweet",
+                "segments": [
+                    "BRE",
+                    "VITY"
+                ]
+            },
+            {
+                "solution": "KALEIDOSCOPE",
+                "hint": "Colorful pattern maker",
+                "segments": [
+                    "KA",
+                    "LE",
+                    "ID",
+                    "OS",
+                    "CO",
+                    "PE"
+                ]
+            },
+            {
+                "solution": "GRATIFY",
+                "hint": "Satisfy or please",
+                "segments": [
+                    "GRA",
+                    "TIFY"
+                ]
+            },
+            {
+                "solution": "RUMBLE",
+                "hint": "Stomach's grumbling",
+                "segments": [
+                    "RU",
+                    "MB",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "GAUCHE",
+                "hint": "Lacking social grace, awkward",
+                "segments": [
+                    "GA",
+                    "UC",
+                    "HE"
+                ]
+            },
+            {
+                "solution": "PRYING",
+                "hint": "Curiosity gone too far",
+                "segments": [
+                    "PRY",
+                    "ING"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "AWRY",
+                "hint": "Gone off the rails",
+                "segments": [
+                    "AW",
+                    "RY"
+                ]
+            },
+            {
+                "solution": "MOTLEY",
+                "hint": "Mixed assortment",
+                "segments": [
+                    "MO",
+                    "TL",
+                    "EY"
+                ]
+            },
+            {
+                "solution": "FROLIC",
+                "hint": "Play merrily",
+                "segments": [
+                    "FRO",
+                    "LIC"
+                ]
+            },
+            {
+                "solution": "ZIRCON",
+                "hint": "Diamond's low-budget cousin",
+                "segments": [
+                    "ZI",
+                    "RC",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "GYRATE",
+                "hint": "Revolve or spin",
+                "segments": [
+                    "GYR",
+                    "ATE"
+                ]
+            },
+            {
+                "solution": "OBSOLETE",
+                "hint": "No longer in use",
+                "segments": [
+                    "OB",
+                    "SO",
+                    "LE",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "SCAFFOLD",
+                "hint": "Temporary platform",
+                "segments": [
+                    "SC",
+                    "AF",
+                    "FO",
+                    "LD"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "NEMESIS",
+                "hint": "Arch-enemy",
+                "segments": [
+                    "NEM",
+                    "ESIS"
+                ]
+            },
+            {
+                "solution": "TACITURN",
+                "hint": "Silent or reserved",
+                "segments": [
+                    "TACI",
+                    "TURN"
+                ]
+            },
+            {
+                "solution": "XANADU",
+                "hint": "Place of great beauty",
+                "segments": [
+                    "XAN",
+                    "ADU"
+                ]
+            },
+            {
+                "solution": "LEGERDEMAIN",
+                "hint": "Sleight of hand",
+                "segments": [
+                    "LEG",
+                    "ERD",
+                    "EMA",
+                    "IN"
+                ]
+            },
+            {
+                "solution": "TRANSGRESS",
+                "hint": "Break a rule",
+                "segments": [
+                    "TR",
+                    "AN",
+                    "SG",
+                    "RE",
+                    "SS"
+                ]
+            },
+            {
+                "solution": "NEBULA",
+                "hint": "Cosmic cloud",
+                "segments": [
+                    "NEB",
+                    "ULA"
+                ]
+            },
+            {
+                "solution": "DOCTRINE",
+                "hint": "Set of beliefs",
+                "segments": [
+                    "DOCT",
+                    "RI",
+                    "NE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "AMBROSIA",
+                "hint": "Food of the gods",
+                "segments": [
+                    "AMBR",
+                    "OS",
+                    "IA"
+                ]
+            },
+            {
+                "solution": "WIZENED",
+                "hint": "Shriveled with age",
+                "segments": [
+                    "WIZ",
+                    "ENED"
+                ]
+            },
+            {
+                "solution": "SPURN",
+                "hint": "Reject disdainfully",
+                "segments": [
+                    "SPU",
+                    "RN"
+                ]
+            },
+            {
+                "solution": "JOCULAR",
+                "hint": "Playful, joking demeanor",
+                "segments": [
+                    "JO",
+                    "CU",
+                    "LAR"
+                ]
+            },
+            {
+                "solution": "XEROX",
+                "hint": "Photocopy",
+                "segments": [
+                    "XER",
+                    "OX"
+                ]
+            },
+            {
+                "solution": "LITHOGRAPH",
+                "hint": "Printmaking technique",
+                "segments": [
+                    "LI",
+                    "TH",
+                    "OG",
+                    "RA",
+                    "PH"
+                ]
+            },
+            {
+                "solution": "LUCRATIVE",
+                "hint": "Profitable",
+                "segments": [
+                    "LUC",
+                    "RAT",
+                    "IVE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "BALDERDASH",
+                "hint": "Nonsense, gibberish",
+                "segments": [
+                    "BA",
+                    "LD",
+                    "ER",
+                    "DA",
+                    "SH"
+                ]
+            },
+            {
+                "solution": "ZENITH",
+                "hint": "Highest point or peak",
+                "segments": [
+                    "ZE",
+                    "NI",
+                    "TH"
+                ]
+            },
+            {
+                "solution": "DEPRECATE",
+                "hint": "Disapprove or belittle",
+                "segments": [
+                    "DE",
+                    "PR",
+                    "EC",
+                    "ATE"
+                ]
+            },
+            {
+                "solution": "RANSACK",
+                "hint": "Search thoroughly",
+                "segments": [
+                    "RAN",
+                    "SACK"
+                ]
+            },
+            {
+                "solution": "JOLLITY",
+                "hint": "Merry celebration",
+                "segments": [
+                    "JOL",
+                    "LITY"
+                ]
+            },
+            {
+                "solution": "AMBLE",
+                "hint": "Leisurely stroll",
+                "segments": [
+                    "AM",
+                    "BLE"
+                ]
+            },
+            {
+                "solution": "GLOAT",
+                "hint": "Winner's unbecoming grin",
+                "segments": [
+                    "GL",
+                    "OAT"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "DICHOTOMY",
+                "hint": "Division in two",
+                "segments": [
+                    "DI",
+                    "CH",
+                    "OT",
+                    "OMY"
+                ]
+            },
+            {
+                "solution": "ACRIMONY",
+                "hint": "Bitterness or resentment",
+                "segments": [
+                    "AC",
+                    "RI",
+                    "MO",
+                    "NY"
+                ]
+            },
+            {
+                "solution": "HYBRID",
+                "hint": "Crossbred mix",
+                "segments": [
+                    "HYB",
+                    "RID"
+                ]
+            },
+            {
+                "solution": "FALTER",
+                "hint": "Hesitate or lose momentum",
+                "segments": [
+                    "FAL",
+                    "TER"
+                ]
+            },
+            {
+                "solution": "MAUDLIN",
+                "hint": "Overly sentimental",
+                "segments": [
+                    "MAU",
+                    "DLIN"
+                ]
+            },
+            {
+                "solution": "MAGNITUDE",
+                "hint": "Greatness or size",
+                "segments": [
+                    "MA",
+                    "GN",
+                    "IT",
+                    "UDE"
+                ]
+            },
+            {
+                "solution": "ERUDITE",
+                "hint": "Scholarly, learned",
+                "segments": [
+                    "ERU",
+                    "DITE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "INDIGENOUS",
+                "hint": "Native to a region",
+                "segments": [
+                    "IN",
+                    "DI",
+                    "GE",
+                    "NO",
+                    "US"
+                ]
+            },
+            {
+                "solution": "CHORTLE",
+                "hint": "Chuckle and snort combo",
+                "segments": [
+                    "CHO",
+                    "RTLE"
+                ]
+            },
+            {
+                "solution": "BRUSQUE",
+                "hint": "Blunt, curt, or short-tempered",
+                "segments": [
+                    "BR",
+                    "US",
+                    "QUE"
+                ]
+            },
+            {
+                "solution": "SLEEK",
+                "hint": "Smooth and polished",
+                "segments": [
+                    "SL",
+                    "EEK"
+                ]
+            },
+            {
+                "solution": "SPORADIC",
+                "hint": "Occurring irregularly",
+                "segments": [
+                    "SP",
+                    "OR",
+                    "AD",
+                    "IC"
+                ]
+            },
+            {
+                "solution": "PANOPLY",
+                "hint": "Splendid display or array",
+                "segments": [
+                    "PAN",
+                    "OPLY"
+                ]
+            },
+            {
+                "solution": "ZEALOT",
+                "hint": "Passionate enthusiast",
+                "segments": [
+                    "ZEA",
+                    "LOT"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "IMPEDE",
+                "hint": "Hinder progress",
+                "segments": [
+                    "IMP",
+                    "EDE"
+                ]
+            },
+            {
+                "solution": "DIATRIBE",
+                "hint": "Angry, critical speech",
+                "segments": [
+                    "DIAT",
+                    "RI",
+                    "BE"
+                ]
+            },
+            {
+                "solution": "NOTORIOUS",
+                "hint": "Infamous or well-known",
+                "segments": [
+                    "NOT",
+                    "ORI",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "BRAGGADOCIO",
+                "hint": "Boastful display",
+                "segments": [
+                    "BRAG",
+                    "GADO",
+                    "CIO"
+                ]
+            },
+            {
+                "solution": "BOONDOGGLE",
+                "hint": "Work of little value",
+                "segments": [
+                    "BOON",
+                    "DOGG",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "REVERBERATE",
+                "hint": "Echo repeatedly",
+                "segments": [
+                    "REV",
+                    "ERB",
+                    "ERA",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "GLAZE",
+                "hint": "Donut's shiny coating",
+                "segments": [
+                    "GLA",
+                    "ZE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "PERNICIOUS",
+                "hint": "Harmful, damaging effect",
+                "segments": [
+                    "PE",
+                    "RN",
+                    "IC",
+                    "IO",
+                    "US"
+                ]
+            },
+            {
+                "solution": "ANTECEDENT",
+                "hint": "Prior event",
+                "segments": [
+                    "ANTE",
+                    "CEDE",
+                    "NT"
+                ]
+            },
+            {
+                "solution": "SMORGASBORD",
+                "hint": "Scandinavian buffet or varied collection",
+                "segments": [
+                    "SMOR",
+                    "GASB",
+                    "ORD"
+                ]
+            },
+            {
+                "solution": "AMPHIBIOUS",
+                "hint": "Living on land and water",
+                "segments": [
+                    "AMPH",
+                    "IBIO",
+                    "US"
+                ]
+            },
+            {
+                "solution": "CRYPTIC",
+                "hint": "Mysterious or hidden",
+                "segments": [
+                    "CRY",
+                    "PTIC"
+                ]
+            },
+            {
+                "solution": "GAMBIT",
+                "hint": "Chess opening move",
+                "segments": [
+                    "GAM",
+                    "BIT"
+                ]
+            },
+            {
+                "solution": "YIELD",
+                "hint": "Give way to pressure",
+                "segments": [
+                    "YIE",
+                    "LD"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HYDRA",
+                "hint": "Mythical many-headed serpent",
+                "segments": [
+                    "HY",
+                    "DRA"
+                ]
+            },
+            {
+                "solution": "GYPSUM",
+                "hint": "Material for drywall or plaster",
+                "segments": [
+                    "GYP",
+                    "SUM"
+                ]
+            },
+            {
+                "solution": "ABDICATE",
+                "hint": "Renounce the throne",
+                "segments": [
+                    "AB",
+                    "DI",
+                    "CA",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "ENSNARE",
+                "hint": "Trap in a web",
+                "segments": [
+                    "ENS",
+                    "NARE"
+                ]
+            },
+            {
+                "solution": "KNOLL",
+                "hint": "Small, rounded hill",
+                "segments": [
+                    "KN",
+                    "OLL"
+                ]
+            },
+            {
+                "solution": "UNASSUMING",
+                "hint": "Modest or humble",
+                "segments": [
+                    "UN",
+                    "AS",
+                    "SU",
+                    "MI",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "BOISTEROUS",
+                "hint": "Noisily energetic",
+                "segments": [
+                    "BOIS",
+                    "TERO",
+                    "US"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "EPHEMERAL",
+                "hint": "Short-lived or temporary",
+                "segments": [
+                    "EP",
+                    "HE",
+                    "ME",
+                    "RAL"
+                ]
+            },
+            {
+                "solution": "ABSURD",
+                "hint": "Ridiculously unreasonable",
+                "segments": [
+                    "AB",
+                    "SU",
+                    "RD"
+                ]
+            },
+            {
+                "solution": "ENMITY",
+                "hint": "Unfriendly rivalry",
+                "segments": [
+                    "EN",
+                    "MI",
+                    "TY"
+                ]
+            },
+            {
+                "solution": "MERCURY",
+                "hint": "Thermometer juice",
+                "segments": [
+                    "MER",
+                    "CURY"
+                ]
+            },
+            {
+                "solution": "LILT",
+                "hint": "Catchy tune sway",
+                "segments": [
+                    "LI",
+                    "LT"
+                ]
+            },
+            {
+                "solution": "KNEAD",
+                "hint": "Preparing dough for bread",
+                "segments": [
+                    "KN",
+                    "EAD"
+                ]
+            },
+            {
+                "solution": "SEDENTARY",
+                "hint": "Sitting still",
+                "segments": [
+                    "SE",
+                    "DE",
+                    "NT",
+                    "ARY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "BEHOVE",
+                "hint": "To be appropriate",
+                "segments": [
+                    "BEH",
+                    "OVE"
+                ]
+            },
+            {
+                "solution": "GRUDGE",
+                "hint": "Long-held resentment",
+                "segments": [
+                    "GRU",
+                    "DGE"
+                ]
+            },
+            {
+                "solution": "RECTITUDE",
+                "hint": "Righteousness, moral virtue",
+                "segments": [
+                    "REC",
+                    "TIT",
+                    "UDE"
+                ]
+            },
+            {
+                "solution": "SOUFFLE",
+                "hint": "Airy, savory, and culinary delight",
+                "segments": [
+                    "SOU",
+                    "FFLE"
+                ]
+            },
+            {
+                "solution": "QUADRANT",
+                "hint": "Quarter section",
+                "segments": [
+                    "QUAD",
+                    "RA",
+                    "NT"
+                ]
+            },
+            {
+                "solution": "REPARTEE",
+                "hint": "Quick, witty conversation",
+                "segments": [
+                    "RE",
+                    "PA",
+                    "RT",
+                    "EE"
+                ]
+            },
+            {
+                "solution": "COLLOQUIUM",
+                "hint": "Scholarly conference or seminar",
+                "segments": [
+                    "COLL",
+                    "OQ",
+                    "UI",
+                    "UM"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "RUSTIC",
+                "hint": "Country charm",
+                "segments": [
+                    "RU",
+                    "ST",
+                    "IC"
+                ]
+            },
+            {
+                "solution": "GUFFAW",
+                "hint": "Loud, hearty laughter",
+                "segments": [
+                    "GUF",
+                    "FAW"
+                ]
+            },
+            {
+                "solution": "DETERRENT",
+                "hint": "Discouraging factor",
+                "segments": [
+                    "DET",
+                    "ERR",
+                    "ENT"
+                ]
+            },
+            {
+                "solution": "CACHET",
+                "hint": "Prestige or distinction",
+                "segments": [
+                    "CA",
+                    "CH",
+                    "ET"
+                ]
+            },
+            {
+                "solution": "MACHINATION",
+                "hint": "Devious scheme",
+                "segments": [
+                    "MA",
+                    "CH",
+                    "IN",
+                    "AT",
+                    "ION"
+                ]
+            },
+            {
+                "solution": "YOKEL",
+                "hint": "Country bumpkin",
+                "segments": [
+                    "YOK",
+                    "EL"
+                ]
+            },
+            {
+                "solution": "BLUFF",
+                "hint": "Poker face's locale",
+                "segments": [
+                    "BLU",
+                    "FF"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "DAGGER",
+                "hint": "Poet's cutting tool",
+                "segments": [
+                    "DAG",
+                    "GER"
+                ]
+            },
+            {
+                "solution": "LETHARGIC",
+                "hint": "Sluggish or lacking energy",
+                "segments": [
+                    "LET",
+                    "HAR",
+                    "GIC"
+                ]
+            },
+            {
+                "solution": "INVETERATE",
+                "hint": "Habitual, deeply ingrained",
+                "segments": [
+                    "IN",
+                    "VE",
+                    "TE",
+                    "RA",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "ORNERY",
+                "hint": "Stubborn or grouchy",
+                "segments": [
+                    "ORN",
+                    "ERY"
+                ]
+            },
+            {
+                "solution": "KINDLE",
+                "hint": "Start a fire",
+                "segments": [
+                    "KIN",
+                    "DLE"
+                ]
+            },
+            {
+                "solution": "CALAMITY",
+                "hint": "Disaster, catastrophe, or misfortune",
+                "segments": [
+                    "CALA",
+                    "MITY"
+                ]
+            },
+            {
+                "solution": "VERBATIM",
+                "hint": "Word-for-word repetition",
+                "segments": [
+                    "VE",
+                    "RB",
+                    "AT",
+                    "IM"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "JINX",
+                "hint": "Bad luck charm",
+                "segments": [
+                    "JI",
+                    "NX"
+                ]
+            },
+            {
+                "solution": "DELUGE",
+                "hint": "Flood of epic proportions",
+                "segments": [
+                    "DEL",
+                    "UGE"
+                ]
+            },
+            {
+                "solution": "INCUBATE",
+                "hint": "Hatch or develop ideas or eggs",
+                "segments": [
+                    "IN",
+                    "CU",
+                    "BA",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "LEVITY",
+                "hint": "Lightness of mood",
+                "segments": [
+                    "LEV",
+                    "ITY"
+                ]
+            },
+            {
+                "solution": "CHAMELEON",
+                "hint": "Color-changing lizard or adaptable person",
+                "segments": [
+                    "CHA",
+                    "MEL",
+                    "EON"
+                ]
+            },
+            {
+                "solution": "FLIPPANT",
+                "hint": "Disrespectfully casual",
+                "segments": [
+                    "FLIP",
+                    "PA",
+                    "NT"
+                ]
+            },
+            {
+                "solution": "QUESADILLA",
+                "hint": "Cheesy tortilla",
+                "segments": [
+                    "QUES",
+                    "AD",
+                    "IL",
+                    "LA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HAMPER",
+                "hint": "Laundry's storage",
+                "segments": [
+                    "HA",
+                    "MP",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "WAIVE",
+                "hint": "Give up willingly",
+                "segments": [
+                    "WA",
+                    "IVE"
+                ]
+            },
+            {
+                "solution": "SERENE",
+                "hint": "Peaceful and calm",
+                "segments": [
+                    "SE",
+                    "RE",
+                    "NE"
+                ]
+            },
+            {
+                "solution": "MYRIAD",
+                "hint": "Innumerable abundance",
+                "segments": [
+                    "MYR",
+                    "IAD"
+                ]
+            },
+            {
+                "solution": "HUMDRUM",
+                "hint": "Monotonous routine",
+                "segments": [
+                    "HUM",
+                    "DRUM"
+                ]
+            },
+            {
+                "solution": "SHERBET",
+                "hint": "Icy treat's cousin",
+                "segments": [
+                    "SH",
+                    "ER",
+                    "BET"
+                ]
+            },
+            {
+                "solution": "CHIMERICAL",
+                "hint": "Imaginary, fanciful, or unrealistic",
+                "segments": [
+                    "CH",
+                    "IM",
+                    "ER",
+                    "IC",
+                    "AL"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "FOREBODE",
+                "hint": "Predict or warn",
+                "segments": [
+                    "FO",
+                    "RE",
+                    "BO",
+                    "DE"
+                ]
+            },
+            {
+                "solution": "JESTER",
+                "hint": "Medieval comedian",
+                "segments": [
+                    "JES",
+                    "TER"
+                ]
+            },
+            {
+                "solution": "IDIOSYNCRASY",
+                "hint": "A peculiar habit or characteristic",
+                "segments": [
+                    "IDI",
+                    "OSY",
+                    "NCR",
+                    "ASY"
+                ]
+            },
+            {
+                "solution": "NEBULOUS",
+                "hint": "Unclear or hazy",
+                "segments": [
+                    "NE",
+                    "BU",
+                    "LO",
+                    "US"
+                ]
+            },
+            {
+                "solution": "TOME",
+                "hint": "Hefty book",
+                "segments": [
+                    "TO",
+                    "ME"
+                ]
+            },
+            {
+                "solution": "IMPROV",
+                "hint": "Spontaneous performance",
+                "segments": [
+                    "IMP",
+                    "ROV"
+                ]
+            },
+            {
+                "solution": "ODYSSEY",
+                "hint": "Epic journey or long adventure",
+                "segments": [
+                    "ODY",
+                    "SSEY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "UNASSAILABLE",
+                "hint": "Unable to attack",
+                "segments": [
+                    "UNA",
+                    "SSA",
+                    "ILA",
+                    "BLE"
+                ]
+            },
+            {
+                "solution": "SAVVY",
+                "hint": "Practical knowledge",
+                "segments": [
+                    "SA",
+                    "VVY"
+                ]
+            },
+            {
+                "solution": "VAUDEVILLE",
+                "hint": "Variety show",
+                "segments": [
+                    "VA",
+                    "UD",
+                    "EV",
+                    "IL",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "URBAN",
+                "hint": "City life",
+                "segments": [
+                    "UR",
+                    "BAN"
+                ]
+            },
+            {
+                "solution": "PONDEROUS",
+                "hint": "Heavy or clumsy",
+                "segments": [
+                    "PON",
+                    "DER",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "COGENT",
+                "hint": "Convincing, persuasive argument",
+                "segments": [
+                    "COG",
+                    "ENT"
+                ]
+            },
+            {
+                "solution": "ROBUST",
+                "hint": "Strong and hearty",
+                "segments": [
+                    "ROB",
+                    "UST"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "VITRIOL",
+                "hint": "Harsh criticism",
+                "segments": [
+                    "VI",
+                    "TR",
+                    "IOL"
+                ]
+            },
+            {
+                "solution": "IMBUE",
+                "hint": "Fill with a feeling",
+                "segments": [
+                    "IMB",
+                    "UE"
+                ]
+            },
+            {
+                "solution": "TREPIDATION",
+                "hint": "Fear, apprehension",
+                "segments": [
+                    "TRE",
+                    "PID",
+                    "ATI",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "LACONIC",
+                "hint": "Using few words",
+                "segments": [
+                    "LAC",
+                    "ONIC"
+                ]
+            },
+            {
+                "solution": "INCOGNITO",
+                "hint": "Undercover and unidentified",
+                "segments": [
+                    "INC",
+                    "OGN",
+                    "ITO"
+                ]
+            },
+            {
+                "solution": "WISTFUL",
+                "hint": "Longing or yearning",
+                "segments": [
+                    "WI",
+                    "ST",
+                    "FUL"
+                ]
+            },
+            {
+                "solution": "BOMBASTIC",
+                "hint": "Pompous language",
+                "segments": [
+                    "BOM",
+                    "BAS",
+                    "TIC"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "TRELLIS",
+                "hint": "Climbing plants' support",
+                "segments": [
+                    "TRE",
+                    "LLIS"
+                ]
+            },
+            {
+                "solution": "FELICITY",
+                "hint": "Great happiness or joy",
+                "segments": [
+                    "FE",
+                    "LI",
+                    "CI",
+                    "TY"
+                ]
+            },
+            {
+                "solution": "OMINOUS",
+                "hint": "Foreboding and threatening",
+                "segments": [
+                    "OMI",
+                    "NOUS"
+                ]
+            },
+            {
+                "solution": "HARMONICA",
+                "hint": "Pocket-sized wind instrument",
+                "segments": [
+                    "HAR",
+                    "MON",
+                    "ICA"
+                ]
+            },
+            {
+                "solution": "JAUNT",
+                "hint": "Short, pleasant trip",
+                "segments": [
+                    "JAU",
+                    "NT"
+                ]
+            },
+            {
+                "solution": "HARVEST",
+                "hint": "Reap the rewards",
+                "segments": [
+                    "HAR",
+                    "VEST"
+                ]
+            },
+            {
+                "solution": "IMPECCABLE",
+                "hint": "Flawless, without faults",
+                "segments": [
+                    "IM",
+                    "PE",
+                    "CC",
+                    "AB",
+                    "LE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HALCYON",
+                "hint": "Peaceful or idyllic",
+                "segments": [
+                    "HA",
+                    "LC",
+                    "YON"
+                ]
+            },
+            {
+                "solution": "VERITABLE",
+                "hint": "Genuine or true",
+                "segments": [
+                    "VER",
+                    "ITA",
+                    "BLE"
+                ]
+            },
+            {
+                "solution": "PLUMMET",
+                "hint": "Fall rapidly",
+                "segments": [
+                    "PL",
+                    "UM",
+                    "MET"
+                ]
+            },
+            {
+                "solution": "AURORA",
+                "hint": "Celestial light show or Roman goddess",
+                "segments": [
+                    "AU",
+                    "RO",
+                    "RA"
+                ]
+            },
+            {
+                "solution": "QUAVER",
+                "hint": "Musical tremble",
+                "segments": [
+                    "QUA",
+                    "VER"
+                ]
+            },
+            {
+                "solution": "WHIMSICAL",
+                "hint": "Playfully fanciful",
+                "segments": [
+                    "WHI",
+                    "MSI",
+                    "CAL"
+                ]
+            },
+            {
+                "solution": "HIBERNATE",
+                "hint": "Sleep through winter",
+                "segments": [
+                    "HIB",
+                    "ERN",
+                    "ATE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "EPIGRAM",
+                "hint": "Witty saying",
+                "segments": [
+                    "EPIG",
+                    "RAM"
+                ]
+            },
+            {
+                "solution": "ANTEBELLUM",
+                "hint": "Before the war, often Civil",
+                "segments": [
+                    "ANTE",
+                    "BELL",
+                    "UM"
+                ]
+            },
+            {
+                "solution": "SERENDIPITY",
+                "hint": "Fortunate happenstance",
+                "segments": [
+                    "SER",
+                    "END",
+                    "IPI",
+                    "TY"
+                ]
+            },
+            {
+                "solution": "NONENTITY",
+                "hint": "Insignificant person",
+                "segments": [
+                    "NON",
+                    "ENT",
+                    "ITY"
+                ]
+            },
+            {
+                "solution": "PRODIGIOUS",
+                "hint": "Extraordinary, enormous, or impressive",
+                "segments": [
+                    "PROD",
+                    "IG",
+                    "IO",
+                    "US"
+                ]
+            },
+            {
+                "solution": "JUNCTION",
+                "hint": "Meeting point of paths",
+                "segments": [
+                    "JUNC",
+                    "TION"
+                ]
+            },
+            {
+                "solution": "GORGE",
+                "hint": "Narrow canyon",
+                "segments": [
+                    "GO",
+                    "RGE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "WHIRLIGIG",
+                "hint": "Spinning toy or merry-go-round",
+                "segments": [
+                    "WHI",
+                    "RLI",
+                    "GIG"
+                ]
+            },
+            {
+                "solution": "OASIS",
+                "hint": "Desert's water source",
+                "segments": [
+                    "OA",
+                    "SIS"
+                ]
+            },
+            {
+                "solution": "CAPRICE",
+                "hint": "Impulsive change of mind",
+                "segments": [
+                    "CAP",
+                    "RICE"
+                ]
+            },
+            {
+                "solution": "JUBILANT",
+                "hint": "Expressing great joy",
+                "segments": [
+                    "JUBI",
+                    "LA",
+                    "NT"
+                ]
+            },
+            {
+                "solution": "ALCHEMY",
+                "hint": "Ancient science or magical transformation",
+                "segments": [
+                    "ALC",
+                    "HEMY"
+                ]
+            },
+            {
+                "solution": "CATACLYSM",
+                "hint": "Disaster, catastrophe, or upheaval",
+                "segments": [
+                    "CAT",
+                    "ACL",
+                    "YSM"
+                ]
+            },
+            {
+                "solution": "FLAMBOYANT",
+                "hint": "Showy or flashy",
+                "segments": [
+                    "FL",
+                    "AM",
+                    "BO",
+                    "YA",
+                    "NT"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "DISCRETION",
+                "hint": "Judicious restraint",
+                "segments": [
+                    "DISC",
+                    "RE",
+                    "TI",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "COPIOUS",
+                "hint": "Abundant, plentiful, ample",
+                "segments": [
+                    "CO",
+                    "PI",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "UMBRAGE",
+                "hint": "Offense or annoyance",
+                "segments": [
+                    "UMBR",
+                    "AGE"
+                ]
+            },
+            {
+                "solution": "MIRTH",
+                "hint": "Jovial amusement",
+                "segments": [
+                    "MIR",
+                    "TH"
+                ]
+            },
+            {
+                "solution": "TARMAC",
+                "hint": "Plane's parking lot",
+                "segments": [
+                    "TAR",
+                    "MAC"
+                ]
+            },
+            {
+                "solution": "APOCRYPHAL",
+                "hint": "Of doubtful authenticity or false",
+                "segments": [
+                    "APOC",
+                    "RY",
+                    "PH",
+                    "AL"
+                ]
+            },
+            {
+                "solution": "OSCILLATE",
+                "hint": "Swing back and forth",
+                "segments": [
+                    "OSC",
+                    "ILL",
+                    "ATE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "FLABBERGAST",
+                "hint": "Astound or surprise greatly",
+                "segments": [
+                    "FLA",
+                    "BBE",
+                    "RGA",
+                    "ST"
+                ]
+            },
+            {
+                "solution": "FORTUITOUS",
+                "hint": "Lucky or coincidental",
+                "segments": [
+                    "FORT",
+                    "UI",
+                    "TO",
+                    "US"
+                ]
+            },
+            {
+                "solution": "MOONSHINE",
+                "hint": "Illicit hooch",
+                "segments": [
+                    "MOO",
+                    "NSH",
+                    "INE"
+                ]
+            },
+            {
+                "solution": "HYPNOSIS",
+                "hint": "Sleep-inducing suggestion",
+                "segments": [
+                    "HYPN",
+                    "OSIS"
+                ]
+            },
+            {
+                "solution": "OBFUSCATE",
+                "hint": "Confuse, make unclear",
+                "segments": [
+                    "OBF",
+                    "USC",
+                    "ATE"
+                ]
+            },
+            {
+                "solution": "EMPATHY",
+                "hint": "Understanding feelings",
+                "segments": [
+                    "EMPA",
+                    "THY"
+                ]
+            },
+            {
+                "solution": "QUIBBLE",
+                "hint": "Minor objection",
+                "segments": [
+                    "QUI",
+                    "BBLE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "PERENNIAL",
+                "hint": "Lasting many years",
+                "segments": [
+                    "PER",
+                    "ENN",
+                    "IAL"
+                ]
+            },
+            {
+                "solution": "EFFERVESCENT",
+                "hint": "Bubble or fizz",
+                "segments": [
+                    "EFF",
+                    "ERV",
+                    "ESC",
+                    "ENT"
+                ]
+            },
+            {
+                "solution": "INCESSANT",
+                "hint": "Continuous or non-stop",
+                "segments": [
+                    "INCES",
+                    "SANT"
+                ]
+            },
+            {
+                "solution": "WILES",
+                "hint": "Cunning tricks",
+                "segments": [
+                    "WIL",
+                    "ES"
+                ]
+            },
+            {
+                "solution": "GLIMPSE",
+                "hint": "Brief sighting",
+                "segments": [
+                    "GLIM",
+                    "PSE"
+                ]
+            },
+            {
+                "solution": "WHIRLWIND",
+                "hint": "Swirling, frenetic energy",
+                "segments": [
+                    "WHI",
+                    "RLW",
+                    "IND"
+                ]
+            },
+            {
+                "solution": "JURISPRUDENCE",
+                "hint": "Legal theory",
+                "segments": [
+                    "JUR",
+                    "ISP",
+                    "RUD",
+                    "ENCE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "PREVARICATE",
+                "hint": "Evade the truth",
+                "segments": [
+                    "PR",
+                    "EV",
+                    "AR",
+                    "IC",
+                    "ATE"
+                ]
+            },
+            {
+                "solution": "FATHOM",
+                "hint": "Six feet under",
+                "segments": [
+                    "FAT",
+                    "HOM"
+                ]
+            },
+            {
+                "solution": "INSIPID",
+                "hint": "Dull or uninteresting",
+                "segments": [
+                    "INSI",
+                    "PID"
+                ]
+            },
+            {
+                "solution": "PERTURB",
+                "hint": "Disturb or unsettle",
+                "segments": [
+                    "PE",
+                    "RT",
+                    "URB"
+                ]
+            },
+            {
+                "solution": "BROUHAHA",
+                "hint": "Quite the uproar, noisy confusion",
+                "segments": [
+                    "BR",
+                    "OU",
+                    "HA",
+                    "HA"
+                ]
+            },
+            {
+                "solution": "ELUSIVE",
+                "hint": "Hard to catch",
+                "segments": [
+                    "ELU",
+                    "SIVE"
+                ]
+            },
+            {
+                "solution": "NOVEL",
+                "hint": "Fresh or unread",
+                "segments": [
+                    "NOV",
+                    "EL"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "PERSEVERE",
+                "hint": "Persist despite obstacles",
+                "segments": [
+                    "PER",
+                    "SEV",
+                    "ERE"
+                ]
+            },
+            {
+                "solution": "FRINGE",
+                "hint": "Decorative edge",
+                "segments": [
+                    "FRI",
+                    "NGE"
+                ]
+            },
+            {
+                "solution": "TENACIOUS",
+                "hint": "Persistent, determined",
+                "segments": [
+                    "TEN",
+                    "ACI",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "EQUINOX",
+                "hint": "Day and night equality",
+                "segments": [
+                    "EQU",
+                    "INOX"
+                ]
+            },
+            {
+                "solution": "CONNOISSEUR",
+                "hint": "Expert judge of taste",
+                "segments": [
+                    "CON",
+                    "NOI",
+                    "SSE",
+                    "UR"
+                ]
+            },
+            {
+                "solution": "SANCTIMONIOUS",
+                "hint": "Self-righteous",
+                "segments": [
+                    "SAN",
+                    "CTI",
+                    "MON",
+                    "IOUS"
+                ]
+            },
+            {
+                "solution": "YURT",
+                "hint": "Nomadic dwelling",
+                "segments": [
+                    "YU",
+                    "RT"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "JAUNTY",
+                "hint": "Cheerful or lively",
+                "segments": [
+                    "JAU",
+                    "NTY"
+                ]
+            },
+            {
+                "solution": "CHINWAG",
+                "hint": "Informal conversation or chat",
+                "segments": [
+                    "CHI",
+                    "NWAG"
+                ]
+            },
+            {
+                "solution": "SQUIRREL",
+                "hint": "Nut hoarder",
+                "segments": [
+                    "SQUI",
+                    "RREL"
+                ]
+            },
+            {
+                "solution": "WANDERLUST",
+                "hint": "Strong urge to travel",
+                "segments": [
+                    "WA",
+                    "ND",
+                    "ER",
+                    "LU",
+                    "ST"
+                ]
+            },
+            {
+                "solution": "BELEAGUER",
+                "hint": "To besiege or surround with difficulties",
+                "segments": [
+                    "BEL",
+                    "EAG",
+                    "UER"
+                ]
+            },
+            {
+                "solution": "NOCTAMBULIST",
+                "hint": "Nighttime wanderer",
+                "segments": [
+                    "NOC",
+                    "TAM",
+                    "BUL",
+                    "IST"
+                ]
+            },
+            {
+                "solution": "HEGEMONY",
+                "hint": "Dominant, controlling influence",
+                "segments": [
+                    "HEGE",
+                    "MONY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "TWINE",
+                "hint": "String you along",
+                "segments": [
+                    "TW",
+                    "INE"
+                ]
+            },
+            {
+                "solution": "BLIGHT",
+                "hint": "Disease or damage, ruin",
+                "segments": [
+                    "BLI",
+                    "GHT"
+                ]
+            },
+            {
+                "solution": "FRIVOLOUS",
+                "hint": "Lacking seriousness",
+                "segments": [
+                    "FRI",
+                    "VOL",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "RACONTEUR",
+                "hint": "Skilled storyteller",
+                "segments": [
+                    "RAC",
+                    "ONT",
+                    "EUR"
+                ]
+            },
+            {
+                "solution": "VEXATION",
+                "hint": "Annoyance or frustration",
+                "segments": [
+                    "VE",
+                    "XA",
+                    "TI",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "AVALANCHE",
+                "hint": "Snowball effect gone extreme",
+                "segments": [
+                    "AVA",
+                    "LAN",
+                    "CHE"
+                ]
+            },
+            {
+                "solution": "INCENDIARY",
+                "hint": "Sparking fires or heated debates",
+                "segments": [
+                    "INCE",
+                    "NDIA",
+                    "RY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "MISNOMER",
+                "hint": "Incorrect name",
+                "segments": [
+                    "MI",
+                    "SN",
+                    "OM",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "EPOCH",
+                "hint": "Distinct historical period",
+                "segments": [
+                    "EPO",
+                    "CH"
+                ]
+            },
+            {
+                "solution": "LURID",
+                "hint": "Vividly shocking",
+                "segments": [
+                    "LUR",
+                    "ID"
+                ]
+            },
+            {
+                "solution": "DOODLE",
+                "hint": "Boredom's art",
+                "segments": [
+                    "DOO",
+                    "DLE"
+                ]
+            },
+            {
+                "solution": "LETHARGY",
+                "hint": "Sluggishness",
+                "segments": [
+                    "LE",
+                    "TH",
+                    "AR",
+                    "GY"
+                ]
+            },
+            {
+                "solution": "ASTUTE",
+                "hint": "Keen perception",
+                "segments": [
+                    "AS",
+                    "TU",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "WITHER",
+                "hint": "Fade away",
+                "segments": [
+                    "WI",
+                    "TH",
+                    "ER"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "EXUBERANT",
+                "hint": "Filled with energy",
+                "segments": [
+                    "EXU",
+                    "BER",
+                    "ANT"
+                ]
+            },
+            {
+                "solution": "PERAMBULATE",
+                "hint": "Stroll or saunter",
+                "segments": [
+                    "PER",
+                    "AMB",
+                    "ULA",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "HOMAGE",
+                "hint": "Respect, honor, tribute",
+                "segments": [
+                    "HOM",
+                    "AGE"
+                ]
+            },
+            {
+                "solution": "DELUSION",
+                "hint": "False belief",
+                "segments": [
+                    "DE",
+                    "LU",
+                    "SI",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "MOLDY",
+                "hint": "Past its prime",
+                "segments": [
+                    "MO",
+                    "LDY"
+                ]
+            },
+            {
+                "solution": "GREGARIOUS",
+                "hint": "Sociable, enjoying company",
+                "segments": [
+                    "GREG",
+                    "ARIO",
+                    "US"
+                ]
+            },
+            {
+                "solution": "YOLK",
+                "hint": "Egg's golden center",
+                "segments": [
+                    "YO",
+                    "LK"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SLOTH",
+                "hint": "Laziness personified",
+                "segments": [
+                    "SL",
+                    "OTH"
+                ]
+            },
+            {
+                "solution": "ADROIT",
+                "hint": "Skillful and clever",
+                "segments": [
+                    "ADR",
+                    "OIT"
+                ]
+            },
+            {
+                "solution": "FABLE",
+                "hint": "Aesop's short stories",
+                "segments": [
+                    "FA",
+                    "BLE"
+                ]
+            },
+            {
+                "solution": "HULLABALOO",
+                "hint": "Uproar or noisy excitement",
+                "segments": [
+                    "HU",
+                    "LL",
+                    "AB",
+                    "AL",
+                    "OO"
+                ]
+            },
+            {
+                "solution": "NECTAR",
+                "hint": "Ambrosia for bees",
+                "segments": [
+                    "NEC",
+                    "TAR"
+                ]
+            },
+            {
+                "solution": "INEFFABLE",
+                "hint": "Too great to be described",
+                "segments": [
+                    "INE",
+                    "FFA",
+                    "BLE"
+                ]
+            },
+            {
+                "solution": "OMNIVORE",
+                "hint": "Eats both plants and animals",
+                "segments": [
+                    "OM",
+                    "NI",
+                    "VO",
+                    "RE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "UNGAINLY",
+                "hint": "Clumsy, awkward",
+                "segments": [
+                    "UN",
+                    "GA",
+                    "IN",
+                    "LY"
+                ]
+            },
+            {
+                "solution": "DULCET",
+                "hint": "Sweet, soothing, or melodious",
+                "segments": [
+                    "DUL",
+                    "CET"
+                ]
+            },
+            {
+                "solution": "BANANAS",
+                "hint": "Crazy, insane, or tropical fruit",
+                "segments": [
+                    "BAN",
+                    "ANAS"
+                ]
+            },
+            {
+                "solution": "KINETIC",
+                "hint": "Relating to motion",
+                "segments": [
+                    "KI",
+                    "NE",
+                    "TIC"
+                ]
+            },
+            {
+                "solution": "FIREFLY",
+                "hint": "Nighttime light show",
+                "segments": [
+                    "FI",
+                    "RE",
+                    "FLY"
+                ]
+            },
+            {
+                "solution": "RECONDITE",
+                "hint": "Obscure or abstruse",
+                "segments": [
+                    "REC",
+                    "OND",
+                    "ITE"
+                ]
+            },
+            {
+                "solution": "QUAINT",
+                "hint": "Charmingly old-fashioned",
+                "segments": [
+                    "QU",
+                    "AI",
+                    "NT"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ZEITGEIST",
+                "hint": "Spirit of the times",
+                "segments": [
+                    "ZEI",
+                    "TGE",
+                    "IST"
+                ]
+            },
+            {
+                "solution": "OSMOSIS",
+                "hint": "Gradual absorption",
+                "segments": [
+                    "OS",
+                    "MO",
+                    "SIS"
+                ]
+            },
+            {
+                "solution": "COVET",
+                "hint": "Desire someone else's",
+                "segments": [
+                    "CO",
+                    "VET"
+                ]
+            },
+            {
+                "solution": "DISHEVELED",
+                "hint": "Untidy, messy, disordered",
+                "segments": [
+                    "DISH",
+                    "EV",
+                    "EL",
+                    "ED"
+                ]
+            },
+            {
+                "solution": "GADFLY",
+                "hint": "Persistent critic",
+                "segments": [
+                    "GAD",
+                    "FLY"
+                ]
+            },
+            {
+                "solution": "DRAMEDY",
+                "hint": "Tears and laughter's blend",
+                "segments": [
+                    "DRAM",
+                    "EDY"
+                ]
+            },
+            {
+                "solution": "FASTIDIOUS",
+                "hint": "Attentive to detail",
+                "segments": [
+                    "FAST",
+                    "ID",
+                    "IO",
+                    "US"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "RAGAMUFFIN",
+                "hint": "Dirty, disheveled child or person",
+                "segments": [
+                    "RAGA",
+                    "MUFF",
+                    "IN"
+                ]
+            },
+            {
+                "solution": "PLETHORA",
+                "hint": "Abundance",
+                "segments": [
+                    "PLET",
+                    "HO",
+                    "RA"
+                ]
+            },
+            {
+                "solution": "NOCTURNAL",
+                "hint": "Night owl's preference",
+                "segments": [
+                    "NOC",
+                    "TUR",
+                    "NAL"
+                ]
+            },
+            {
+                "solution": "BRINKMANSHIP",
+                "hint": "Pushing dangerous situations",
+                "segments": [
+                    "BRI",
+                    "NKM",
+                    "ANS",
+                    "HIP"
+                ]
+            },
+            {
+                "solution": "KIOSK",
+                "hint": "Tiny vendor's booth",
+                "segments": [
+                    "KIO",
+                    "SK"
+                ]
+            },
+            {
+                "solution": "EVOKE",
+                "hint": "Call forth memories",
+                "segments": [
+                    "EV",
+                    "OKE"
+                ]
+            },
+            {
+                "solution": "MALLEABLE",
+                "hint": "Easily shaped",
+                "segments": [
+                    "MAL",
+                    "LEA",
+                    "BLE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HAGGLE",
+                "hint": "Bargain persistently",
+                "segments": [
+                    "HAG",
+                    "GLE"
+                ]
+            },
+            {
+                "solution": "GLOBETROTTER",
+                "hint": "Famous exhibition team",
+                "segments": [
+                    "GLO",
+                    "BET",
+                    "ROT",
+                    "TER"
+                ]
+            },
+            {
+                "solution": "LUMINARY",
+                "hint": "Person of prominence",
+                "segments": [
+                    "LU",
+                    "MI",
+                    "NA",
+                    "RY"
+                ]
+            },
+            {
+                "solution": "INDELIBLY",
+                "hint": "Permanently marked",
+                "segments": [
+                    "IND",
+                    "ELI",
+                    "BLY"
+                ]
+            },
+            {
+                "solution": "QUOTA",
+                "hint": "Allotted share",
+                "segments": [
+                    "QU",
+                    "OTA"
+                ]
+            },
+            {
+                "solution": "ZODIAC",
+                "hint": "Celestial circle",
+                "segments": [
+                    "ZO",
+                    "DI",
+                    "AC"
+                ]
+            },
+            {
+                "solution": "REFUTE",
+                "hint": "Disprove a claim",
+                "segments": [
+                    "REF",
+                    "UTE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ERSATZ",
+                "hint": "Substitute or imitation",
+                "segments": [
+                    "ERS",
+                    "ATZ"
+                ]
+            },
+            {
+                "solution": "CACOPHONY",
+                "hint": "Discordant symphony of noise",
+                "segments": [
+                    "CAC",
+                    "OPH",
+                    "ONY"
+                ]
+            },
+            {
+                "solution": "SPLENDID",
+                "hint": "Marvelous and impressive",
+                "segments": [
+                    "SPLE",
+                    "NDID"
+                ]
+            },
+            {
+                "solution": "HOMONYM",
+                "hint": "Same but different",
+                "segments": [
+                    "HOM",
+                    "ONYM"
+                ]
+            },
+            {
+                "solution": "WRAITH",
+                "hint": "Ghostly apparition",
+                "segments": [
+                    "WRA",
+                    "ITH"
+                ]
+            },
+            {
+                "solution": "JETTISON",
+                "hint": "Throw overboard",
+                "segments": [
+                    "JE",
+                    "TT",
+                    "IS",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "MORATORIUM",
+                "hint": "Temporary halt or suspension",
+                "segments": [
+                    "MO",
+                    "RA",
+                    "TO",
+                    "RI",
+                    "UM"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "KNICKKNACK",
+                "hint": "Small, decorative trinket",
+                "segments": [
+                    "KNIC",
+                    "KKNA",
+                    "CK"
+                ]
+            },
+            {
+                "solution": "KOWTOW",
+                "hint": "Showing excessive deference",
+                "segments": [
+                    "KOW",
+                    "TOW"
+                ]
+            },
+            {
+                "solution": "CADENCE",
+                "hint": "Rhythmic flow",
+                "segments": [
+                    "CAD",
+                    "ENCE"
+                ]
+            },
+            {
+                "solution": "VERBIAGE",
+                "hint": "Wordiness or excess language",
+                "segments": [
+                    "VERB",
+                    "IA",
+                    "GE"
+                ]
+            },
+            {
+                "solution": "WHETSTONE",
+                "hint": "Sharpener for blades",
+                "segments": [
+                    "WHE",
+                    "TST",
+                    "ONE"
+                ]
+            },
+            {
+                "solution": "SANGUINE",
+                "hint": "Optimistic, cheerful",
+                "segments": [
+                    "SA",
+                    "NG",
+                    "UI",
+                    "NE"
+                ]
+            },
+            {
+                "solution": "FORBEARANCE",
+                "hint": "Patient self-control",
+                "segments": [
+                    "FORB",
+                    "EARA",
+                    "NCE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SALUBRIOUS",
+                "hint": "Health-promoting conditions",
+                "segments": [
+                    "SA",
+                    "LU",
+                    "BR",
+                    "IO",
+                    "US"
+                ]
+            },
+            {
+                "solution": "OVERSEE",
+                "hint": "Supervise and manage",
+                "segments": [
+                    "OVE",
+                    "RSEE"
+                ]
+            },
+            {
+                "solution": "EMBELLISH",
+                "hint": "Add decorative details",
+                "segments": [
+                    "EMB",
+                    "ELL",
+                    "ISH"
+                ]
+            },
+            {
+                "solution": "SIEGE",
+                "hint": "Long-lasting attack",
+                "segments": [
+                    "SI",
+                    "EGE"
+                ]
+            },
+            {
+                "solution": "FLOTILLA",
+                "hint": "Small fleet",
+                "segments": [
+                    "FLOT",
+                    "IL",
+                    "LA"
+                ]
+            },
+            {
+                "solution": "LAGOON",
+                "hint": "Shallow coastal pool",
+                "segments": [
+                    "LAG",
+                    "OON"
+                ]
+            },
+            {
+                "solution": "UNICYCLE",
+                "hint": "One-wheeled balancing act",
+                "segments": [
+                    "UNIC",
+                    "YC",
+                    "LE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "PHILANTHROPY",
+                "hint": "Charitable giving or benevolence",
+                "segments": [
+                    "PHI",
+                    "LAN",
+                    "THR",
+                    "OPY"
+                ]
+            },
+            {
+                "solution": "TEPID",
+                "hint": "Neither hot nor cold",
+                "segments": [
+                    "TEP",
+                    "ID"
+                ]
+            },
+            {
+                "solution": "DAWDLE",
+                "hint": "Waste time or loiter",
+                "segments": [
+                    "DAW",
+                    "DLE"
+                ]
+            },
+            {
+                "solution": "HAPHAZARD",
+                "hint": "Random or disorganized",
+                "segments": [
+                    "HAP",
+                    "HAZ",
+                    "ARD"
+                ]
+            },
+            {
+                "solution": "SCINTILLA",
+                "hint": "A tiny spark or trace",
+                "segments": [
+                    "SCI",
+                    "NTI",
+                    "LLA"
+                ]
+            },
+            {
+                "solution": "MUNIFICENT",
+                "hint": "Generous, liberal, or bountiful",
+                "segments": [
+                    "MUNI",
+                    "FI",
+                    "CE",
+                    "NT"
+                ]
+            },
+            {
+                "solution": "BARREN",
+                "hint": "Lacking vegetation",
+                "segments": [
+                    "BAR",
+                    "REN"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "UNTOWARD",
+                "hint": "Improper or unseemly",
+                "segments": [
+                    "UNTO",
+                    "WARD"
+                ]
+            },
+            {
+                "solution": "MINARET",
+                "hint": "Tower on a mosque",
+                "segments": [
+                    "MI",
+                    "NA",
+                    "RET"
+                ]
+            },
+            {
+                "solution": "JUXTAPOSITION",
+                "hint": "Side by side comparison",
+                "segments": [
+                    "JUX",
+                    "TAP",
+                    "OSI",
+                    "TION"
+                ]
+            },
+            {
+                "solution": "SPLICE",
+                "hint": "Joining two ropes",
+                "segments": [
+                    "SPL",
+                    "ICE"
+                ]
+            },
+            {
+                "solution": "YAWNING",
+                "hint": "Sleepy mouth opening",
+                "segments": [
+                    "YAW",
+                    "NING"
+                ]
+            },
+            {
+                "solution": "CONTRETEMPS",
+                "hint": "Unexpected, awkward incident",
+                "segments": [
+                    "CO",
+                    "NT",
+                    "RE",
+                    "TE",
+                    "MPS"
+                ]
+            },
+            {
+                "solution": "QUENCH",
+                "hint": "Satisfy your thirst",
+                "segments": [
+                    "QUE",
+                    "NCH"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "NUDGE",
+                "hint": "Subtle push",
+                "segments": [
+                    "NU",
+                    "DGE"
+                ]
+            },
+            {
+                "solution": "SHAMBLE",
+                "hint": "Walk with a shuffle",
+                "segments": [
+                    "SHA",
+                    "MBLE"
+                ]
+            },
+            {
+                "solution": "OPULENT",
+                "hint": "Lavish and luxurious",
+                "segments": [
+                    "OPU",
+                    "LENT"
+                ]
+            },
+            {
+                "solution": "REMINISCE",
+                "hint": "Recall the past",
+                "segments": [
+                    "REM",
+                    "INI",
+                    "SCE"
+                ]
+            },
+            {
+                "solution": "SAGACITY",
+                "hint": "Keen intelligence",
+                "segments": [
+                    "SA",
+                    "GA",
+                    "CI",
+                    "TY"
+                ]
+            },
+            {
+                "solution": "NUGGET",
+                "hint": "Small gold lump",
+                "segments": [
+                    "NU",
+                    "GG",
+                    "ET"
+                ]
+            },
+            {
+                "solution": "ACROSTIC",
+                "hint": "Poetic puzzle pieces",
+                "segments": [
+                    "AC",
+                    "RO",
+                    "ST",
+                    "IC"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "FOSSIL",
+                "hint": "Ancient evidence",
+                "segments": [
+                    "FOS",
+                    "SIL"
+                ]
+            },
+            {
+                "solution": "ENTHRALL",
+                "hint": "Captivate and mesmerize",
+                "segments": [
+                    "ENTH",
+                    "RA",
+                    "LL"
+                ]
+            },
+            {
+                "solution": "FENESTRATION",
+                "hint": "Arrangement of windows",
+                "segments": [
+                    "FEN",
+                    "EST",
+                    "RAT",
+                    "ION"
+                ]
+            },
+            {
+                "solution": "PANEGYRIC",
+                "hint": "Formal expression of praise",
+                "segments": [
+                    "PAN",
+                    "EGY",
+                    "RIC"
+                ]
+            },
+            {
+                "solution": "AERIALIST",
+                "hint": "Acrobat in the air",
+                "segments": [
+                    "AER",
+                    "IAL",
+                    "IST"
+                ]
+            },
+            {
+                "solution": "ECLIPSE",
+                "hint": "Sun and moon's celestial dance",
+                "segments": [
+                    "EC",
+                    "LI",
+                    "PSE"
+                ]
+            },
+            {
+                "solution": "KEEN",
+                "hint": "Sharp or perceptive",
+                "segments": [
+                    "KE",
+                    "EN"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "UMBRAL",
+                "hint": "Shadowy and dark",
+                "segments": [
+                    "UMB",
+                    "RAL"
+                ]
+            },
+            {
+                "solution": "MEGALITH",
+                "hint": "Massive stone monument",
+                "segments": [
+                    "MEGA",
+                    "LI",
+                    "TH"
+                ]
+            },
+            {
+                "solution": "UNPRECEDENTED",
+                "hint": "Never happened before",
+                "segments": [
+                    "UNP",
+                    "REC",
+                    "EDE",
+                    "NTED"
+                ]
+            },
+            {
+                "solution": "UNCTUOUS",
+                "hint": "Oily or insincere",
+                "segments": [
+                    "UNCT",
+                    "UOUS"
+                ]
+            },
+            {
+                "solution": "PENCHANT",
+                "hint": "Strong liking",
+                "segments": [
+                    "PENC",
+                    "HA",
+                    "NT"
+                ]
+            },
+            {
+                "solution": "IDYLLIC",
+                "hint": "Perfectly peaceful",
+                "segments": [
+                    "IDY",
+                    "LLIC"
+                ]
+            },
+            {
+                "solution": "LUMINESCENCE",
+                "hint": "Glow or emitting of light",
+                "segments": [
+                    "LUM",
+                    "INE",
+                    "SCE",
+                    "NCE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "TREBUCHET",
+                "hint": "Siege weapon",
+                "segments": [
+                    "TRE",
+                    "BUC",
+                    "HET"
+                ]
+            },
+            {
+                "solution": "NOVICE",
+                "hint": "Newcomer in the game",
+                "segments": [
+                    "NO",
+                    "VI",
+                    "CE"
+                ]
+            },
+            {
+                "solution": "GARNISH",
+                "hint": "Decorative food touch",
+                "segments": [
+                    "GAR",
+                    "NISH"
+                ]
+            },
+            {
+                "solution": "AMBUSH",
+                "hint": "Surprise attack",
+                "segments": [
+                    "AM",
+                    "BU",
+                    "SH"
+                ]
+            },
+            {
+                "solution": "VANISH",
+                "hint": "Disappearing magic act",
+                "segments": [
+                    "VAN",
+                    "ISH"
+                ]
+            },
+            {
+                "solution": "ANTHOLOGY",
+                "hint": "Collection of works",
+                "segments": [
+                    "ANT",
+                    "HOL",
+                    "OGY"
+                ]
+            },
+            {
+                "solution": "MAVERICK",
+                "hint": "Independent-minded person",
+                "segments": [
+                    "MA",
+                    "VE",
+                    "RI",
+                    "CK"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HYSTERIA",
+                "hint": "Uncontrollable emotion",
+                "segments": [
+                    "HY",
+                    "ST",
+                    "ER",
+                    "IA"
+                ]
+            },
+            {
+                "solution": "GROTESQUE",
+                "hint": "Distorted and bizarre",
+                "segments": [
+                    "GRO",
+                    "TES",
+                    "QUE"
+                ]
+            },
+            {
+                "solution": "BONANZA",
+                "hint": "Unexpected wealth or good fortune",
+                "segments": [
+                    "BON",
+                    "ANZA"
+                ]
+            },
+            {
+                "solution": "PYROMANIA",
+                "hint": "Impulse to start fires",
+                "segments": [
+                    "PYR",
+                    "OMA",
+                    "NIA"
+                ]
+            },
+            {
+                "solution": "SATIATE",
+                "hint": "Satisfy fully or to excess",
+                "segments": [
+                    "SA",
+                    "TI",
+                    "ATE"
+                ]
+            },
+            {
+                "solution": "OSCULATE",
+                "hint": "To kiss or touch with the lips",
+                "segments": [
+                    "OSCU",
+                    "LATE"
+                ]
+            },
+            {
+                "solution": "INDUBITABLE",
+                "hint": "Undeniable, certain",
+                "segments": [
+                    "INDU",
+                    "BITA",
+                    "BLE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HYPERBOLE",
+                "hint": "Exaggeration for effect",
+                "segments": [
+                    "HYP",
+                    "ERB",
+                    "OLE"
+                ]
+            },
+            {
+                "solution": "GROVE",
+                "hint": "Small group of trees",
+                "segments": [
+                    "GRO",
+                    "VE"
+                ]
+            },
+            {
+                "solution": "REPLETE",
+                "hint": "Filled, well-supplied",
+                "segments": [
+                    "RE",
+                    "PL",
+                    "ETE"
+                ]
+            },
+            {
+                "solution": "CORNUCOPIA",
+                "hint": "Abundance or plenty",
+                "segments": [
+                    "CORN",
+                    "UC",
+                    "OP",
+                    "IA"
+                ]
+            },
+            {
+                "solution": "QUERULOUS",
+                "hint": "Complaining or fretful",
+                "segments": [
+                    "QUE",
+                    "RUL",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "GARGOYLE",
+                "hint": "Stone guardian",
+                "segments": [
+                    "GARG",
+                    "OY",
+                    "LE"
+                ]
+            },
+            {
+                "solution": "ABYSMAL",
+                "hint": "Awful to the depths",
+                "segments": [
+                    "ABY",
+                    "SMAL"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "SOMNAMBULIST",
+                "hint": "Sleepwalker or dream wanderer",
+                "segments": [
+                    "SOM",
+                    "NAM",
+                    "BUL",
+                    "IST"
+                ]
+            },
+            {
+                "solution": "OBTUSE",
+                "hint": "Slow to understand",
+                "segments": [
+                    "OBT",
+                    "USE"
+                ]
+            },
+            {
+                "solution": "CATHARSIS",
+                "hint": "Emotional release or purification",
+                "segments": [
+                    "CAT",
+                    "HAR",
+                    "SIS"
+                ]
+            },
+            {
+                "solution": "PARADIGM",
+                "hint": "Model or example, a standard",
+                "segments": [
+                    "PA",
+                    "RA",
+                    "DI",
+                    "GM"
+                ]
+            },
+            {
+                "solution": "XENON",
+                "hint": "Noble, yet gaseous",
+                "segments": [
+                    "XEN",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "CHARISMA",
+                "hint": "Magnetic personality trait",
+                "segments": [
+                    "CHAR",
+                    "IS",
+                    "MA"
+                ]
+            },
+            {
+                "solution": "ABRASIVE",
+                "hint": "Rough, harsh, or grating",
+                "segments": [
+                    "ABRA",
+                    "SIVE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "LINGO",
+                "hint": "Specialized language",
+                "segments": [
+                    "LI",
+                    "NGO"
+                ]
+            },
+            {
+                "solution": "BONHOMIE",
+                "hint": "Cheerful, friendly manner",
+                "segments": [
+                    "BO",
+                    "NH",
+                    "OM",
+                    "IE"
+                ]
+            },
+            {
+                "solution": "XENOPHILE",
+                "hint": "Foreign culture lover",
+                "segments": [
+                    "XE",
+                    "NO",
+                    "PH",
+                    "ILE"
+                ]
+            },
+            {
+                "solution": "VENDETTA",
+                "hint": "Blood feud",
+                "segments": [
+                    "VE",
+                    "ND",
+                    "ET",
+                    "TA"
+                ]
+            },
+            {
+                "solution": "ANGST",
+                "hint": "Existential dread",
+                "segments": [
+                    "AN",
+                    "GST"
+                ]
+            },
+            {
+                "solution": "SLALOM",
+                "hint": "Zigzag skiing or waterskiing race",
+                "segments": [
+                    "SLA",
+                    "LOM"
+                ]
+            },
+            {
+                "solution": "ELIXIR",
+                "hint": "Magical cure-all",
+                "segments": [
+                    "ELI",
+                    "XIR"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "GIZMO",
+                "hint": "Ingenious gadget's nickname",
+                "segments": [
+                    "GI",
+                    "ZMO"
+                ]
+            },
+            {
+                "solution": "EPIPHANY",
+                "hint": "Sudden moment of revelation",
+                "segments": [
+                    "EPIP",
+                    "HANY"
+                ]
+            },
+            {
+                "solution": "SURREPTITIOUS",
+                "hint": "Secretive, sneaky actions",
+                "segments": [
+                    "SUR",
+                    "REP",
+                    "TIT",
+                    "IOUS"
+                ]
+            },
+            {
+                "solution": "CHIVALRY",
+                "hint": "Knightly conduct",
+                "segments": [
+                    "CHIV",
+                    "AL",
+                    "RY"
+                ]
+            },
+            {
+                "solution": "GYROSCOPE",
+                "hint": "Spinning stabilizer or toy",
+                "segments": [
+                    "GYR",
+                    "OSC",
+                    "OPE"
+                ]
+            },
+            {
+                "solution": "CONCILIATORY",
+                "hint": "Peacemaking or appeasing",
+                "segments": [
+                    "CON",
+                    "CIL",
+                    "IAT",
+                    "ORY"
+                ]
+            },
+            {
+                "solution": "BARD",
+                "hint": "Poetic title",
+                "segments": [
+                    "BA",
+                    "RD"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CACHINNATION",
+                "hint": "Loud or uncontrollable laughter",
+                "segments": [
+                    "CAC",
+                    "HIN",
+                    "NAT",
+                    "ION"
+                ]
+            },
+            {
+                "solution": "EXULT",
+                "hint": "Rejoice in victory",
+                "segments": [
+                    "EXU",
+                    "LT"
+                ]
+            },
+            {
+                "solution": "RECALCITRANT",
+                "hint": "Stubbornly defiant",
+                "segments": [
+                    "REC",
+                    "ALC",
+                    "ITR",
+                    "ANT"
+                ]
+            },
+            {
+                "solution": "JOSTLE",
+                "hint": "Bump or elbow",
+                "segments": [
+                    "JOS",
+                    "TLE"
+                ]
+            },
+            {
+                "solution": "WINSOME",
+                "hint": "Charming demeanor",
+                "segments": [
+                    "WI",
+                    "NS",
+                    "OME"
+                ]
+            },
+            {
+                "solution": "GIMMICK",
+                "hint": "Attention grabber",
+                "segments": [
+                    "GIMM",
+                    "ICK"
+                ]
+            },
+            {
+                "solution": "TRANSIENT",
+                "hint": "Short-lived",
+                "segments": [
+                    "TRA",
+                    "NSI",
+                    "ENT"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "COLOSSAL",
+                "hint": "Huge or gigantic",
+                "segments": [
+                    "COLO",
+                    "SSAL"
+                ]
+            },
+            {
+                "solution": "RENEGADE",
+                "hint": "Rebellious outlaw",
+                "segments": [
+                    "RE",
+                    "NE",
+                    "GA",
+                    "DE"
+                ]
+            },
+            {
+                "solution": "INGENUOUS",
+                "hint": "Innocent or naive",
+                "segments": [
+                    "ING",
+                    "ENU",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "FRICTION",
+                "hint": "Rubbing resistance",
+                "segments": [
+                    "FR",
+                    "IC",
+                    "TI",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "GRIEVOUS",
+                "hint": "Causing great sorrow",
+                "segments": [
+                    "GRIE",
+                    "VOUS"
+                ]
+            },
+            {
+                "solution": "SUBLIME",
+                "hint": "Inspiring awe",
+                "segments": [
+                    "SU",
+                    "BL",
+                    "IME"
+                ]
+            },
+            {
+                "solution": "POLKA",
+                "hint": "Bouncy dance",
+                "segments": [
+                    "PO",
+                    "LKA"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "DRACONIAN",
+                "hint": "Harsh or severe laws",
+                "segments": [
+                    "DRA",
+                    "CON",
+                    "IAN"
+                ]
+            },
+            {
+                "solution": "INTEGRITY",
+                "hint": "Moral uprightness",
+                "segments": [
+                    "INT",
+                    "EGR",
+                    "ITY"
+                ]
+            },
+            {
+                "solution": "VORACIOUS",
+                "hint": "Ravenously hungry",
+                "segments": [
+                    "VOR",
+                    "ACI",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "SMIDGEN",
+                "hint": "Tiny bit, just a pinch",
+                "segments": [
+                    "SMID",
+                    "GEN"
+                ]
+            },
+            {
+                "solution": "BELLICOSE",
+                "hint": "Warlike or aggressive",
+                "segments": [
+                    "BEL",
+                    "LIC",
+                    "OSE"
+                ]
+            },
+            {
+                "solution": "IMPISH",
+                "hint": "Playfully mischievous",
+                "segments": [
+                    "IMP",
+                    "ISH"
+                ]
+            },
+            {
+                "solution": "RECIPROCATE",
+                "hint": "Give back in return",
+                "segments": [
+                    "RECI",
+                    "PR",
+                    "OC",
+                    "ATE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "TAUT",
+                "hint": "Tightly drawn, tense",
+                "segments": [
+                    "TA",
+                    "UT"
+                ]
+            },
+            {
+                "solution": "REPUDIATE",
+                "hint": "Reject, disown, deny",
+                "segments": [
+                    "REP",
+                    "UDI",
+                    "ATE"
+                ]
+            },
+            {
+                "solution": "JUGGERNAUT",
+                "hint": "Powerful, unstoppable force",
+                "segments": [
+                    "JU",
+                    "GG",
+                    "ER",
+                    "NA",
+                    "UT"
+                ]
+            },
+            {
+                "solution": "MUTED",
+                "hint": "Volume turned down",
+                "segments": [
+                    "MUT",
+                    "ED"
+                ]
+            },
+            {
+                "solution": "INVOKE",
+                "hint": "Call upon a spirit",
+                "segments": [
+                    "INV",
+                    "OKE"
+                ]
+            },
+            {
+                "solution": "LUMBER",
+                "hint": "Clumsy movement",
+                "segments": [
+                    "LUM",
+                    "BER"
+                ]
+            },
+            {
+                "solution": "FANDANGO",
+                "hint": "Flamenco's lively cousin",
+                "segments": [
+                    "FA",
+                    "ND",
+                    "AN",
+                    "GO"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "DIORAMA",
+                "hint": "Miniature scene",
+                "segments": [
+                    "DIO",
+                    "RAMA"
+                ]
+            },
+            {
+                "solution": "DECAY",
+                "hint": "Dental enemy",
+                "segments": [
+                    "DE",
+                    "CAY"
+                ]
+            },
+            {
+                "solution": "BANQUET",
+                "hint": "Lavish meal",
+                "segments": [
+                    "BANQ",
+                    "UET"
+                ]
+            },
+            {
+                "solution": "NOSTALGIA",
+                "hint": "Fond remembrance",
+                "segments": [
+                    "NOS",
+                    "TAL",
+                    "GIA"
+                ]
+            },
+            {
+                "solution": "KLEPTOMANIA",
+                "hint": "Compulsively light fingered",
+                "segments": [
+                    "KLEP",
+                    "TOMA",
+                    "NIA"
+                ]
+            },
+            {
+                "solution": "PLATYPUS",
+                "hint": "Mammal, bird, or reptile? All three?",
+                "segments": [
+                    "PL",
+                    "AT",
+                    "YP",
+                    "US"
+                ]
+            },
+            {
+                "solution": "STALLION",
+                "hint": "Spirited male horse",
+                "segments": [
+                    "ST",
+                    "AL",
+                    "LI",
+                    "ON"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HABERDASHERY",
+                "hint": "One-stop accessory shop",
+                "segments": [
+                    "HAB",
+                    "ERD",
+                    "ASH",
+                    "ERY"
+                ]
+            },
+            {
+                "solution": "PRELUDE",
+                "hint": "Musical introduction",
+                "segments": [
+                    "PR",
+                    "EL",
+                    "UDE"
+                ]
+            },
+            {
+                "solution": "ULULATION",
+                "hint": "High-pitched, mournful wail",
+                "segments": [
+                    "ULU",
+                    "LAT",
+                    "ION"
+                ]
+            },
+            {
+                "solution": "JARGON",
+                "hint": "Specialized language",
+                "segments": [
+                    "JAR",
+                    "GON"
+                ]
+            },
+            {
+                "solution": "VELOCITY",
+                "hint": "Speed demon's attribute",
+                "segments": [
+                    "VE",
+                    "LO",
+                    "CI",
+                    "TY"
+                ]
+            },
+            {
+                "solution": "WHARF",
+                "hint": "Dock for ships",
+                "segments": [
+                    "WHA",
+                    "RF"
+                ]
+            },
+            {
+                "solution": "ZEST",
+                "hint": "Enthusiasm, energy",
+                "segments": [
+                    "ZE",
+                    "ST"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CHIME",
+                "hint": "Doorbell's music",
+                "segments": [
+                    "CHI",
+                    "ME"
+                ]
+            },
+            {
+                "solution": "QUIXOTIC",
+                "hint": "Impractical idealism",
+                "segments": [
+                    "QU",
+                    "IX",
+                    "OT",
+                    "IC"
+                ]
+            },
+            {
+                "solution": "XYLOPHONIST",
+                "hint": "Wood-keyed musician",
+                "segments": [
+                    "XYLO",
+                    "PH",
+                    "ON",
+                    "IST"
+                ]
+            },
+            {
+                "solution": "WHEEDLE",
+                "hint": "Persuade with flattery",
+                "segments": [
+                    "WHE",
+                    "EDLE"
+                ]
+            },
+            {
+                "solution": "MOCKERY",
+                "hint": "Ridicule or tease",
+                "segments": [
+                    "MOC",
+                    "KERY"
+                ]
+            },
+            {
+                "solution": "OBSTREPEROUS",
+                "hint": "Noisy, difficult to control",
+                "segments": [
+                    "OBS",
+                    "TRE",
+                    "PER",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "BINGE",
+                "hint": "Netflix's weekend plan",
+                "segments": [
+                    "BIN",
+                    "GE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CIPHER",
+                "hint": "Decoding secret messages",
+                "segments": [
+                    "CIP",
+                    "HER"
+                ]
+            },
+            {
+                "solution": "METAMORPHOSIS",
+                "hint": "Dramatic change",
+                "segments": [
+                    "ME",
+                    "TA",
+                    "MO",
+                    "RP",
+                    "HO",
+                    "SIS"
+                ]
+            },
+            {
+                "solution": "PLIABLE",
+                "hint": "Flexible and bendable",
+                "segments": [
+                    "PLIA",
+                    "BLE"
+                ]
+            },
+            {
+                "solution": "GRANDILOQUENT",
+                "hint": "Lofty style",
+                "segments": [
+                    "GRAN",
+                    "DILO",
+                    "QU",
+                    "ENT"
+                ]
+            },
+            {
+                "solution": "GLACIER",
+                "hint": "Slow-moving ice",
+                "segments": [
+                    "GLAC",
+                    "IER"
+                ]
+            },
+            {
+                "solution": "FROSTY",
+                "hint": "Jack's winter artwork",
+                "segments": [
+                    "FRO",
+                    "STY"
+                ]
+            },
+            {
+                "solution": "JITTERY",
+                "hint": "Nervous or on edge",
+                "segments": [
+                    "JIT",
+                    "TERY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HEMLOCK",
+                "hint": "Poisonous plant",
+                "segments": [
+                    "HEM",
+                    "LOCK"
+                ]
+            },
+            {
+                "solution": "SUPERFLUOUS",
+                "hint": "Unnecessary, excessive, or surplus",
+                "segments": [
+                    "SUP",
+                    "ERF",
+                    "LUO",
+                    "US"
+                ]
+            },
+            {
+                "solution": "QUAFF",
+                "hint": "Drink heartily",
+                "segments": [
+                    "QUA",
+                    "FF"
+                ]
+            },
+            {
+                "solution": "MELLIFLUOUS",
+                "hint": "Sweetly flowing",
+                "segments": [
+                    "MELL",
+                    "IFLU",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "RESOLUTE",
+                "hint": "Firmly determined",
+                "segments": [
+                    "RESO",
+                    "LUTE"
+                ]
+            },
+            {
+                "solution": "GAINSAY",
+                "hint": "Contradict, deny, or dispute",
+                "segments": [
+                    "GA",
+                    "IN",
+                    "SAY"
+                ]
+            },
+            {
+                "solution": "QUAGMIRE",
+                "hint": "Sticky, boggy ground",
+                "segments": [
+                    "QU",
+                    "AG",
+                    "MI",
+                    "RE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "ACUMEN",
+                "hint": "Keen insight or intelligence",
+                "segments": [
+                    "AC",
+                    "UM",
+                    "EN"
+                ]
+            },
+            {
+                "solution": "ERRANT",
+                "hint": "Straying from the path",
+                "segments": [
+                    "ER",
+                    "RA",
+                    "NT"
+                ]
+            },
+            {
+                "solution": "HOARD",
+                "hint": "Smaug's prized stash",
+                "segments": [
+                    "HOA",
+                    "RD"
+                ]
+            },
+            {
+                "solution": "TRYST",
+                "hint": "Secret romantic meeting",
+                "segments": [
+                    "TR",
+                    "YST"
+                ]
+            },
+            {
+                "solution": "VISAGE",
+                "hint": "Facial expression",
+                "segments": [
+                    "VIS",
+                    "AGE"
+                ]
+            },
+            {
+                "solution": "NONCHALANT",
+                "hint": "Casually unconcerned",
+                "segments": [
+                    "NO",
+                    "NC",
+                    "HA",
+                    "LA",
+                    "NT"
+                ]
+            },
+            {
+                "solution": "OBSTINATE",
+                "hint": "Stubborn or unyielding",
+                "segments": [
+                    "OBS",
+                    "TIN",
+                    "ATE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CANTANKEROUS",
+                "hint": "Grumpy or argumentative",
+                "segments": [
+                    "CAN",
+                    "TAN",
+                    "KER",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "TURBULENCE",
+                "hint": "A bumpy airplane ride",
+                "segments": [
+                    "TURB",
+                    "ULEN",
+                    "CE"
+                ]
+            },
+            {
+                "solution": "HODGEPODGE",
+                "hint": "Jumbled mixture",
+                "segments": [
+                    "HODG",
+                    "EPOD",
+                    "GE"
+                ]
+            },
+            {
+                "solution": "VENTRILOQUIST",
+                "hint": "Speaking without speaking",
+                "segments": [
+                    "VEN",
+                    "TRI",
+                    "LOQ",
+                    "UIST"
+                ]
+            },
+            {
+                "solution": "RESIN",
+                "hint": "Sticky tree secretion",
+                "segments": [
+                    "RE",
+                    "SIN"
+                ]
+            },
+            {
+                "solution": "DISPARATE",
+                "hint": "Different, distinct, diverse",
+                "segments": [
+                    "DISPA",
+                    "RATE"
+                ]
+            },
+            {
+                "solution": "LINGER",
+                "hint": "To dawdle or delay",
+                "segments": [
+                    "LIN",
+                    "GER"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "FLAUNT",
+                "hint": "Show off your assets",
+                "segments": [
+                    "FLA",
+                    "UNT"
+                ]
+            },
+            {
+                "solution": "NONPLUSSED",
+                "hint": "Unsure how to react",
+                "segments": [
+                    "NONP",
+                    "LUSS",
+                    "ED"
+                ]
+            },
+            {
+                "solution": "OPTIMIST",
+                "hint": "Sees the glass half-full",
+                "segments": [
+                    "OPTI",
+                    "MI",
+                    "ST"
+                ]
+            },
+            {
+                "solution": "RICOCHET",
+                "hint": "Bouncing bullet or rebound",
+                "segments": [
+                    "RI",
+                    "CO",
+                    "CH",
+                    "ET"
+                ]
+            },
+            {
+                "solution": "MAELSTROM",
+                "hint": "Powerful whirlpool",
+                "segments": [
+                    "MAE",
+                    "LST",
+                    "ROM"
+                ]
+            },
+            {
+                "solution": "STRUT",
+                "hint": "Confident walk",
+                "segments": [
+                    "STR",
+                    "UT"
+                ]
+            },
+            {
+                "solution": "JUBILEE",
+                "hint": "Celebration of joy",
+                "segments": [
+                    "JU",
+                    "BI",
+                    "LEE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CAROUSEL",
+                "hint": "Merry-go-round, horses and all",
+                "segments": [
+                    "CA",
+                    "RO",
+                    "US",
+                    "EL"
+                ]
+            },
+            {
+                "solution": "SPINDLY",
+                "hint": "Thin and weak",
+                "segments": [
+                    "SP",
+                    "IN",
+                    "DLY"
+                ]
+            },
+            {
+                "solution": "SARTORIAL",
+                "hint": "Style-savvy",
+                "segments": [
+                    "SA",
+                    "RT",
+                    "OR",
+                    "IAL"
+                ]
+            },
+            {
+                "solution": "BROMIDE",
+                "hint": "Dull, clich\u00e9d remark",
+                "segments": [
+                    "BRO",
+                    "MIDE"
+                ]
+            },
+            {
+                "solution": "GAMBOL",
+                "hint": "Playful frolicking",
+                "segments": [
+                    "GAM",
+                    "BOL"
+                ]
+            },
+            {
+                "solution": "CONCOCT",
+                "hint": "Whip up a mixture",
+                "segments": [
+                    "CO",
+                    "NC",
+                    "OCT"
+                ]
+            },
+            {
+                "solution": "ZEPHYR",
+                "hint": "Gentle breeze",
+                "segments": [
+                    "ZEP",
+                    "HYR"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "FRAUD",
+                "hint": "Deceptive trickery",
+                "segments": [
+                    "FR",
+                    "AUD"
+                ]
+            },
+            {
+                "solution": "NOXIOUS",
+                "hint": "Harmful or poisonous",
+                "segments": [
+                    "NO",
+                    "XI",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "YEARNING",
+                "hint": "Deep longing or desire",
+                "segments": [
+                    "YEAR",
+                    "NING"
+                ]
+            },
+            {
+                "solution": "VIVACITY",
+                "hint": "Full of life and energy",
+                "segments": [
+                    "VI",
+                    "VA",
+                    "CI",
+                    "TY"
+                ]
+            },
+            {
+                "solution": "DETONATE",
+                "hint": "Set off explosives",
+                "segments": [
+                    "DE",
+                    "TO",
+                    "NA",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "LIMINAL",
+                "hint": "Transitional stage",
+                "segments": [
+                    "LI",
+                    "MI",
+                    "NAL"
+                ]
+            },
+            {
+                "solution": "WADDLE",
+                "hint": "Duck-like walk",
+                "segments": [
+                    "WAD",
+                    "DLE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "WITTICISM",
+                "hint": "Clever remark",
+                "segments": [
+                    "WIT",
+                    "TIC",
+                    "ISM"
+                ]
+            },
+            {
+                "solution": "MOLLIFY",
+                "hint": "To calm, soothe, or appease",
+                "segments": [
+                    "MOL",
+                    "LIFY"
+                ]
+            },
+            {
+                "solution": "ANTIDOTE",
+                "hint": "Poison's remedy",
+                "segments": [
+                    "ANTI",
+                    "DOTE"
+                ]
+            },
+            {
+                "solution": "CATASTROPHE",
+                "hint": "Disaster",
+                "segments": [
+                    "CAT",
+                    "AST",
+                    "ROP",
+                    "HE"
+                ]
+            },
+            {
+                "solution": "FRACTIOUS",
+                "hint": "Unruly or irritable",
+                "segments": [
+                    "FRA",
+                    "CTI",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "JINGOISTIC",
+                "hint": "Excessively patriotic",
+                "segments": [
+                    "JING",
+                    "OI",
+                    "ST",
+                    "IC"
+                ]
+            },
+            {
+                "solution": "RUMINATE",
+                "hint": "Chewing on thoughts",
+                "segments": [
+                    "RUMI",
+                    "NATE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "JINGLE",
+                "hint": "Catchy commercial tune",
+                "segments": [
+                    "JIN",
+                    "GLE"
+                ]
+            },
+            {
+                "solution": "IMBROGLIO",
+                "hint": "Complicated, confusing situation",
+                "segments": [
+                    "IM",
+                    "BR",
+                    "OG",
+                    "LIO"
+                ]
+            },
+            {
+                "solution": "UNFATHOMABLE",
+                "hint": "Incomprehensible",
+                "segments": [
+                    "UNF",
+                    "ATH",
+                    "OMA",
+                    "BLE"
+                ]
+            },
+            {
+                "solution": "SYMPHONY",
+                "hint": "Musical masterpiece",
+                "segments": [
+                    "SY",
+                    "MP",
+                    "HO",
+                    "NY"
+                ]
+            },
+            {
+                "solution": "CHALET",
+                "hint": "Ski trip dwelling",
+                "segments": [
+                    "CHA",
+                    "LET"
+                ]
+            },
+            {
+                "solution": "FIASCO",
+                "hint": "Complete disaster",
+                "segments": [
+                    "FIA",
+                    "SCO"
+                ]
+            },
+            {
+                "solution": "ELAPSE",
+                "hint": "Time slipping by",
+                "segments": [
+                    "ELA",
+                    "PSE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "YODEL",
+                "hint": "Alpine vocalization",
+                "segments": [
+                    "YO",
+                    "DEL"
+                ]
+            },
+            {
+                "solution": "QUINTESSENCE",
+                "hint": "Purest embodiment",
+                "segments": [
+                    "QUI",
+                    "NTE",
+                    "SSE",
+                    "NCE"
+                ]
+            },
+            {
+                "solution": "EFFICACY",
+                "hint": "Effectiveness or potency",
+                "segments": [
+                    "EFFI",
+                    "CA",
+                    "CY"
+                ]
+            },
+            {
+                "solution": "MINUSCULE",
+                "hint": "Extremely small",
+                "segments": [
+                    "MIN",
+                    "USC",
+                    "ULE"
+                ]
+            },
+            {
+                "solution": "VIGNETTE",
+                "hint": "Brief description",
+                "segments": [
+                    "VI",
+                    "GN",
+                    "ET",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "KITSCH",
+                "hint": "Tacky decorations",
+                "segments": [
+                    "KIT",
+                    "SCH"
+                ]
+            },
+            {
+                "solution": "AERIAL",
+                "hint": "Up in the air, high-flying",
+                "segments": [
+                    "AER",
+                    "IAL"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "USURPER",
+                "hint": "One who seizes power",
+                "segments": [
+                    "USU",
+                    "RPER"
+                ]
+            },
+            {
+                "solution": "VENOM",
+                "hint": "Snake's deadly weapon",
+                "segments": [
+                    "VEN",
+                    "OM"
+                ]
+            },
+            {
+                "solution": "VORTEX",
+                "hint": "Whirlpool's center",
+                "segments": [
+                    "VOR",
+                    "TEX"
+                ]
+            },
+            {
+                "solution": "DEFENESTRATE",
+                "hint": "Eject through a window",
+                "segments": [
+                    "DEF",
+                    "ENE",
+                    "STR",
+                    "ATE"
+                ]
+            },
+            {
+                "solution": "VISCERAL",
+                "hint": "Deep, instinctive feeling",
+                "segments": [
+                    "VI",
+                    "SC",
+                    "ER",
+                    "AL"
+                ]
+            },
+            {
+                "solution": "WAYWARD",
+                "hint": "Unpredictable behavior",
+                "segments": [
+                    "WAY",
+                    "WARD"
+                ]
+            },
+            {
+                "solution": "PUGILIST",
+                "hint": "Professional boxer",
+                "segments": [
+                    "PU",
+                    "GI",
+                    "LI",
+                    "ST"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "RECLUSE",
+                "hint": "Hermit by choice",
+                "segments": [
+                    "REC",
+                    "LUSE"
+                ]
+            },
+            {
+                "solution": "MISCHIEF",
+                "hint": "Playful trouble",
+                "segments": [
+                    "MI",
+                    "SC",
+                    "HI",
+                    "EF"
+                ]
+            },
+            {
+                "solution": "PEBBLE",
+                "hint": "Miniature rock",
+                "segments": [
+                    "PEB",
+                    "BLE"
+                ]
+            },
+            {
+                "solution": "ENUMERATE",
+                "hint": "List or count",
+                "segments": [
+                    "ENU",
+                    "MER",
+                    "ATE"
+                ]
+            },
+            {
+                "solution": "NIMBLE",
+                "hint": "Quick and agile",
+                "segments": [
+                    "NIM",
+                    "BLE"
+                ]
+            },
+            {
+                "solution": "VERDANT",
+                "hint": "Green with lush vegetation",
+                "segments": [
+                    "VER",
+                    "DANT"
+                ]
+            },
+            {
+                "solution": "LOQUACIOUS",
+                "hint": "Chatty",
+                "segments": [
+                    "LO",
+                    "QU",
+                    "AC",
+                    "IO",
+                    "US"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "CRUST",
+                "hint": "Pie's outer layer",
+                "segments": [
+                    "CRU",
+                    "ST"
+                ]
+            },
+            {
+                "solution": "MACABRE",
+                "hint": "Gruesome or ghastly",
+                "segments": [
+                    "MAC",
+                    "ABRE"
+                ]
+            },
+            {
+                "solution": "GRAVITAS",
+                "hint": "Serious dignity",
+                "segments": [
+                    "GRAV",
+                    "IT",
+                    "AS"
+                ]
+            },
+            {
+                "solution": "EXCERPT",
+                "hint": "Book's tasty morsel",
+                "segments": [
+                    "EXC",
+                    "ERPT"
+                ]
+            },
+            {
+                "solution": "GARGANTUAN",
+                "hint": "Enormous and immense",
+                "segments": [
+                    "GA",
+                    "RG",
+                    "AN",
+                    "TU",
+                    "AN"
+                ]
+            },
+            {
+                "solution": "UNDULATE",
+                "hint": "Move in a wavelike motion",
+                "segments": [
+                    "UN",
+                    "DU",
+                    "LA",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "LURCH",
+                "hint": "Sudden unsteady movement",
+                "segments": [
+                    "LUR",
+                    "CH"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "JANGLE",
+                "hint": "Keys' music",
+                "segments": [
+                    "JAN",
+                    "GLE"
+                ]
+            },
+            {
+                "solution": "ALTRUIST",
+                "hint": "Selfless helper",
+                "segments": [
+                    "AL",
+                    "TR",
+                    "UI",
+                    "ST"
+                ]
+            },
+            {
+                "solution": "GRIME",
+                "hint": "Stubborn dirt",
+                "segments": [
+                    "GR",
+                    "IME"
+                ]
+            },
+            {
+                "solution": "PUERILE",
+                "hint": "Childish, immature, or foolish",
+                "segments": [
+                    "PUE",
+                    "RILE"
+                ]
+            },
+            {
+                "solution": "TRUNCATE",
+                "hint": "Shorten or cut off",
+                "segments": [
+                    "TR",
+                    "UN",
+                    "CA",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "DESTITUTE",
+                "hint": "Poor or lacking",
+                "segments": [
+                    "DES",
+                    "TIT",
+                    "UTE"
+                ]
+            },
+            {
+                "solution": "TRINKET",
+                "hint": "Small ornament",
+                "segments": [
+                    "TR",
+                    "IN",
+                    "KET"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "WANE",
+                "hint": "Decrease in power or size",
+                "segments": [
+                    "WA",
+                    "NE"
+                ]
+            },
+            {
+                "solution": "MINSTREL",
+                "hint": "Medieval musician",
+                "segments": [
+                    "MINS",
+                    "TR",
+                    "EL"
+                ]
+            },
+            {
+                "solution": "MARMALADE",
+                "hint": "Paddington's favorite",
+                "segments": [
+                    "MAR",
+                    "MAL",
+                    "ADE"
+                ]
+            },
+            {
+                "solution": "VIVID",
+                "hint": "Lifelike imagery",
+                "segments": [
+                    "VI",
+                    "VID"
+                ]
+            },
+            {
+                "solution": "FINALE",
+                "hint": "Show-stopping conclusion",
+                "segments": [
+                    "FIN",
+                    "ALE"
+                ]
+            },
+            {
+                "solution": "INCANDESCENT",
+                "hint": "Glowing or shining",
+                "segments": [
+                    "INC",
+                    "AND",
+                    "ESC",
+                    "ENT"
+                ]
+            },
+            {
+                "solution": "RHAPSODY",
+                "hint": "Passionate expression",
+                "segments": [
+                    "RH",
+                    "AP",
+                    "SO",
+                    "DY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "BEDLAM",
+                "hint": "Noisy chaos",
+                "segments": [
+                    "BED",
+                    "LAM"
+                ]
+            },
+            {
+                "solution": "KERFUFFLE",
+                "hint": "Minor disturbance",
+                "segments": [
+                    "KER",
+                    "FUF",
+                    "FLE"
+                ]
+            },
+            {
+                "solution": "OSTENTATIOUS",
+                "hint": "Flashy and showy",
+                "segments": [
+                    "OST",
+                    "ENT",
+                    "ATI",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "CAPRICIOUS",
+                "hint": "Whimsically unpredictable",
+                "segments": [
+                    "CAPR",
+                    "ICIO",
+                    "US"
+                ]
+            },
+            {
+                "solution": "ALLEVIATE",
+                "hint": "Lessen or relieve",
+                "segments": [
+                    "ALL",
+                    "EVI",
+                    "ATE"
+                ]
+            },
+            {
+                "solution": "SKYLARKING",
+                "hint": "Playful frolicking or horseplay",
+                "segments": [
+                    "SKYL",
+                    "ARKI",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "UNFURL",
+                "hint": "Spread out",
+                "segments": [
+                    "UNF",
+                    "URL"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "PANDEMONIUM",
+                "hint": "Wild, chaotic uproar",
+                "segments": [
+                    "PAND",
+                    "EM",
+                    "ON",
+                    "IUM"
+                ]
+            },
+            {
+                "solution": "CONFLATE",
+                "hint": "Combine, merge, or fuse",
+                "segments": [
+                    "CONF",
+                    "LATE"
+                ]
+            },
+            {
+                "solution": "SIMULTANEOUS",
+                "hint": "Occurring at the same time",
+                "segments": [
+                    "SIM",
+                    "ULT",
+                    "ANE",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "ABACUS",
+                "hint": "Ancient calculating tool",
+                "segments": [
+                    "ABA",
+                    "CUS"
+                ]
+            },
+            {
+                "solution": "IMPROMPTU",
+                "hint": "Spontaneous, unplanned act",
+                "segments": [
+                    "IMP",
+                    "ROM",
+                    "PTU"
+                ]
+            },
+            {
+                "solution": "ELOQUENCE",
+                "hint": "Fluent, persuasive speaking",
+                "segments": [
+                    "ELO",
+                    "QUE",
+                    "NCE"
+                ]
+            },
+            {
+                "solution": "ECLECTIC",
+                "hint": "Diverse or varied",
+                "segments": [
+                    "ECLE",
+                    "CTIC"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "AFFABLE",
+                "hint": "Easy-going demeanor",
+                "segments": [
+                    "AF",
+                    "FA",
+                    "BLE"
+                ]
+            },
+            {
+                "solution": "VACILLATE",
+                "hint": "Waver between options",
+                "segments": [
+                    "VAC",
+                    "ILL",
+                    "ATE"
+                ]
+            },
+            {
+                "solution": "BIBLIOPHILE",
+                "hint": "Book lover's title",
+                "segments": [
+                    "BI",
+                    "BL",
+                    "IO",
+                    "PH",
+                    "ILE"
+                ]
+            },
+            {
+                "solution": "GOBBLE",
+                "hint": "Turkey chat",
+                "segments": [
+                    "GOB",
+                    "BLE"
+                ]
+            },
+            {
+                "solution": "ZONAL",
+                "hint": "Pertaining to a region",
+                "segments": [
+                    "ZO",
+                    "NAL"
+                ]
+            },
+            {
+                "solution": "YEOMAN",
+                "hint": "Loyal assistant",
+                "segments": [
+                    "YEO",
+                    "MAN"
+                ]
+            },
+            {
+                "solution": "TRAVESTY",
+                "hint": "Mockery or distortion",
+                "segments": [
+                    "TRAV",
+                    "ES",
+                    "TY"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "TROUPE",
+                "hint": "Performing ensemble",
+                "segments": [
+                    "TRO",
+                    "UPE"
+                ]
+            },
+            {
+                "solution": "DWINDLE",
+                "hint": "Gradually diminish",
+                "segments": [
+                    "DWIN",
+                    "DLE"
+                ]
+            },
+            {
+                "solution": "WAYFARER",
+                "hint": "Traveler or wanderer",
+                "segments": [
+                    "WAYF",
+                    "AR",
+                    "ER"
+                ]
+            },
+            {
+                "solution": "JITTERBUG",
+                "hint": "Energetic swing dance",
+                "segments": [
+                    "JIT",
+                    "TER",
+                    "BUG"
+                ]
+            },
+            {
+                "solution": "YORE",
+                "hint": "Days gone by",
+                "segments": [
+                    "YO",
+                    "RE"
+                ]
+            },
+            {
+                "solution": "PARAPHERNALIA",
+                "hint": "Assorted accessories",
+                "segments": [
+                    "PARA",
+                    "PH",
+                    "ER",
+                    "NA",
+                    "LIA"
+                ]
+            },
+            {
+                "solution": "PARAMOUR",
+                "hint": "Secret lover",
+                "segments": [
+                    "PARA",
+                    "MO",
+                    "UR"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "TETHER",
+                "hint": "Securing a balloon",
+                "segments": [
+                    "TET",
+                    "HER"
+                ]
+            },
+            {
+                "solution": "MORSEL",
+                "hint": "Tasty little bite",
+                "segments": [
+                    "MOR",
+                    "SEL"
+                ]
+            },
+            {
+                "solution": "RENDEZVOUS",
+                "hint": "Secret romantic meeting",
+                "segments": [
+                    "REND",
+                    "EZ",
+                    "VO",
+                    "US"
+                ]
+            },
+            {
+                "solution": "WRENCH",
+                "hint": "Handyman's twist",
+                "segments": [
+                    "WRE",
+                    "NCH"
+                ]
+            },
+            {
+                "solution": "TRANSLUCENT",
+                "hint": "Semi-transparent",
+                "segments": [
+                    "TRAN",
+                    "SL",
+                    "UC",
+                    "ENT"
+                ]
+            },
+            {
+                "solution": "INTRACTABLE",
+                "hint": "A stubborn problem",
+                "segments": [
+                    "INTR",
+                    "ACTA",
+                    "BLE"
+                ]
+            },
+            {
+                "solution": "GALVANIZE",
+                "hint": "Shock into action",
+                "segments": [
+                    "GAL",
+                    "VAN",
+                    "IZE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "EXQUISITE",
+                "hint": "Finely crafted elegance",
+                "segments": [
+                    "EXQ",
+                    "UIS",
+                    "ITE"
+                ]
+            },
+            {
+                "solution": "FETE",
+                "hint": "Elaborate celebration or party",
+                "segments": [
+                    "FE",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "DILAPIDATED",
+                "hint": "Falling apart",
+                "segments": [
+                    "DILA",
+                    "PI",
+                    "DA",
+                    "TED"
+                ]
+            },
+            {
+                "solution": "AMALGAMATE",
+                "hint": "Combine or unite",
+                "segments": [
+                    "AM",
+                    "AL",
+                    "GA",
+                    "MA",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "SMIRK",
+                "hint": "Conceited grin",
+                "segments": [
+                    "SM",
+                    "IRK"
+                ]
+            },
+            {
+                "solution": "ICONIC",
+                "hint": "Widely recognized",
+                "segments": [
+                    "ICO",
+                    "NIC"
+                ]
+            },
+            {
+                "solution": "CRUX",
+                "hint": "Essential point",
+                "segments": [
+                    "CR",
+                    "UX"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "GARRULOUS",
+                "hint": "Excessively talkative",
+                "segments": [
+                    "GAR",
+                    "RUL",
+                    "OUS"
+                ]
+            },
+            {
+                "solution": "AMELIORATE",
+                "hint": "Improve or enhance",
+                "segments": [
+                    "AMEL",
+                    "IO",
+                    "RA",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "FJORD",
+                "hint": "Norwegian coastal feature",
+                "segments": [
+                    "FJ",
+                    "ORD"
+                ]
+            },
+            {
+                "solution": "VENERATE",
+                "hint": "Reverence or respect",
+                "segments": [
+                    "VE",
+                    "NE",
+                    "RA",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "WOBBLE",
+                "hint": "Unsteady shake",
+                "segments": [
+                    "WOB",
+                    "BLE"
+                ]
+            },
+            {
+                "solution": "AESTHETE",
+                "hint": "Person with refined sensitivity to beauty",
+                "segments": [
+                    "AEST",
+                    "HE",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "BIVOUAC",
+                "hint": "Temporary outdoor encampment",
+                "segments": [
+                    "BIV",
+                    "OUAC"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "HAVEN",
+                "hint": "Safe refuge",
+                "segments": [
+                    "HA",
+                    "VEN"
+                ]
+            },
+            {
+                "solution": "LUMBERJACK",
+                "hint": "Logger or forest worker",
+                "segments": [
+                    "LU",
+                    "MB",
+                    "ER",
+                    "JA",
+                    "CK"
+                ]
+            },
+            {
+                "solution": "FLEECE",
+                "hint": "Pull the wool over",
+                "segments": [
+                    "FL",
+                    "EE",
+                    "CE"
+                ]
+            },
+            {
+                "solution": "NOSTRUM",
+                "hint": "Dubious remedy",
+                "segments": [
+                    "NOS",
+                    "TRUM"
+                ]
+            },
+            {
+                "solution": "ORBIT",
+                "hint": "Earth's path around the sun",
+                "segments": [
+                    "OR",
+                    "BIT"
+                ]
+            },
+            {
+                "solution": "BESMIRCH",
+                "hint": "Damage reputation, tarnish",
+                "segments": [
+                    "BE",
+                    "SM",
+                    "IR",
+                    "CH"
+                ]
+            },
+            {
+                "solution": "BUCOLIC",
+                "hint": "Countryside charm",
+                "segments": [
+                    "BUC",
+                    "OLIC"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "MINUTIAE",
+                "hint": "Tiny, trivial details",
+                "segments": [
+                    "MI",
+                    "NU",
+                    "TI",
+                    "AE"
+                ]
+            },
+            {
+                "solution": "PUGNACIOUS",
+                "hint": "Eager to fight, combative",
+                "segments": [
+                    "PU",
+                    "GN",
+                    "AC",
+                    "IO",
+                    "US"
+                ]
+            },
+            {
+                "solution": "YOKE",
+                "hint": "Uniting two together",
+                "segments": [
+                    "YO",
+                    "KE"
+                ]
+            },
+            {
+                "solution": "PERUSE",
+                "hint": "Examine thoroughly",
+                "segments": [
+                    "PER",
+                    "USE"
+                ]
+            },
+            {
+                "solution": "MOSAIC",
+                "hint": "Tile artwork",
+                "segments": [
+                    "MOS",
+                    "AIC"
+                ]
+            },
+            {
+                "solution": "UNSUNG",
+                "hint": "Not given credit",
+                "segments": [
+                    "UN",
+                    "SU",
+                    "NG"
+                ]
+            },
+            {
+                "solution": "HASTE",
+                "hint": "Speedy decision making",
+                "segments": [
+                    "HAS",
+                    "TE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "QUOTIDIAN",
+                "hint": "Everyday or ordinary",
+                "segments": [
+                    "QUO",
+                    "TID",
+                    "IAN"
+                ]
+            },
+            {
+                "solution": "JIBE",
+                "hint": "Agree, be in harmony",
+                "segments": [
+                    "JI",
+                    "BE"
+                ]
+            },
+            {
+                "solution": "VERACITY",
+                "hint": "Truthfulness or accuracy",
+                "segments": [
+                    "VERA",
+                    "CI",
+                    "TY"
+                ]
+            },
+            {
+                "solution": "SUSURRUS",
+                "hint": "Soft, whispering sound",
+                "segments": [
+                    "SUSU",
+                    "RRUS"
+                ]
+            },
+            {
+                "solution": "BEACON",
+                "hint": "Lighthouse's guiding light",
+                "segments": [
+                    "BEA",
+                    "CON"
+                ]
+            },
+            {
+                "solution": "TRANQUILITY",
+                "hint": "Calm, peaceful state",
+                "segments": [
+                    "TRA",
+                    "NQU",
+                    "ILI",
+                    "TY"
+                ]
+            },
+            {
+                "solution": "PULCHRITUDE",
+                "hint": "Physical beauty",
+                "segments": [
+                    "PUL",
+                    "CHR",
+                    "ITU",
+                    "DE"
+                ]
+            }
+        ],
+        [
+            {
+                "solution": "NEOPHYTE",
+                "hint": "Greenhorn or newcomer",
+                "segments": [
+                    "NE",
+                    "OP",
+                    "HY",
+                    "TE"
+                ]
+            },
+            {
+                "solution": "WHITTLE",
+                "hint": "Carve away wood",
+                "segments": [
+                    "WH",
+                    "IT",
+                    "TLE"
+                ]
+            },
+            {
+                "solution": "SQUELCH",
+                "hint": "Squishing through mud",
+                "segments": [
+                    "SQUE",
+                    "LCH"
+                ]
+            },
+            {
+                "solution": "PERCUSSION",
+                "hint": "Drumming sounds",
+                "segments": [
+                    "PERC",
+                    "USSI",
+                    "ON"
+                ]
+            },
+            {
+                "solution": "UNZIP",
+                "hint": "Free the contents",
+                "segments": [
+                    "UN",
+                    "ZIP"
+                ]
+            },
+            {
+                "solution": "SNICKER",
+                "hint": "Quiet, mocking laugh",
+                "segments": [
+                    "SNI",
+                    "CKER"
+                ]
+            },
+            {
+                "solution": "ANACHRONISM",
+                "hint": "Something out of its proper time",
+                "segments": [
+                    "ANAC",
+                    "HR",
+                    "ON",
+                    "ISM"
+                ]
+            }
+        ]
+    ]
+}
